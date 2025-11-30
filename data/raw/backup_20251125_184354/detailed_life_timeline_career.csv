@@ -1,0 +1,1115 @@
+athlete_id,event_id,year,event_type,event_description,location,impact_level,resilience_demonstrated
+ATH_001,EVT_001_01,1980,Injury,Completed Ironman,Stockholm,Medium,High
+ATH_001,EVT_001_02,2023,Marriage,Completed Ironman,Sweden,Life-Changing,High
+ATH_001,EVT_001_03,2006,Pandemic Impact,Started athletic training,Lund,Life-Changing,Exceptional
+ATH_001,EVT_001_04,1998,Job Loss,Second child born,Stockholm,Life-Changing,Exceptional
+ATH_001,EVT_001_05,1968,Athletic Achievement,Promoted to management,Lund,Life-Changing,Low
+ATH_001,EVT_001_06,1963,Moving,COVID-19 disruption,Sweden,Low,Medium
+ATH_001,EVT_001_07,1965,Promotion,Started consulting business,Malmö,High,Low
+ATH_001,EVT_001_08,2012,Birth,Left CEO role,Stockholm,Life-Changing,Exceptional
+ATH_001,EVT_001_09,1970,Pandemic Impact,Had major injury,Uppsala,Low,Exceptional
+ATH_001,EVT_001_10,1998,Birth,Started athletic training,Gothenburg,Life-Changing,Exceptional
+ATH_001,EVT_001_11,2007,Career Start,Career recession impact,Jönköping,Medium,Medium
+ATH_001,EVT_001_12,1978,Divorce,Graduated from school,Stockholm,Life-Changing,Exceptional
+ATH_001,EVT_001_13,2021,Promotion,Father passed away,Eringsboda,High,Low
+ATH_001,EVT_001_14,1964,Divorce,Second child born,Gothenburg,Medium,Medium
+ATH_001,EVT_001_15,1999,Promotion,Career recession impact,Gothenburg,Low,Exceptional
+ATH_001,EVT_001_16,2005,Moving,Promoted to management,Gothenburg,High,Low
+ATH_001,EVT_001_17,1987,Career Start,Started new job,Stockholm,Medium,Low
+ATH_001,EVT_001_18,1969,Divorce,Got married,Jönköping,High,High
+ATH_001,EVT_001_19,1980,Pandemic Impact,Career recession impact,Stockholm,Medium,Low
+ATH_001,EVT_001_20,1999,Pandemic Impact,Had major injury,Eringsboda,Life-Changing,Medium
+ATH_001,EVT_001_21,2013,Divorce,First child born,Malmö,Life-Changing,High
+ATH_001,EVT_001_22,1972,Moving,Started athletic training,Gothenburg,Life-Changing,Medium
+ATH_001,EVT_001_23,1981,Divorce,Left CEO role,Stockholm,Low,Exceptional
+ATH_001,EVT_001_24,1962,Promotion,COVID-19 disruption,Sweden,Low,Low
+ATH_001,EVT_001_25,1995,Moving,Left CEO role,Stockholm,High,Low
+ATH_001,EVT_001_26,1960,Pandemic Impact,Moved to new city,Jönköping,High,Exceptional
+ATH_001,EVT_001_27,2002,Injury,Promoted to management,Lund,Medium,Medium
+ATH_001,EVT_001_28,2019,Recovery,COVID-19 disruption,Jönköping,Medium,High
+ATH_001,EVT_001_29,2006,Recovery,Started new job,Gothenburg,Low,Exceptional
+ATH_002,EVT_002_01,2023,Career Transition,Career recession impact,Eringsboda,Low,Medium
+ATH_002,EVT_002_02,2021,Athletic Achievement,Moved to new city,Stockholm,Medium,Exceptional
+ATH_002,EVT_002_03,1970,Moving,COVID-19 disruption,Gothenburg,High,Medium
+ATH_002,EVT_002_04,1972,Job Loss,Second child born,Lund,Low,Low
+ATH_002,EVT_002_05,2011,Education,Got married,Sweden,Medium,Medium
+ATH_002,EVT_002_06,1997,Injury,COVID-19 disruption,Sweden,Medium,Low
+ATH_002,EVT_002_07,1975,Career Start,Completed Ironman,Gothenburg,Low,Low
+ATH_002,EVT_002_08,1988,Career Start,Promoted to management,Lund,Low,Low
+ATH_002,EVT_002_09,1993,Moving,Got married,Stockholm,Medium,Medium
+ATH_002,EVT_002_10,2011,Career Start,Graduated from school,Stockholm,Life-Changing,Low
+ATH_002,EVT_002_11,2004,Job Loss,First child born,Gothenburg,Medium,Low
+ATH_002,EVT_002_12,2018,Moving,COVID-19 disruption,Eringsboda,High,Medium
+ATH_002,EVT_002_13,1997,Child Birth,Completed Ironman,Mora,Life-Changing,High
+ATH_002,EVT_002_14,1988,Recovery,Started consulting business,Lund,Life-Changing,Exceptional
+ATH_002,EVT_002_15,1996,Moving,First child born,Stockholm,Low,Exceptional
+ATH_002,EVT_002_16,1967,Family Loss,Started athletic training,Lund,High,High
+ATH_002,EVT_002_17,2006,Promotion,Career recession impact,Malmö,Medium,Low
+ATH_002,EVT_002_18,1974,Education,Started new job,Malmö,Life-Changing,High
+ATH_002,EVT_002_19,2024,Pandemic Impact,Got married,Eringsboda,Low,High
+ATH_002,EVT_002_20,2011,Marriage,Left CEO role,Lund,High,Medium
+ATH_002,EVT_002_21,1964,Family Loss,Career recession impact,Eringsboda,High,High
+ATH_003,EVT_003_01,1965,Injury,Had major injury,Gothenburg,Medium,Exceptional
+ATH_003,EVT_003_02,1984,Education,Promoted to management,Gothenburg,High,Medium
+ATH_003,EVT_003_03,2023,Job Loss,Had major injury,Stockholm,Low,Exceptional
+ATH_003,EVT_003_04,1990,Promotion,Promoted to management,Mora,Medium,High
+ATH_003,EVT_003_05,1996,Job Loss,Started new job,Jönköping,High,Medium
+ATH_003,EVT_003_06,2007,Recovery,Started athletic training,Mora,Low,Medium
+ATH_003,EVT_003_07,1981,Career Transition,Started new job,Sweden,Low,Exceptional
+ATH_003,EVT_003_08,1994,Moving,Career recession impact,Mora,Medium,Low
+ATH_003,EVT_003_09,2007,Job Loss,Graduated from school,Jönköping,Low,High
+ATH_003,EVT_003_10,2017,Recovery,Moved to new city,Jönköping,Low,High
+ATH_003,EVT_003_11,1962,Promotion,Left CEO role,Stockholm,High,Medium
+ATH_003,EVT_003_12,1962,Athletic Achievement,Career recession impact,Mora,High,Low
+ATH_003,EVT_003_13,2012,Promotion,Graduated from school,Jönköping,Life-Changing,Low
+ATH_003,EVT_003_14,1963,Divorce,Father passed away,Jönköping,Life-Changing,High
+ATH_003,EVT_003_15,2017,Job Loss,Started athletic training,Uppsala,High,High
+ATH_003,EVT_003_16,2002,Promotion,Started new job,Sweden,Life-Changing,Medium
+ATH_003,EVT_003_17,2022,Birth,Father passed away,Stockholm,Life-Changing,Medium
+ATH_003,EVT_003_18,1976,Moving,Promoted to management,Jönköping,Life-Changing,High
+ATH_003,EVT_003_19,1989,Career Start,Left CEO role,Sweden,High,Low
+ATH_003,EVT_003_20,1999,Pandemic Impact,Started consulting business,Eringsboda,Life-Changing,Medium
+ATH_004,EVT_004_01,1981,Family Loss,Second child born,Jönköping,High,Exceptional
+ATH_004,EVT_004_02,1980,Divorce,Graduated from school,Jönköping,Medium,Medium
+ATH_004,EVT_004_03,1989,Family Loss,First child born,Uppsala,Low,High
+ATH_004,EVT_004_04,1984,Child Birth,Promoted to management,Gothenburg,Low,High
+ATH_004,EVT_004_05,1999,Marriage,COVID-19 disruption,Eringsboda,Medium,High
+ATH_004,EVT_004_06,2023,Promotion,First child born,Uppsala,Medium,Exceptional
+ATH_004,EVT_004_07,1992,Injury,Moved to new city,Uppsala,High,Exceptional
+ATH_004,EVT_004_08,1974,Job Loss,Started athletic training,Malmö,Life-Changing,Medium
+ATH_004,EVT_004_09,2008,Birth,Started consulting business,Sweden,Life-Changing,Low
+ATH_004,EVT_004_10,2004,Birth,Got married,Sweden,High,Low
+ATH_004,EVT_004_11,2022,Moving,Promoted to management,Lund,High,Medium
+ATH_004,EVT_004_12,2002,Divorce,Had major injury,Gothenburg,High,Low
+ATH_004,EVT_004_13,1986,Athletic Achievement,Had major injury,Lund,Medium,Low
+ATH_004,EVT_004_14,1980,Moving,Got married,Lund,Low,Medium
+ATH_004,EVT_004_15,2022,Education,First child born,Gothenburg,High,Exceptional
+ATH_004,EVT_004_16,1977,Career Start,Moved to new city,Eringsboda,Low,Exceptional
+ATH_004,EVT_004_17,1996,Marriage,Started new job,Malmö,Medium,Exceptional
+ATH_004,EVT_004_18,1986,Marriage,Started new job,Jönköping,Medium,Medium
+ATH_004,EVT_004_19,2006,Injury,Graduated from school,Stockholm,Medium,Low
+ATH_004,EVT_004_20,1997,Injury,COVID-19 disruption,Gothenburg,Life-Changing,Exceptional
+ATH_004,EVT_004_21,1990,Education,Father passed away,Eringsboda,Low,Exceptional
+ATH_004,EVT_004_22,1990,Marriage,Started consulting business,Eringsboda,Medium,Exceptional
+ATH_004,EVT_004_23,1982,Job Loss,First child born,Malmö,High,Medium
+ATH_004,EVT_004_24,1985,Divorce,Promoted to management,Malmö,Low,High
+ATH_004,EVT_004_25,2009,Injury,Completed Ironman,Jönköping,High,High
+ATH_004,EVT_004_26,1974,Family Loss,Graduated from school,Mora,Life-Changing,Medium
+ATH_004,EVT_004_27,1981,Family Loss,Started new job,Gothenburg,High,Medium
+ATH_004,EVT_004_28,1966,Education,Career recession impact,Jönköping,Low,High
+ATH_005,EVT_005_01,1971,Family Loss,Started consulting business,Eringsboda,Medium,High
+ATH_005,EVT_005_02,2000,Career Start,Graduated from school,Sweden,High,Medium
+ATH_005,EVT_005_03,2020,Recovery,Started consulting business,Malmö,Low,Low
+ATH_005,EVT_005_04,2002,Divorce,Graduated from school,Malmö,Medium,Low
+ATH_005,EVT_005_05,1979,Athletic Achievement,Got married,Uppsala,Life-Changing,Medium
+ATH_005,EVT_005_06,1963,Injury,Second child born,Sweden,Low,High
+ATH_005,EVT_005_07,1987,Injury,First child born,Stockholm,Low,Medium
+ATH_005,EVT_005_08,1973,Athletic Achievement,COVID-19 disruption,Sweden,Medium,Low
+ATH_005,EVT_005_09,2020,Promotion,Completed Ironman,Malmö,Medium,High
+ATH_005,EVT_005_10,1969,Divorce,Had major injury,Gothenburg,High,Exceptional
+ATH_005,EVT_005_11,2007,Child Birth,Left CEO role,Uppsala,Low,Low
+ATH_005,EVT_005_12,1971,Athletic Achievement,Graduated from school,Sweden,Medium,Low
+ATH_005,EVT_005_13,2013,Promotion,Second child born,Stockholm,Life-Changing,Medium
+ATH_005,EVT_005_14,2005,Marriage,Got married,Uppsala,Life-Changing,High
+ATH_005,EVT_005_15,1965,Marriage,Graduated from school,Eringsboda,Low,Medium
+ATH_005,EVT_005_16,1987,Job Loss,Promoted to management,Mora,Low,Exceptional
+ATH_005,EVT_005_17,2019,Recovery,First child born,Stockholm,Low,Exceptional
+ATH_005,EVT_005_18,1990,Career Transition,Had major injury,Sweden,Life-Changing,Exceptional
+ATH_005,EVT_005_19,1970,Career Transition,Career recession impact,Mora,Life-Changing,Low
+ATH_005,EVT_005_20,2012,Injury,Left CEO role,Uppsala,Low,Exceptional
+ATH_005,EVT_005_21,1991,Injury,Completed Ironman,Gothenburg,Life-Changing,Exceptional
+ATH_005,EVT_005_22,2019,Child Birth,Second child born,Uppsala,Medium,Medium
+ATH_005,EVT_005_23,1966,Career Start,Got married,Gothenburg,Life-Changing,Medium
+ATH_005,EVT_005_24,1971,Injury,Started athletic training,Lund,Medium,High
+ATH_006,EVT_006_01,1980,Job Loss,Started athletic training,Jönköping,Low,Medium
+ATH_006,EVT_006_02,1977,Career Start,Graduated from school,Sweden,Medium,Low
+ATH_006,EVT_006_03,1991,Child Birth,Second child born,Lund,Low,High
+ATH_006,EVT_006_04,2019,Education,Moved to new city,Eringsboda,Low,Medium
+ATH_006,EVT_006_05,2000,Divorce,Graduated from school,Jönköping,Low,Exceptional
+ATH_006,EVT_006_06,2006,Birth,Started athletic training,Stockholm,Life-Changing,Medium
+ATH_006,EVT_006_07,1998,Marriage,Moved to new city,Lund,Medium,High
+ATH_006,EVT_006_08,2004,Career Transition,Got married,Malmö,Low,Low
+ATH_006,EVT_006_09,2005,Child Birth,Moved to new city,Malmö,High,High
+ATH_006,EVT_006_10,1976,Recovery,First child born,Eringsboda,Low,Exceptional
+ATH_006,EVT_006_11,1973,Athletic Achievement,Started consulting business,Mora,Life-Changing,Medium
+ATH_006,EVT_006_12,1984,Injury,Second child born,Eringsboda,Low,High
+ATH_006,EVT_006_13,1981,Injury,COVID-19 disruption,Lund,Medium,Exceptional
+ATH_006,EVT_006_14,1985,Marriage,Started consulting business,Stockholm,Low,Medium
+ATH_006,EVT_006_15,1987,Injury,Started new job,Mora,High,Low
+ATH_006,EVT_006_16,2015,Birth,Second child born,Lund,High,High
+ATH_007,EVT_007_01,1972,Career Start,Career recession impact,Sweden,High,High
+ATH_007,EVT_007_02,1975,Job Loss,Left CEO role,Lund,High,Exceptional
+ATH_007,EVT_007_03,2007,Birth,Graduated from school,Gothenburg,High,Low
+ATH_007,EVT_007_04,2012,Pandemic Impact,Got married,Sweden,Low,Low
+ATH_007,EVT_007_05,1974,Recovery,Had major injury,Lund,Medium,High
+ATH_007,EVT_007_06,1975,Career Start,Career recession impact,Malmö,Medium,Exceptional
+ATH_007,EVT_007_07,1960,Athletic Achievement,Got married,Uppsala,Medium,Medium
+ATH_007,EVT_007_08,1996,Job Loss,COVID-19 disruption,Uppsala,Medium,Low
+ATH_007,EVT_007_09,2015,Birth,Second child born,Malmö,Medium,Medium
+ATH_007,EVT_007_10,1979,Job Loss,Started new job,Sweden,High,Exceptional
+ATH_007,EVT_007_11,1977,Promotion,Started athletic training,Gothenburg,Low,Low
+ATH_007,EVT_007_12,2015,Recovery,Started new job,Jönköping,Low,Exceptional
+ATH_007,EVT_007_13,1964,Career Start,Completed Ironman,Mora,Medium,Exceptional
+ATH_007,EVT_007_14,1976,Career Start,First child born,Gothenburg,Life-Changing,High
+ATH_007,EVT_007_15,2018,Marriage,Promoted to management,Gothenburg,Medium,Low
+ATH_007,EVT_007_16,1986,Birth,Had major injury,Uppsala,Life-Changing,Exceptional
+ATH_007,EVT_007_17,2018,Career Transition,Moved to new city,Gothenburg,High,Low
+ATH_007,EVT_007_18,2006,Divorce,Moved to new city,Malmö,Life-Changing,High
+ATH_007,EVT_007_19,2000,Career Transition,Had major injury,Mora,High,Exceptional
+ATH_007,EVT_007_20,1974,Child Birth,Graduated from school,Sweden,Medium,Low
+ATH_007,EVT_007_21,1970,Divorce,Started athletic training,Uppsala,High,High
+ATH_007,EVT_007_22,1963,Career Transition,Started athletic training,Lund,Low,Exceptional
+ATH_007,EVT_007_23,1973,Divorce,First child born,Stockholm,Low,Low
+ATH_007,EVT_007_24,2017,Athletic Achievement,Got married,Lund,Low,Medium
+ATH_007,EVT_007_25,2001,Moving,Completed Ironman,Lund,Low,High
+ATH_007,EVT_007_26,1980,Birth,Father passed away,Uppsala,Low,Low
+ATH_007,EVT_007_27,2011,Job Loss,Father passed away,Malmö,Life-Changing,Medium
+ATH_008,EVT_008_01,1994,Career Start,Completed Ironman,Mora,Life-Changing,Exceptional
+ATH_008,EVT_008_02,1993,Promotion,Left CEO role,Mora,Medium,Medium
+ATH_008,EVT_008_03,1997,Birth,Started consulting business,Mora,Low,Low
+ATH_008,EVT_008_04,1974,Career Start,COVID-19 disruption,Malmö,Medium,Medium
+ATH_008,EVT_008_05,1996,Recovery,Started consulting business,Gothenburg,Life-Changing,Medium
+ATH_008,EVT_008_06,1977,Pandemic Impact,Moved to new city,Sweden,Medium,Low
+ATH_008,EVT_008_07,1975,Recovery,Had major injury,Mora,High,Low
+ATH_008,EVT_008_08,2019,Marriage,Completed Ironman,Stockholm,High,High
+ATH_008,EVT_008_09,1990,Injury,Father passed away,Malmö,Low,Low
+ATH_008,EVT_008_10,1992,Recovery,Moved to new city,Eringsboda,Life-Changing,Medium
+ATH_008,EVT_008_11,2002,Career Transition,Moved to new city,Mora,Low,Low
+ATH_008,EVT_008_12,1964,Pandemic Impact,Started consulting business,Stockholm,Medium,Exceptional
+ATH_008,EVT_008_13,2009,Career Transition,Started consulting business,Uppsala,Life-Changing,Medium
+ATH_008,EVT_008_14,1987,Pandemic Impact,Career recession impact,Gothenburg,Medium,Low
+ATH_008,EVT_008_15,1996,Career Transition,Father passed away,Malmö,Low,Exceptional
+ATH_008,EVT_008_16,1989,Moving,Completed Ironman,Uppsala,High,Low
+ATH_008,EVT_008_17,1974,Career Start,Moved to new city,Sweden,Medium,Medium
+ATH_008,EVT_008_18,1967,Moving,Started new job,Uppsala,High,Low
+ATH_008,EVT_008_19,2001,Education,Promoted to management,Gothenburg,Medium,Low
+ATH_008,EVT_008_20,2008,Divorce,Moved to new city,Lund,Medium,Low
+ATH_008,EVT_008_21,1993,Job Loss,Completed Ironman,Eringsboda,Medium,Exceptional
+ATH_008,EVT_008_22,2007,Family Loss,Started athletic training,Lund,High,Low
+ATH_008,EVT_008_23,2019,Career Transition,COVID-19 disruption,Malmö,Medium,High
+ATH_008,EVT_008_24,1994,Pandemic Impact,Started consulting business,Mora,Medium,Exceptional
+ATH_009,EVT_009_01,1988,Pandemic Impact,Graduated from school,Mora,Low,Exceptional
+ATH_009,EVT_009_02,2010,Pandemic Impact,Started consulting business,Uppsala,Medium,Low
+ATH_009,EVT_009_03,1987,Divorce,Second child born,Lund,Low,High
+ATH_009,EVT_009_04,2021,Birth,Started consulting business,Malmö,Life-Changing,Medium
+ATH_009,EVT_009_05,1998,Injury,Completed Ironman,Stockholm,Medium,High
+ATH_009,EVT_009_06,2008,Education,First child born,Gothenburg,Low,Low
+ATH_009,EVT_009_07,1969,Pandemic Impact,Moved to new city,Mora,Life-Changing,Low
+ATH_009,EVT_009_08,1969,Education,Second child born,Lund,Medium,Low
+ATH_009,EVT_009_09,2013,Divorce,Started athletic training,Stockholm,Low,Low
+ATH_009,EVT_009_10,1970,Career Start,Second child born,Malmö,Low,Medium
+ATH_009,EVT_009_11,1972,Birth,Promoted to management,Mora,Life-Changing,High
+ATH_009,EVT_009_12,2001,Divorce,Started athletic training,Jönköping,High,High
+ATH_009,EVT_009_13,1960,Injury,Career recession impact,Malmö,Medium,High
+ATH_009,EVT_009_14,2014,Child Birth,Started athletic training,Stockholm,Medium,Exceptional
+ATH_009,EVT_009_15,2002,Child Birth,Moved to new city,Gothenburg,Low,Low
+ATH_009,EVT_009_16,1971,Injury,Second child born,Malmö,High,High
+ATH_009,EVT_009_17,2013,Job Loss,Left CEO role,Lund,Medium,Low
+ATH_009,EVT_009_18,1978,Pandemic Impact,Career recession impact,Uppsala,Medium,Medium
+ATH_009,EVT_009_19,2017,Moving,Started new job,Jönköping,Low,Medium
+ATH_009,EVT_009_20,2005,Promotion,Completed Ironman,Uppsala,Low,High
+ATH_009,EVT_009_21,2020,Injury,Father passed away,Lund,High,High
+ATH_009,EVT_009_22,2008,Birth,Promoted to management,Gothenburg,Low,Exceptional
+ATH_009,EVT_009_23,2013,Divorce,First child born,Malmö,Medium,Medium
+ATH_010,EVT_010_01,1967,Birth,Started consulting business,Gothenburg,High,Low
+ATH_010,EVT_010_02,1993,Pandemic Impact,Started new job,Jönköping,Medium,Medium
+ATH_010,EVT_010_03,1967,Child Birth,Career recession impact,Stockholm,Low,Low
+ATH_010,EVT_010_04,1990,Family Loss,Moved to new city,Mora,Low,Low
+ATH_010,EVT_010_05,2021,Job Loss,First child born,Gothenburg,High,Medium
+ATH_010,EVT_010_06,2023,Family Loss,COVID-19 disruption,Stockholm,Low,Medium
+ATH_010,EVT_010_07,2021,Education,Started consulting business,Eringsboda,Low,Medium
+ATH_010,EVT_010_08,1986,Athletic Achievement,Second child born,Jönköping,Low,Exceptional
+ATH_010,EVT_010_09,2020,Promotion,First child born,Uppsala,Medium,Exceptional
+ATH_010,EVT_010_10,2011,Family Loss,Second child born,Sweden,Low,High
+ATH_010,EVT_010_11,2004,Career Transition,Second child born,Uppsala,Medium,Exceptional
+ATH_010,EVT_010_12,2008,Education,Completed Ironman,Gothenburg,Medium,Medium
+ATH_010,EVT_010_13,2022,Moving,Completed Ironman,Sweden,Low,Exceptional
+ATH_010,EVT_010_14,2024,Family Loss,Career recession impact,Sweden,Life-Changing,Exceptional
+ATH_010,EVT_010_15,1993,Education,Left CEO role,Eringsboda,Life-Changing,Exceptional
+ATH_010,EVT_010_16,2021,Promotion,Second child born,Eringsboda,High,Low
+ATH_010,EVT_010_17,1987,Promotion,Left CEO role,Sweden,High,High
+ATH_010,EVT_010_18,2004,Injury,Started new job,Jönköping,High,High
+ATH_010,EVT_010_19,2013,Marriage,Started new job,Jönköping,Life-Changing,Low
+ATH_010,EVT_010_20,1998,Divorce,COVID-19 disruption,Eringsboda,High,Medium
+ATH_010,EVT_010_21,1961,Child Birth,Promoted to management,Gothenburg,Medium,Medium
+ATH_010,EVT_010_22,2004,Family Loss,Promoted to management,Eringsboda,High,Low
+ATH_010,EVT_010_23,2011,Athletic Achievement,First child born,Jönköping,Life-Changing,Exceptional
+ATH_010,EVT_010_24,1969,Career Start,Started athletic training,Malmö,Life-Changing,Low
+ATH_010,EVT_010_25,1978,Career Transition,COVID-19 disruption,Gothenburg,High,High
+ATH_010,EVT_010_26,1990,Career Start,Moved to new city,Mora,High,Low
+ATH_010,EVT_010_27,1998,Moving,First child born,Mora,Low,Medium
+ATH_010,EVT_010_28,2001,Injury,Started new job,Jönköping,High,High
+ATH_010,EVT_010_29,2006,Career Start,Career recession impact,Stockholm,High,Exceptional
+ATH_011,EVT_011_01,1985,Moving,Started athletic training,Uppsala,Life-Changing,Medium
+ATH_011,EVT_011_02,2011,Recovery,Career recession impact,Eringsboda,Low,High
+ATH_011,EVT_011_03,2009,Recovery,Graduated from school,Gothenburg,Life-Changing,High
+ATH_011,EVT_011_04,1982,Birth,Left CEO role,Stockholm,Medium,Medium
+ATH_011,EVT_011_05,1979,Family Loss,Started consulting business,Mora,Low,Exceptional
+ATH_011,EVT_011_06,1972,Pandemic Impact,COVID-19 disruption,Mora,Life-Changing,Medium
+ATH_011,EVT_011_07,1992,Child Birth,Second child born,Malmö,Low,High
+ATH_011,EVT_011_08,2018,Child Birth,Second child born,Eringsboda,Medium,Low
+ATH_011,EVT_011_09,1981,Birth,Started new job,Sweden,High,Medium
+ATH_011,EVT_011_10,1984,Family Loss,Started consulting business,Malmö,High,Low
+ATH_011,EVT_011_11,1969,Education,Career recession impact,Stockholm,Low,Low
+ATH_011,EVT_011_12,2017,Pandemic Impact,Left CEO role,Uppsala,Low,High
+ATH_011,EVT_011_13,1963,Athletic Achievement,Graduated from school,Lund,Life-Changing,Medium
+ATH_011,EVT_011_14,2014,Birth,Got married,Stockholm,Low,Exceptional
+ATH_011,EVT_011_15,2017,Career Transition,Career recession impact,Eringsboda,Low,Low
+ATH_011,EVT_011_16,1985,Birth,First child born,Eringsboda,Low,Exceptional
+ATH_011,EVT_011_17,1985,Career Transition,Had major injury,Malmö,Low,Exceptional
+ATH_011,EVT_011_18,2020,Career Start,Career recession impact,Uppsala,Life-Changing,High
+ATH_011,EVT_011_19,1963,Education,Moved to new city,Uppsala,Life-Changing,Exceptional
+ATH_012,EVT_012_01,2021,Recovery,Second child born,Lund,Low,Medium
+ATH_012,EVT_012_02,1995,Education,Got married,Gothenburg,High,Medium
+ATH_012,EVT_012_03,2024,Child Birth,Completed Ironman,Eringsboda,Medium,Low
+ATH_012,EVT_012_04,1995,Job Loss,Started athletic training,Gothenburg,Low,Medium
+ATH_012,EVT_012_05,2010,Athletic Achievement,Left CEO role,Mora,High,Exceptional
+ATH_012,EVT_012_06,2015,Birth,COVID-19 disruption,Sweden,Life-Changing,Medium
+ATH_012,EVT_012_07,1979,Family Loss,COVID-19 disruption,Uppsala,High,Medium
+ATH_012,EVT_012_08,2007,Athletic Achievement,COVID-19 disruption,Stockholm,High,High
+ATH_012,EVT_012_09,1970,Promotion,COVID-19 disruption,Malmö,Low,High
+ATH_012,EVT_012_10,1967,Pandemic Impact,Got married,Uppsala,Medium,Medium
+ATH_012,EVT_012_11,1978,Marriage,Completed Ironman,Jönköping,Low,Medium
+ATH_012,EVT_012_12,1965,Moving,Started new job,Uppsala,Life-Changing,Low
+ATH_012,EVT_012_13,1984,Divorce,Started athletic training,Mora,High,Exceptional
+ATH_012,EVT_012_14,1980,Injury,Promoted to management,Lund,Medium,High
+ATH_012,EVT_012_15,1972,Divorce,Second child born,Stockholm,High,Exceptional
+ATH_012,EVT_012_16,2016,Marriage,Completed Ironman,Lund,Medium,Low
+ATH_012,EVT_012_17,1982,Recovery,COVID-19 disruption,Sweden,Life-Changing,Medium
+ATH_012,EVT_012_18,2017,Marriage,Career recession impact,Uppsala,Low,Exceptional
+ATH_012,EVT_012_19,2000,Promotion,Had major injury,Malmö,High,Exceptional
+ATH_012,EVT_012_20,1971,Divorce,Career recession impact,Eringsboda,High,Low
+ATH_012,EVT_012_21,1962,Pandemic Impact,Had major injury,Lund,Life-Changing,Medium
+ATH_012,EVT_012_22,2001,Child Birth,Had major injury,Mora,Low,Exceptional
+ATH_012,EVT_012_23,2013,Marriage,Completed Ironman,Jönköping,Medium,Low
+ATH_012,EVT_012_24,2024,Recovery,First child born,Mora,Low,Exceptional
+ATH_012,EVT_012_25,2019,Promotion,Career recession impact,Sweden,Low,High
+ATH_013,EVT_013_01,1987,Marriage,Graduated from school,Stockholm,Low,Medium
+ATH_013,EVT_013_02,1992,Family Loss,First child born,Lund,Low,High
+ATH_013,EVT_013_03,1998,Moving,Promoted to management,Gothenburg,Life-Changing,High
+ATH_013,EVT_013_04,1988,Marriage,Had major injury,Mora,Low,Low
+ATH_013,EVT_013_05,1964,Pandemic Impact,Started athletic training,Mora,Low,High
+ATH_013,EVT_013_06,1993,Divorce,Second child born,Sweden,Life-Changing,High
+ATH_013,EVT_013_07,1983,Education,Second child born,Gothenburg,Medium,Exceptional
+ATH_013,EVT_013_08,1963,Recovery,First child born,Eringsboda,Life-Changing,Medium
+ATH_013,EVT_013_09,2017,Pandemic Impact,Left CEO role,Stockholm,Low,Medium
+ATH_013,EVT_013_10,2013,Injury,Got married,Malmö,Medium,Medium
+ATH_013,EVT_013_11,1963,Moving,Left CEO role,Gothenburg,High,Exceptional
+ATH_013,EVT_013_12,1998,Career Start,Career recession impact,Uppsala,High,Exceptional
+ATH_013,EVT_013_13,1991,Recovery,COVID-19 disruption,Uppsala,High,High
+ATH_013,EVT_013_14,2006,Recovery,Started consulting business,Jönköping,Life-Changing,High
+ATH_013,EVT_013_15,2021,Injury,Father passed away,Malmö,Life-Changing,Exceptional
+ATH_013,EVT_013_16,1977,Moving,Got married,Lund,Low,High
+ATH_013,EVT_013_17,1966,Injury,Father passed away,Lund,High,Medium
+ATH_013,EVT_013_18,1978,Career Start,Left CEO role,Stockholm,High,High
+ATH_013,EVT_013_19,1977,Athletic Achievement,Completed Ironman,Sweden,Low,Exceptional
+ATH_013,EVT_013_20,1993,Birth,Left CEO role,Uppsala,High,Medium
+ATH_013,EVT_013_21,1995,Moving,Started athletic training,Malmö,High,High
+ATH_014,EVT_014_01,1972,Recovery,Started new job,Malmö,Low,Medium
+ATH_014,EVT_014_02,1972,Athletic Achievement,Started athletic training,Sweden,Low,High
+ATH_014,EVT_014_03,1963,Career Transition,Second child born,Sweden,High,Medium
+ATH_014,EVT_014_04,1975,Marriage,Started athletic training,Mora,Medium,Exceptional
+ATH_014,EVT_014_05,2006,Pandemic Impact,Moved to new city,Eringsboda,Life-Changing,Exceptional
+ATH_014,EVT_014_06,2017,Education,Father passed away,Jönköping,High,Low
+ATH_014,EVT_014_07,2006,Family Loss,Father passed away,Gothenburg,Low,Low
+ATH_014,EVT_014_08,1967,Family Loss,Father passed away,Sweden,Low,Medium
+ATH_014,EVT_014_09,1985,Family Loss,Got married,Uppsala,Low,Exceptional
+ATH_014,EVT_014_10,1991,Family Loss,Career recession impact,Jönköping,Medium,High
+ATH_014,EVT_014_11,2009,Job Loss,Left CEO role,Malmö,Low,Medium
+ATH_014,EVT_014_12,1993,Pandemic Impact,Promoted to management,Mora,Low,Low
+ATH_014,EVT_014_13,1996,Career Transition,Started consulting business,Malmö,High,High
+ATH_014,EVT_014_14,2022,Pandemic Impact,Completed Ironman,Mora,Low,Medium
+ATH_014,EVT_014_15,2004,Career Transition,Started new job,Gothenburg,Low,Medium
+ATH_014,EVT_014_16,1995,Career Transition,Career recession impact,Malmö,Medium,High
+ATH_014,EVT_014_17,1986,Recovery,Father passed away,Mora,Medium,High
+ATH_015,EVT_015_01,2015,Career Transition,Got married,Gothenburg,Low,Medium
+ATH_015,EVT_015_02,1985,Family Loss,Second child born,Jönköping,Life-Changing,Exceptional
+ATH_015,EVT_015_03,1968,Marriage,Started athletic training,Malmö,Medium,Exceptional
+ATH_015,EVT_015_04,2010,Family Loss,Graduated from school,Eringsboda,High,High
+ATH_015,EVT_015_05,2021,Promotion,Moved to new city,Mora,High,Exceptional
+ATH_015,EVT_015_06,1974,Career Start,Left CEO role,Gothenburg,Low,Exceptional
+ATH_015,EVT_015_07,1990,Divorce,Started consulting business,Eringsboda,Low,Exceptional
+ATH_015,EVT_015_08,2019,Moving,Graduated from school,Jönköping,Life-Changing,Low
+ATH_015,EVT_015_09,1967,Divorce,Started new job,Mora,High,Medium
+ATH_015,EVT_015_10,1969,Divorce,Career recession impact,Lund,Low,High
+ATH_015,EVT_015_11,2014,Divorce,Promoted to management,Eringsboda,High,Low
+ATH_015,EVT_015_12,1978,Job Loss,First child born,Sweden,Life-Changing,High
+ATH_015,EVT_015_13,1971,Career Transition,Left CEO role,Lund,Low,Medium
+ATH_015,EVT_015_14,1971,Promotion,Started athletic training,Malmö,Life-Changing,Exceptional
+ATH_015,EVT_015_15,2019,Job Loss,Career recession impact,Sweden,Life-Changing,Low
+ATH_015,EVT_015_16,2013,Career Transition,Got married,Jönköping,Life-Changing,Exceptional
+ATH_015,EVT_015_17,1985,Promotion,Started new job,Sweden,High,High
+ATH_016,EVT_016_01,1998,Promotion,Started consulting business,Jönköping,High,Medium
+ATH_016,EVT_016_02,1990,Divorce,Had major injury,Gothenburg,Low,Exceptional
+ATH_016,EVT_016_03,2002,Promotion,Graduated from school,Malmö,High,Medium
+ATH_016,EVT_016_04,2014,Athletic Achievement,Father passed away,Uppsala,High,Exceptional
+ATH_016,EVT_016_05,2001,Moving,COVID-19 disruption,Malmö,Life-Changing,Medium
+ATH_016,EVT_016_06,2011,Promotion,COVID-19 disruption,Stockholm,Life-Changing,Medium
+ATH_016,EVT_016_07,1990,Career Start,COVID-19 disruption,Eringsboda,Low,Low
+ATH_016,EVT_016_08,1962,Pandemic Impact,Started consulting business,Malmö,High,High
+ATH_016,EVT_016_09,1973,Career Transition,COVID-19 disruption,Sweden,Medium,Exceptional
+ATH_016,EVT_016_10,1969,Pandemic Impact,First child born,Uppsala,Medium,Exceptional
+ATH_016,EVT_016_11,1978,Divorce,Got married,Gothenburg,Medium,High
+ATH_016,EVT_016_12,1975,Education,Second child born,Sweden,High,Low
+ATH_016,EVT_016_13,1967,Athletic Achievement,Promoted to management,Uppsala,High,High
+ATH_016,EVT_016_14,2020,Career Start,Second child born,Gothenburg,Medium,High
+ATH_016,EVT_016_15,2008,Pandemic Impact,COVID-19 disruption,Mora,Life-Changing,High
+ATH_016,EVT_016_16,2011,Divorce,Started athletic training,Jönköping,High,High
+ATH_016,EVT_016_17,2007,Career Start,Career recession impact,Sweden,Medium,High
+ATH_016,EVT_016_18,1985,Recovery,Completed Ironman,Sweden,Life-Changing,High
+ATH_016,EVT_016_19,2004,Career Transition,Promoted to management,Lund,Life-Changing,Exceptional
+ATH_016,EVT_016_20,2001,Divorce,Promoted to management,Sweden,Medium,High
+ATH_016,EVT_016_21,1981,Divorce,Promoted to management,Jönköping,High,Medium
+ATH_016,EVT_016_22,2020,Injury,Moved to new city,Eringsboda,High,Low
+ATH_016,EVT_016_23,2024,Birth,Moved to new city,Uppsala,Low,Low
+ATH_016,EVT_016_24,2001,Recovery,Had major injury,Gothenburg,High,Medium
+ATH_016,EVT_016_25,1981,Family Loss,Career recession impact,Stockholm,Life-Changing,Low
+ATH_017,EVT_017_01,2024,Birth,Started new job,Jönköping,Life-Changing,Medium
+ATH_017,EVT_017_02,1992,Promotion,Started new job,Uppsala,Low,Medium
+ATH_017,EVT_017_03,1987,Recovery,Career recession impact,Uppsala,Medium,High
+ATH_017,EVT_017_04,1971,Moving,Moved to new city,Malmö,Low,Low
+ATH_017,EVT_017_05,1980,Marriage,Father passed away,Sweden,Medium,Exceptional
+ATH_017,EVT_017_06,2009,Birth,Promoted to management,Malmö,Low,Exceptional
+ATH_017,EVT_017_07,1978,Education,Completed Ironman,Jönköping,Low,Exceptional
+ATH_017,EVT_017_08,1993,Career Transition,First child born,Stockholm,Life-Changing,Exceptional
+ATH_017,EVT_017_09,2015,Pandemic Impact,First child born,Eringsboda,Low,High
+ATH_017,EVT_017_10,2023,Career Start,Moved to new city,Sweden,Life-Changing,Medium
+ATH_017,EVT_017_11,1962,Recovery,Father passed away,Jönköping,Low,Low
+ATH_017,EVT_017_12,2014,Family Loss,Graduated from school,Sweden,High,High
+ATH_017,EVT_017_13,2013,Family Loss,Promoted to management,Malmö,Life-Changing,High
+ATH_017,EVT_017_14,2012,Promotion,Graduated from school,Uppsala,Life-Changing,Exceptional
+ATH_017,EVT_017_15,1986,Child Birth,First child born,Eringsboda,Low,Low
+ATH_017,EVT_017_16,2016,Promotion,Started new job,Stockholm,High,Medium
+ATH_017,EVT_017_17,1999,Job Loss,Started athletic training,Mora,Low,High
+ATH_018,EVT_018_01,1989,Promotion,COVID-19 disruption,Eringsboda,Low,Low
+ATH_018,EVT_018_02,1961,Family Loss,Started consulting business,Eringsboda,Low,Exceptional
+ATH_018,EVT_018_03,1974,Recovery,Moved to new city,Stockholm,Life-Changing,Low
+ATH_018,EVT_018_04,1984,Job Loss,Promoted to management,Jönköping,Life-Changing,Low
+ATH_018,EVT_018_05,1992,Pandemic Impact,Started new job,Mora,Life-Changing,Medium
+ATH_018,EVT_018_06,1988,Injury,Completed Ironman,Malmö,Life-Changing,Low
+ATH_018,EVT_018_07,2016,Career Start,Career recession impact,Lund,Low,Exceptional
+ATH_018,EVT_018_08,2014,Moving,Had major injury,Mora,High,Low
+ATH_018,EVT_018_09,2022,Recovery,Career recession impact,Jönköping,Low,High
+ATH_018,EVT_018_10,1971,Recovery,Had major injury,Jönköping,Medium,High
+ATH_018,EVT_018_11,1975,Promotion,Started athletic training,Malmö,Life-Changing,Low
+ATH_018,EVT_018_12,1979,Promotion,First child born,Lund,Life-Changing,Exceptional
+ATH_018,EVT_018_13,2015,Injury,Had major injury,Jönköping,Medium,High
+ATH_018,EVT_018_14,1972,Career Start,Completed Ironman,Stockholm,High,Medium
+ATH_018,EVT_018_15,1986,Pandemic Impact,Moved to new city,Malmö,Medium,Exceptional
+ATH_018,EVT_018_16,1964,Career Start,Graduated from school,Jönköping,Life-Changing,Exceptional
+ATH_018,EVT_018_17,1967,Pandemic Impact,Father passed away,Eringsboda,Low,Exceptional
+ATH_019,EVT_019_01,1966,Education,COVID-19 disruption,Sweden,Life-Changing,Medium
+ATH_019,EVT_019_02,1984,Recovery,Second child born,Sweden,High,Medium
+ATH_019,EVT_019_03,1970,Recovery,Promoted to management,Lund,High,Low
+ATH_019,EVT_019_04,2004,Career Start,First child born,Jönköping,Low,Exceptional
+ATH_019,EVT_019_05,1980,Injury,Second child born,Malmö,Medium,Exceptional
+ATH_019,EVT_019_06,1984,Family Loss,Started new job,Sweden,Medium,High
+ATH_019,EVT_019_07,2002,Career Transition,Started athletic training,Lund,Life-Changing,Low
+ATH_019,EVT_019_08,1997,Promotion,Career recession impact,Jönköping,Medium,Low
+ATH_019,EVT_019_09,1969,Marriage,COVID-19 disruption,Eringsboda,Life-Changing,Low
+ATH_019,EVT_019_10,2013,Divorce,COVID-19 disruption,Sweden,High,Low
+ATH_019,EVT_019_11,1975,Child Birth,Started consulting business,Uppsala,Low,Medium
+ATH_019,EVT_019_12,2006,Divorce,Second child born,Lund,Medium,High
+ATH_019,EVT_019_13,1999,Job Loss,Got married,Eringsboda,Medium,Low
+ATH_019,EVT_019_14,1980,Pandemic Impact,COVID-19 disruption,Malmö,Medium,Exceptional
+ATH_019,EVT_019_15,2011,Job Loss,Promoted to management,Jönköping,Medium,High
+ATH_020,EVT_020_01,1960,Moving,Moved to new city,Sweden,High,Low
+ATH_020,EVT_020_02,1963,Education,Completed Ironman,Mora,High,Low
+ATH_020,EVT_020_03,1965,Moving,Completed Ironman,Lund,Medium,Low
+ATH_020,EVT_020_04,1991,Athletic Achievement,Career recession impact,Lund,Medium,Medium
+ATH_020,EVT_020_05,1976,Career Transition,Started athletic training,Uppsala,Low,Exceptional
+ATH_020,EVT_020_06,1992,Injury,Moved to new city,Malmö,Life-Changing,Low
+ATH_020,EVT_020_07,1981,Moving,Promoted to management,Malmö,Medium,Low
+ATH_020,EVT_020_08,1997,Injury,Promoted to management,Uppsala,High,High
+ATH_020,EVT_020_09,1971,Injury,Had major injury,Sweden,Low,Medium
+ATH_020,EVT_020_10,1966,Family Loss,Father passed away,Lund,Medium,Low
+ATH_020,EVT_020_11,1968,Promotion,Got married,Sweden,Life-Changing,High
+ATH_020,EVT_020_12,1989,Family Loss,Completed Ironman,Gothenburg,Life-Changing,Exceptional
+ATH_020,EVT_020_13,1987,Marriage,First child born,Malmö,Medium,High
+ATH_020,EVT_020_14,1984,Child Birth,COVID-19 disruption,Lund,High,High
+ATH_020,EVT_020_15,1986,Career Transition,Promoted to management,Sweden,Medium,Exceptional
+ATH_020,EVT_020_16,1977,Recovery,Promoted to management,Stockholm,High,High
+ATH_020,EVT_020_17,1971,Career Start,Left CEO role,Lund,Medium,Exceptional
+ATH_020,EVT_020_18,1975,Recovery,Completed Ironman,Eringsboda,Life-Changing,Exceptional
+ATH_020,EVT_020_19,2018,Family Loss,Started new job,Uppsala,Low,Low
+ATH_020,EVT_020_20,2005,Promotion,Started athletic training,Stockholm,Life-Changing,Medium
+ATH_020,EVT_020_21,1998,Education,Moved to new city,Stockholm,Medium,High
+ATH_020,EVT_020_22,2006,Recovery,Had major injury,Uppsala,High,Low
+ATH_020,EVT_020_23,2010,Athletic Achievement,Left CEO role,Eringsboda,Medium,Medium
+ATH_020,EVT_020_24,1971,Pandemic Impact,First child born,Stockholm,Low,Exceptional
+ATH_020,EVT_020_25,2022,Recovery,Started athletic training,Gothenburg,Low,Medium
+ATH_020,EVT_020_26,2020,Moving,Career recession impact,Uppsala,Low,Exceptional
+ATH_020,EVT_020_27,1986,Moving,Got married,Mora,Low,High
+ATH_020,EVT_020_28,2000,Injury,Promoted to management,Sweden,Low,High
+ATH_020,EVT_020_29,2023,Divorce,Completed Ironman,Jönköping,Medium,Low
+ATH_021,EVT_021_01,1972,Pandemic Impact,Graduated from school,Malmö,Life-Changing,Exceptional
+ATH_021,EVT_021_02,2016,Birth,Graduated from school,Gothenburg,Life-Changing,High
+ATH_021,EVT_021_03,1962,Recovery,Left CEO role,Mora,High,High
+ATH_021,EVT_021_04,2005,Pandemic Impact,Started new job,Eringsboda,Medium,Low
+ATH_021,EVT_021_05,1975,Career Transition,Second child born,Mora,High,Low
+ATH_021,EVT_021_06,1985,Career Start,Started athletic training,Mora,Low,High
+ATH_021,EVT_021_07,1963,Birth,Father passed away,Gothenburg,Life-Changing,Low
+ATH_021,EVT_021_08,1976,Recovery,Got married,Jönköping,High,Low
+ATH_021,EVT_021_09,2011,Child Birth,Started athletic training,Mora,Life-Changing,Exceptional
+ATH_021,EVT_021_10,1975,Pandemic Impact,Father passed away,Mora,Life-Changing,Exceptional
+ATH_021,EVT_021_11,1996,Family Loss,Father passed away,Lund,Medium,High
+ATH_021,EVT_021_12,2022,Career Start,Started athletic training,Jönköping,Life-Changing,High
+ATH_021,EVT_021_13,1977,Family Loss,First child born,Gothenburg,Low,Low
+ATH_021,EVT_021_14,1975,Pandemic Impact,Left CEO role,Sweden,Life-Changing,Medium
+ATH_021,EVT_021_15,1994,Injury,Completed Ironman,Malmö,Life-Changing,Medium
+ATH_021,EVT_021_16,1972,Recovery,Left CEO role,Mora,Medium,Medium
+ATH_021,EVT_021_17,1993,Divorce,COVID-19 disruption,Gothenburg,Life-Changing,Exceptional
+ATH_021,EVT_021_18,1968,Job Loss,Started athletic training,Gothenburg,High,Medium
+ATH_021,EVT_021_19,2021,Divorce,Started athletic training,Uppsala,Life-Changing,High
+ATH_022,EVT_022_01,1974,Education,Started athletic training,Eringsboda,Life-Changing,Medium
+ATH_022,EVT_022_02,1983,Child Birth,Career recession impact,Uppsala,High,Medium
+ATH_022,EVT_022_03,1993,Family Loss,Left CEO role,Stockholm,High,High
+ATH_022,EVT_022_04,2007,Athletic Achievement,First child born,Jönköping,Low,High
+ATH_022,EVT_022_05,1988,Child Birth,Started athletic training,Jönköping,Low,Low
+ATH_022,EVT_022_06,1990,Moving,Started consulting business,Stockholm,High,High
+ATH_022,EVT_022_07,1981,Career Transition,Had major injury,Gothenburg,Low,Exceptional
+ATH_022,EVT_022_08,1969,Education,First child born,Mora,Low,Exceptional
+ATH_022,EVT_022_09,1963,Birth,Second child born,Malmö,Low,Medium
+ATH_022,EVT_022_10,1999,Promotion,Got married,Eringsboda,Medium,Exceptional
+ATH_022,EVT_022_11,1980,Child Birth,Got married,Mora,Life-Changing,High
+ATH_022,EVT_022_12,1963,Family Loss,Second child born,Gothenburg,Medium,Exceptional
+ATH_022,EVT_022_13,2020,Family Loss,Started consulting business,Gothenburg,Low,Exceptional
+ATH_022,EVT_022_14,2016,Athletic Achievement,Moved to new city,Sweden,Medium,Medium
+ATH_022,EVT_022_15,1988,Injury,Graduated from school,Stockholm,High,Medium
+ATH_022,EVT_022_16,2015,Birth,Career recession impact,Mora,Life-Changing,Exceptional
+ATH_022,EVT_022_17,2007,Job Loss,Graduated from school,Malmö,High,Low
+ATH_022,EVT_022_18,1998,Marriage,Promoted to management,Gothenburg,High,Exceptional
+ATH_022,EVT_022_19,1990,Moving,Completed Ironman,Malmö,Life-Changing,Low
+ATH_022,EVT_022_20,2009,Moving,Completed Ironman,Gothenburg,Life-Changing,Exceptional
+ATH_022,EVT_022_21,2006,Education,First child born,Mora,High,Low
+ATH_022,EVT_022_22,2022,Career Start,Got married,Mora,Medium,Medium
+ATH_022,EVT_022_23,1997,Divorce,COVID-19 disruption,Malmö,Medium,High
+ATH_022,EVT_022_24,2023,Career Start,First child born,Malmö,Life-Changing,High
+ATH_022,EVT_022_25,2014,Birth,Had major injury,Sweden,High,Exceptional
+ATH_022,EVT_022_26,1998,Recovery,Got married,Gothenburg,Medium,Medium
+ATH_023,EVT_023_01,1986,Promotion,Moved to new city,Uppsala,High,Medium
+ATH_023,EVT_023_02,2015,Marriage,Promoted to management,Stockholm,High,Medium
+ATH_023,EVT_023_03,2003,Promotion,Father passed away,Lund,Medium,High
+ATH_023,EVT_023_04,2016,Recovery,Graduated from school,Stockholm,Medium,High
+ATH_023,EVT_023_05,1994,Promotion,Started athletic training,Lund,High,High
+ATH_023,EVT_023_06,1967,Athletic Achievement,Promoted to management,Jönköping,High,Exceptional
+ATH_023,EVT_023_07,2004,Promotion,Had major injury,Eringsboda,Medium,High
+ATH_023,EVT_023_08,2006,Injury,Graduated from school,Jönköping,Life-Changing,Medium
+ATH_023,EVT_023_09,1996,Child Birth,Graduated from school,Mora,High,High
+ATH_023,EVT_023_10,1960,Career Start,Left CEO role,Mora,Medium,Exceptional
+ATH_023,EVT_023_11,1971,Career Start,Second child born,Sweden,Life-Changing,High
+ATH_023,EVT_023_12,1991,Career Transition,Started athletic training,Gothenburg,High,Medium
+ATH_023,EVT_023_13,1977,Athletic Achievement,Completed Ironman,Uppsala,High,Medium
+ATH_023,EVT_023_14,2009,Family Loss,Had major injury,Malmö,Low,Low
+ATH_023,EVT_023_15,1978,Pandemic Impact,Graduated from school,Uppsala,High,High
+ATH_023,EVT_023_16,2019,Injury,Started consulting business,Jönköping,Medium,High
+ATH_023,EVT_023_17,1982,Child Birth,Started new job,Stockholm,Low,Low
+ATH_023,EVT_023_18,2009,Promotion,Father passed away,Gothenburg,Medium,Medium
+ATH_023,EVT_023_19,2017,Birth,COVID-19 disruption,Stockholm,Life-Changing,Low
+ATH_023,EVT_023_20,2000,Career Transition,Promoted to management,Gothenburg,Low,Exceptional
+ATH_023,EVT_023_21,2001,Divorce,Second child born,Gothenburg,Medium,Exceptional
+ATH_024,EVT_024_01,1969,Career Transition,Promoted to management,Jönköping,High,Medium
+ATH_024,EVT_024_02,1986,Education,Second child born,Eringsboda,High,Medium
+ATH_024,EVT_024_03,1995,Family Loss,Started consulting business,Sweden,High,High
+ATH_024,EVT_024_04,1978,Family Loss,Completed Ironman,Mora,Medium,Medium
+ATH_024,EVT_024_05,2020,Education,Promoted to management,Mora,High,Medium
+ATH_024,EVT_024_06,2005,Pandemic Impact,Started athletic training,Stockholm,High,Exceptional
+ATH_024,EVT_024_07,1961,Promotion,Started consulting business,Sweden,Medium,Medium
+ATH_024,EVT_024_08,2023,Injury,Started new job,Eringsboda,High,Medium
+ATH_024,EVT_024_09,1981,Pandemic Impact,Career recession impact,Stockholm,Low,Medium
+ATH_024,EVT_024_10,1999,Career Transition,Had major injury,Eringsboda,Life-Changing,Exceptional
+ATH_024,EVT_024_11,1987,Career Start,Second child born,Uppsala,High,Exceptional
+ATH_024,EVT_024_12,2022,Promotion,Father passed away,Gothenburg,Life-Changing,Medium
+ATH_024,EVT_024_13,1993,Career Transition,Graduated from school,Stockholm,Low,Exceptional
+ATH_024,EVT_024_14,1960,Divorce,Father passed away,Jönköping,High,Medium
+ATH_024,EVT_024_15,2008,Recovery,Started new job,Gothenburg,High,Medium
+ATH_024,EVT_024_16,2018,Divorce,Completed Ironman,Malmö,Medium,Exceptional
+ATH_024,EVT_024_17,2015,Recovery,Started consulting business,Stockholm,High,Exceptional
+ATH_024,EVT_024_18,2023,Career Transition,Started athletic training,Uppsala,Medium,Exceptional
+ATH_025,EVT_025_01,1968,Moving,Started new job,Malmö,Medium,Low
+ATH_025,EVT_025_02,1970,Job Loss,Had major injury,Gothenburg,Low,High
+ATH_025,EVT_025_03,2006,Athletic Achievement,Started new job,Mora,Medium,Low
+ATH_025,EVT_025_04,1967,Birth,Left CEO role,Uppsala,Life-Changing,Low
+ATH_025,EVT_025_05,2023,Marriage,First child born,Sweden,Life-Changing,High
+ATH_025,EVT_025_06,2009,Moving,Completed Ironman,Gothenburg,Life-Changing,Medium
+ATH_025,EVT_025_07,1976,Divorce,Promoted to management,Gothenburg,Life-Changing,Low
+ATH_025,EVT_025_08,1974,Promotion,Father passed away,Lund,Medium,High
+ATH_025,EVT_025_09,2014,Marriage,Started consulting business,Gothenburg,High,High
+ATH_025,EVT_025_10,1965,Recovery,Started consulting business,Stockholm,Life-Changing,Low
+ATH_025,EVT_025_11,1973,Athletic Achievement,Got married,Jönköping,High,Low
+ATH_025,EVT_025_12,1970,Job Loss,Left CEO role,Eringsboda,Medium,Medium
+ATH_025,EVT_025_13,2005,Promotion,Completed Ironman,Stockholm,Low,Low
+ATH_025,EVT_025_14,1973,Moving,Started consulting business,Gothenburg,Low,High
+ATH_025,EVT_025_15,2022,Birth,Completed Ironman,Lund,High,Exceptional
+ATH_025,EVT_025_16,1993,Recovery,Started new job,Uppsala,Medium,Exceptional
+ATH_025,EVT_025_17,2019,Injury,Graduated from school,Jönköping,Life-Changing,Medium
+ATH_025,EVT_025_18,2011,Recovery,COVID-19 disruption,Stockholm,High,Exceptional
+ATH_025,EVT_025_19,1991,Job Loss,Had major injury,Malmö,Medium,Exceptional
+ATH_025,EVT_025_20,1979,Recovery,Graduated from school,Lund,Low,Exceptional
+ATH_026,EVT_026_01,1961,Family Loss,Started new job,Stockholm,Medium,Low
+ATH_026,EVT_026_02,1990,Divorce,Moved to new city,Uppsala,High,Low
+ATH_026,EVT_026_03,1991,Birth,Second child born,Mora,Life-Changing,Low
+ATH_026,EVT_026_04,2006,Pandemic Impact,Had major injury,Uppsala,Low,Low
+ATH_026,EVT_026_05,2001,Career Start,First child born,Jönköping,High,Low
+ATH_026,EVT_026_06,1989,Family Loss,Completed Ironman,Jönköping,High,High
+ATH_026,EVT_026_07,1989,Recovery,Second child born,Malmö,High,Low
+ATH_026,EVT_026_08,2012,Moving,Graduated from school,Malmö,Life-Changing,Low
+ATH_026,EVT_026_09,2003,Moving,Second child born,Gothenburg,High,High
+ATH_026,EVT_026_10,2011,Education,Graduated from school,Stockholm,Medium,Low
+ATH_026,EVT_026_11,1969,Family Loss,Moved to new city,Lund,Low,High
+ATH_026,EVT_026_12,1972,Career Start,Promoted to management,Mora,Medium,Medium
+ATH_026,EVT_026_13,1982,Career Transition,COVID-19 disruption,Mora,Medium,Low
+ATH_026,EVT_026_14,2013,Marriage,Had major injury,Eringsboda,Low,Low
+ATH_026,EVT_026_15,2019,Promotion,Career recession impact,Uppsala,Low,Medium
+ATH_026,EVT_026_16,2007,Injury,Started new job,Mora,Medium,Exceptional
+ATH_026,EVT_026_17,2011,Birth,Got married,Mora,Medium,Low
+ATH_027,EVT_027_01,2007,Birth,First child born,Jönköping,Life-Changing,Exceptional
+ATH_027,EVT_027_02,1989,Divorce,Career recession impact,Mora,Medium,Low
+ATH_027,EVT_027_03,1994,Pandemic Impact,Completed Ironman,Gothenburg,Medium,Exceptional
+ATH_027,EVT_027_04,1969,Education,Started athletic training,Eringsboda,High,High
+ATH_027,EVT_027_05,1979,Recovery,Second child born,Mora,Medium,Low
+ATH_027,EVT_027_06,2013,Job Loss,Started athletic training,Lund,Medium,High
+ATH_027,EVT_027_07,1963,Athletic Achievement,Completed Ironman,Sweden,Medium,High
+ATH_027,EVT_027_08,1971,Family Loss,Started consulting business,Stockholm,High,Medium
+ATH_027,EVT_027_09,1994,Moving,Got married,Gothenburg,Medium,Exceptional
+ATH_027,EVT_027_10,1975,Marriage,Started new job,Uppsala,Life-Changing,Medium
+ATH_027,EVT_027_11,2018,Injury,Had major injury,Jönköping,Low,Medium
+ATH_027,EVT_027_12,1998,Recovery,Father passed away,Sweden,Medium,High
+ATH_027,EVT_027_13,1985,Career Start,Started athletic training,Jönköping,Medium,High
+ATH_027,EVT_027_14,2008,Injury,Started new job,Jönköping,Life-Changing,Medium
+ATH_027,EVT_027_15,2013,Moving,Started consulting business,Jönköping,Low,Low
+ATH_027,EVT_027_16,1973,Career Start,Father passed away,Jönköping,Medium,Low
+ATH_027,EVT_027_17,1963,Pandemic Impact,Career recession impact,Malmö,High,Low
+ATH_027,EVT_027_18,1963,Moving,Started new job,Uppsala,High,Low
+ATH_027,EVT_027_19,1991,Recovery,Completed Ironman,Stockholm,Life-Changing,Exceptional
+ATH_027,EVT_027_20,1967,Family Loss,Completed Ironman,Gothenburg,High,Low
+ATH_027,EVT_027_21,1987,Promotion,Had major injury,Malmö,Life-Changing,Low
+ATH_027,EVT_027_22,1992,Promotion,Started athletic training,Sweden,High,High
+ATH_027,EVT_027_23,1984,Athletic Achievement,Had major injury,Lund,Life-Changing,High
+ATH_027,EVT_027_24,1965,Job Loss,First child born,Gothenburg,High,Low
+ATH_027,EVT_027_25,2021,Education,Started consulting business,Mora,Low,Medium
+ATH_027,EVT_027_26,1966,Education,Left CEO role,Stockholm,High,Low
+ATH_027,EVT_027_27,1982,Education,Left CEO role,Gothenburg,Medium,Medium
+ATH_027,EVT_027_28,1993,Divorce,Got married,Gothenburg,Life-Changing,High
+ATH_028,EVT_028_01,2024,Athletic Achievement,Started new job,Stockholm,High,High
+ATH_028,EVT_028_02,2008,Marriage,Started athletic training,Sweden,Low,High
+ATH_028,EVT_028_03,2002,Family Loss,Got married,Eringsboda,Medium,Exceptional
+ATH_028,EVT_028_04,2015,Injury,Career recession impact,Stockholm,Medium,Medium
+ATH_028,EVT_028_05,2016,Job Loss,First child born,Lund,Low,Exceptional
+ATH_028,EVT_028_06,2020,Birth,Started athletic training,Malmö,Medium,Low
+ATH_028,EVT_028_07,1976,Birth,Career recession impact,Stockholm,Low,Low
+ATH_028,EVT_028_08,2009,Birth,Moved to new city,Mora,High,Exceptional
+ATH_028,EVT_028_09,2013,Education,Had major injury,Malmö,Low,Low
+ATH_028,EVT_028_10,1962,Marriage,Father passed away,Uppsala,Low,Exceptional
+ATH_028,EVT_028_11,1961,Job Loss,Father passed away,Gothenburg,Medium,Low
+ATH_028,EVT_028_12,2018,Job Loss,Left CEO role,Sweden,Low,Low
+ATH_028,EVT_028_13,1973,Family Loss,Moved to new city,Malmö,High,Low
+ATH_028,EVT_028_14,1974,Career Transition,COVID-19 disruption,Lund,High,Low
+ATH_028,EVT_028_15,2007,Pandemic Impact,Second child born,Jönköping,Medium,High
+ATH_028,EVT_028_16,1991,Family Loss,Second child born,Stockholm,High,Medium
+ATH_028,EVT_028_17,1986,Education,COVID-19 disruption,Uppsala,Low,High
+ATH_028,EVT_028_18,1962,Birth,Promoted to management,Eringsboda,High,Low
+ATH_028,EVT_028_19,1962,Athletic Achievement,Graduated from school,Jönköping,Low,Exceptional
+ATH_029,EVT_029_01,2009,Family Loss,First child born,Gothenburg,Medium,Medium
+ATH_029,EVT_029_02,2012,Recovery,Completed Ironman,Malmö,Life-Changing,Low
+ATH_029,EVT_029_03,1964,Career Start,First child born,Uppsala,Life-Changing,Exceptional
+ATH_029,EVT_029_04,1962,Athletic Achievement,Started consulting business,Gothenburg,Life-Changing,Low
+ATH_029,EVT_029_05,2009,Job Loss,Second child born,Lund,Medium,Exceptional
+ATH_029,EVT_029_06,1973,Athletic Achievement,Moved to new city,Jönköping,High,Exceptional
+ATH_029,EVT_029_07,1960,Recovery,COVID-19 disruption,Gothenburg,High,Low
+ATH_029,EVT_029_08,1989,Divorce,Left CEO role,Jönköping,Medium,Medium
+ATH_029,EVT_029_09,1974,Pandemic Impact,Had major injury,Sweden,Low,High
+ATH_029,EVT_029_10,2023,Injury,Graduated from school,Jönköping,Life-Changing,Exceptional
+ATH_029,EVT_029_11,1986,Birth,Started new job,Uppsala,Medium,High
+ATH_029,EVT_029_12,1995,Marriage,Completed Ironman,Stockholm,Low,High
+ATH_029,EVT_029_13,2000,Recovery,Had major injury,Jönköping,Low,High
+ATH_029,EVT_029_14,1985,Athletic Achievement,Moved to new city,Eringsboda,High,Exceptional
+ATH_029,EVT_029_15,2020,Divorce,Started new job,Eringsboda,Life-Changing,Exceptional
+ATH_029,EVT_029_16,1967,Job Loss,Started consulting business,Sweden,Life-Changing,Medium
+ATH_029,EVT_029_17,1975,Family Loss,Graduated from school,Eringsboda,Medium,Exceptional
+ATH_029,EVT_029_18,2023,Recovery,Started consulting business,Gothenburg,Low,Medium
+ATH_029,EVT_029_19,1997,Family Loss,Promoted to management,Sweden,Life-Changing,High
+ATH_029,EVT_029_20,2021,Promotion,Moved to new city,Eringsboda,Medium,Medium
+ATH_029,EVT_029_21,1961,Job Loss,Started consulting business,Jönköping,High,Exceptional
+ATH_030,EVT_030_01,1988,Family Loss,Completed Ironman,Mora,Life-Changing,High
+ATH_030,EVT_030_02,1994,Moving,Second child born,Sweden,Low,Exceptional
+ATH_030,EVT_030_03,2012,Marriage,Career recession impact,Uppsala,High,Low
+ATH_030,EVT_030_04,2000,Injury,Moved to new city,Malmö,Medium,Low
+ATH_030,EVT_030_05,1983,Family Loss,Started new job,Mora,Life-Changing,Medium
+ATH_030,EVT_030_06,1967,Birth,Started athletic training,Uppsala,Medium,Low
+ATH_030,EVT_030_07,2019,Career Start,COVID-19 disruption,Sweden,Low,High
+ATH_030,EVT_030_08,1981,Family Loss,Left CEO role,Uppsala,High,Medium
+ATH_030,EVT_030_09,1975,Moving,Career recession impact,Gothenburg,Life-Changing,Exceptional
+ATH_030,EVT_030_10,2005,Job Loss,First child born,Uppsala,Life-Changing,High
+ATH_030,EVT_030_11,2005,Pandemic Impact,Got married,Malmö,Low,Exceptional
+ATH_030,EVT_030_12,1963,Marriage,Left CEO role,Eringsboda,Medium,Exceptional
+ATH_030,EVT_030_13,2015,Birth,First child born,Malmö,Medium,High
+ATH_030,EVT_030_14,1981,Athletic Achievement,Left CEO role,Mora,High,Exceptional
+ATH_030,EVT_030_15,2020,Athletic Achievement,Started athletic training,Malmö,Medium,Exceptional
+ATH_030,EVT_030_16,2018,Education,Started consulting business,Lund,High,Medium
+ATH_030,EVT_030_17,2000,Child Birth,Started consulting business,Stockholm,Life-Changing,High
+ATH_030,EVT_030_18,1963,Injury,Promoted to management,Eringsboda,High,Low
+ATH_030,EVT_030_19,1972,Moving,Started consulting business,Eringsboda,Life-Changing,Medium
+ATH_030,EVT_030_20,2019,Marriage,Career recession impact,Stockholm,Life-Changing,Medium
+ATH_030,EVT_030_21,1971,Education,Left CEO role,Mora,Life-Changing,Exceptional
+ATH_030,EVT_030_22,1979,Divorce,Career recession impact,Gothenburg,Life-Changing,Medium
+ATH_030,EVT_030_23,1996,Career Start,Started athletic training,Gothenburg,Life-Changing,High
+ATH_030,EVT_030_24,1966,Marriage,Father passed away,Mora,High,Low
+ATH_030,EVT_030_25,2006,Divorce,Graduated from school,Malmö,Life-Changing,Low
+ATH_030,EVT_030_26,2024,Athletic Achievement,First child born,Mora,High,Medium
+ATH_030,EVT_030_27,1978,Family Loss,Completed Ironman,Malmö,Medium,Medium
+ATH_030,EVT_030_28,1977,Moving,Started consulting business,Stockholm,Low,High
+ATH_030,EVT_030_29,1997,Marriage,Promoted to management,Eringsboda,Life-Changing,Exceptional
+ATH_031,EVT_031_01,2005,Injury,Got married,Gothenburg,Medium,High
+ATH_031,EVT_031_02,1997,Career Transition,First child born,Stockholm,Low,Low
+ATH_031,EVT_031_03,2013,Job Loss,Started consulting business,Lund,Life-Changing,Low
+ATH_031,EVT_031_04,2006,Injury,Got married,Malmö,Low,Low
+ATH_031,EVT_031_05,1982,Job Loss,Promoted to management,Stockholm,Medium,High
+ATH_031,EVT_031_06,1962,Family Loss,Second child born,Gothenburg,Medium,Low
+ATH_031,EVT_031_07,2007,Family Loss,Second child born,Jönköping,Low,Exceptional
+ATH_031,EVT_031_08,1990,Moving,Started consulting business,Lund,Life-Changing,High
+ATH_031,EVT_031_09,1980,Injury,COVID-19 disruption,Jönköping,Life-Changing,Exceptional
+ATH_031,EVT_031_10,1974,Athletic Achievement,Started consulting business,Sweden,High,Medium
+ATH_031,EVT_031_11,1994,Moving,Moved to new city,Uppsala,Low,Exceptional
+ATH_031,EVT_031_12,1969,Injury,Graduated from school,Stockholm,Medium,Low
+ATH_031,EVT_031_13,2022,Divorce,Started new job,Jönköping,Medium,Low
+ATH_031,EVT_031_14,2011,Moving,Had major injury,Lund,Medium,Low
+ATH_031,EVT_031_15,1998,Promotion,Started new job,Sweden,Medium,Low
+ATH_031,EVT_031_16,1997,Birth,Father passed away,Sweden,Life-Changing,Low
+ATH_031,EVT_031_17,1972,Career Transition,Father passed away,Uppsala,Low,Medium
+ATH_031,EVT_031_18,1986,Marriage,Had major injury,Gothenburg,Medium,Exceptional
+ATH_031,EVT_031_19,2012,Moving,Promoted to management,Gothenburg,High,Medium
+ATH_031,EVT_031_20,1962,Marriage,Moved to new city,Jönköping,Low,Medium
+ATH_031,EVT_031_21,1962,Career Start,Second child born,Gothenburg,High,Medium
+ATH_031,EVT_031_22,1996,Moving,Promoted to management,Gothenburg,Life-Changing,Low
+ATH_031,EVT_031_23,2004,Family Loss,Started new job,Mora,Life-Changing,Medium
+ATH_032,EVT_032_01,1997,Recovery,Career recession impact,Sweden,Life-Changing,Low
+ATH_032,EVT_032_02,1976,Pandemic Impact,Started consulting business,Lund,High,Medium
+ATH_032,EVT_032_03,1998,Pandemic Impact,Started athletic training,Sweden,High,Low
+ATH_032,EVT_032_04,1997,Athletic Achievement,Graduated from school,Sweden,Medium,Medium
+ATH_032,EVT_032_05,1976,Career Transition,Left CEO role,Malmö,Life-Changing,Low
+ATH_032,EVT_032_06,1965,Child Birth,Had major injury,Mora,High,Exceptional
+ATH_032,EVT_032_07,1982,Job Loss,Started consulting business,Malmö,High,High
+ATH_032,EVT_032_08,1964,Pandemic Impact,Completed Ironman,Sweden,Life-Changing,High
+ATH_032,EVT_032_09,2012,Career Transition,Got married,Stockholm,Life-Changing,High
+ATH_032,EVT_032_10,1991,Promotion,Second child born,Mora,Life-Changing,Medium
+ATH_032,EVT_032_11,1984,Injury,Had major injury,Eringsboda,Low,Low
+ATH_032,EVT_032_12,1995,Injury,First child born,Eringsboda,Low,High
+ATH_032,EVT_032_13,2006,Injury,Career recession impact,Lund,Medium,Exceptional
+ATH_032,EVT_032_14,2002,Child Birth,Left CEO role,Sweden,Low,Low
+ATH_032,EVT_032_15,2000,Recovery,Promoted to management,Gothenburg,Life-Changing,Exceptional
+ATH_032,EVT_032_16,2009,Recovery,COVID-19 disruption,Jönköping,High,High
+ATH_032,EVT_032_17,2007,Moving,Got married,Lund,High,Medium
+ATH_032,EVT_032_18,1980,Moving,Had major injury,Uppsala,High,High
+ATH_032,EVT_032_19,1993,Career Start,Started consulting business,Uppsala,Life-Changing,Low
+ATH_032,EVT_032_20,2012,Moving,Started consulting business,Eringsboda,Life-Changing,Low
+ATH_032,EVT_032_21,2008,Marriage,Had major injury,Uppsala,Medium,High
+ATH_032,EVT_032_22,2015,Child Birth,Second child born,Mora,Life-Changing,Low
+ATH_032,EVT_032_23,1966,Education,Graduated from school,Sweden,High,Low
+ATH_032,EVT_032_24,2004,Birth,Started athletic training,Malmö,High,High
+ATH_033,EVT_033_01,1986,Injury,Left CEO role,Lund,Life-Changing,Low
+ATH_033,EVT_033_02,2021,Job Loss,Started new job,Uppsala,High,High
+ATH_033,EVT_033_03,1991,Injury,First child born,Malmö,Medium,Exceptional
+ATH_033,EVT_033_04,2018,Recovery,Second child born,Stockholm,Life-Changing,High
+ATH_033,EVT_033_05,1968,Career Transition,Promoted to management,Uppsala,Low,High
+ATH_033,EVT_033_06,1970,Injury,Left CEO role,Eringsboda,Life-Changing,High
+ATH_033,EVT_033_07,2023,Injury,Second child born,Jönköping,High,High
+ATH_033,EVT_033_08,2008,Moving,Had major injury,Gothenburg,Medium,Low
+ATH_033,EVT_033_09,1993,Birth,Moved to new city,Gothenburg,Low,Medium
+ATH_033,EVT_033_10,1965,Injury,First child born,Eringsboda,Low,High
+ATH_033,EVT_033_11,1997,Career Start,Started consulting business,Gothenburg,Medium,Exceptional
+ATH_033,EVT_033_12,1964,Child Birth,Moved to new city,Lund,Low,Exceptional
+ATH_033,EVT_033_13,1971,Education,Promoted to management,Jönköping,Life-Changing,High
+ATH_033,EVT_033_14,1978,Promotion,Father passed away,Gothenburg,High,Low
+ATH_033,EVT_033_15,1963,Marriage,Had major injury,Eringsboda,High,High
+ATH_033,EVT_033_16,2024,Career Transition,Father passed away,Eringsboda,Medium,Medium
+ATH_033,EVT_033_17,1980,Injury,Moved to new city,Malmö,Life-Changing,High
+ATH_033,EVT_033_18,1971,Injury,Started new job,Gothenburg,Medium,High
+ATH_033,EVT_033_19,1967,Career Transition,First child born,Stockholm,Life-Changing,High
+ATH_033,EVT_033_20,2013,Divorce,Second child born,Mora,High,Medium
+ATH_033,EVT_033_21,2007,Career Transition,Father passed away,Mora,Life-Changing,Low
+ATH_033,EVT_033_22,1992,Recovery,Graduated from school,Lund,High,Medium
+ATH_033,EVT_033_23,2012,Athletic Achievement,Moved to new city,Stockholm,Medium,Exceptional
+ATH_033,EVT_033_24,1990,Education,Started athletic training,Stockholm,Low,Exceptional
+ATH_034,EVT_034_01,2015,Birth,Started athletic training,Uppsala,High,Low
+ATH_034,EVT_034_02,2004,Athletic Achievement,Promoted to management,Mora,Low,Medium
+ATH_034,EVT_034_03,2024,Career Start,Moved to new city,Uppsala,Medium,Medium
+ATH_034,EVT_034_04,1987,Career Transition,Started consulting business,Sweden,Life-Changing,High
+ATH_034,EVT_034_05,1982,Education,Started athletic training,Malmö,Low,Exceptional
+ATH_034,EVT_034_06,2003,Birth,Career recession impact,Stockholm,Low,Low
+ATH_034,EVT_034_07,1997,Birth,Second child born,Gothenburg,Medium,Exceptional
+ATH_034,EVT_034_08,1964,Child Birth,Started consulting business,Jönköping,Medium,High
+ATH_034,EVT_034_09,1996,Promotion,Graduated from school,Stockholm,Medium,Medium
+ATH_034,EVT_034_10,1965,Career Start,Father passed away,Eringsboda,Life-Changing,Low
+ATH_034,EVT_034_11,2024,Career Transition,Started athletic training,Gothenburg,Life-Changing,Exceptional
+ATH_034,EVT_034_12,1965,Child Birth,Started new job,Sweden,Life-Changing,Medium
+ATH_034,EVT_034_13,2023,Injury,COVID-19 disruption,Gothenburg,Low,High
+ATH_034,EVT_034_14,1999,Child Birth,Second child born,Jönköping,Medium,Low
+ATH_034,EVT_034_15,1994,Career Transition,Started new job,Eringsboda,Medium,Low
+ATH_034,EVT_034_16,1999,Moving,Had major injury,Sweden,Life-Changing,Low
+ATH_035,EVT_035_01,1993,Recovery,Started consulting business,Jönköping,High,Low
+ATH_035,EVT_035_02,1963,Injury,Moved to new city,Eringsboda,Low,Medium
+ATH_035,EVT_035_03,2006,Injury,Had major injury,Sweden,Life-Changing,Medium
+ATH_035,EVT_035_04,1964,Career Transition,First child born,Malmö,Life-Changing,High
+ATH_035,EVT_035_05,1961,Education,COVID-19 disruption,Lund,Low,Medium
+ATH_035,EVT_035_06,1977,Athletic Achievement,Promoted to management,Eringsboda,Medium,Exceptional
+ATH_035,EVT_035_07,1983,Recovery,Career recession impact,Jönköping,Life-Changing,High
+ATH_035,EVT_035_08,1976,Child Birth,Father passed away,Lund,Medium,High
+ATH_035,EVT_035_09,1994,Education,Had major injury,Mora,High,Medium
+ATH_035,EVT_035_10,1982,Family Loss,Started athletic training,Sweden,Medium,Medium
+ATH_035,EVT_035_11,1993,Birth,Father passed away,Uppsala,Life-Changing,Exceptional
+ATH_035,EVT_035_12,2004,Moving,Left CEO role,Malmö,Life-Changing,Medium
+ATH_035,EVT_035_13,2005,Injury,Career recession impact,Mora,Low,Low
+ATH_035,EVT_035_14,2016,Job Loss,Completed Ironman,Eringsboda,Low,High
+ATH_035,EVT_035_15,1965,Athletic Achievement,Second child born,Malmö,Life-Changing,High
+ATH_035,EVT_035_16,2014,Career Transition,Moved to new city,Jönköping,Low,Exceptional
+ATH_035,EVT_035_17,2001,Education,Father passed away,Malmö,Medium,High
+ATH_036,EVT_036_01,1995,Birth,Started new job,Malmö,High,Low
+ATH_036,EVT_036_02,2021,Marriage,Graduated from school,Jönköping,Low,Exceptional
+ATH_036,EVT_036_03,2004,Divorce,Second child born,Gothenburg,High,Exceptional
+ATH_036,EVT_036_04,1963,Family Loss,Second child born,Uppsala,Medium,Medium
+ATH_036,EVT_036_05,2019,Education,Started athletic training,Uppsala,Medium,High
+ATH_036,EVT_036_06,2004,Career Start,Got married,Mora,Medium,Exceptional
+ATH_036,EVT_036_07,1967,Career Transition,Started consulting business,Gothenburg,Life-Changing,High
+ATH_036,EVT_036_08,1981,Career Transition,First child born,Gothenburg,Low,Medium
+ATH_036,EVT_036_09,2003,Career Transition,Started consulting business,Jönköping,High,Medium
+ATH_036,EVT_036_10,1966,Marriage,Started consulting business,Eringsboda,Low,Low
+ATH_036,EVT_036_11,1978,Child Birth,Completed Ironman,Sweden,Low,Exceptional
+ATH_036,EVT_036_12,2002,Athletic Achievement,Had major injury,Gothenburg,High,Exceptional
+ATH_036,EVT_036_13,2022,Job Loss,Got married,Eringsboda,Life-Changing,Low
+ATH_036,EVT_036_14,2021,Job Loss,Career recession impact,Mora,Life-Changing,Medium
+ATH_036,EVT_036_15,1998,Family Loss,Started new job,Malmö,Medium,High
+ATH_036,EVT_036_16,1973,Promotion,Started consulting business,Lund,High,Medium
+ATH_036,EVT_036_17,1981,Pandemic Impact,Graduated from school,Mora,Life-Changing,Exceptional
+ATH_036,EVT_036_18,2013,Education,Started consulting business,Mora,Medium,Medium
+ATH_036,EVT_036_19,1991,Recovery,Started athletic training,Sweden,Life-Changing,Low
+ATH_036,EVT_036_20,1993,Pandemic Impact,Left CEO role,Uppsala,Life-Changing,Medium
+ATH_036,EVT_036_21,1968,Recovery,Graduated from school,Uppsala,High,Medium
+ATH_036,EVT_036_22,1999,Birth,First child born,Eringsboda,High,Low
+ATH_037,EVT_037_01,2015,Job Loss,Got married,Jönköping,Low,Medium
+ATH_037,EVT_037_02,1960,Education,Had major injury,Jönköping,Medium,Low
+ATH_037,EVT_037_03,1976,Birth,Got married,Malmö,Life-Changing,Medium
+ATH_037,EVT_037_04,1968,Birth,Promoted to management,Eringsboda,Low,Low
+ATH_037,EVT_037_05,1960,Athletic Achievement,Got married,Jönköping,Life-Changing,Medium
+ATH_037,EVT_037_06,1985,Birth,Second child born,Mora,High,Exceptional
+ATH_037,EVT_037_07,1961,Marriage,Second child born,Lund,Low,Medium
+ATH_037,EVT_037_08,2020,Career Transition,Moved to new city,Sweden,Low,Exceptional
+ATH_037,EVT_037_09,1972,Child Birth,Started new job,Lund,Low,Low
+ATH_037,EVT_037_10,1999,Injury,Had major injury,Lund,Low,Exceptional
+ATH_037,EVT_037_11,1999,Birth,Moved to new city,Gothenburg,Life-Changing,High
+ATH_037,EVT_037_12,1965,Injury,Started consulting business,Eringsboda,High,Low
+ATH_037,EVT_037_13,1996,Marriage,Moved to new city,Gothenburg,Medium,Medium
+ATH_037,EVT_037_14,2024,Education,Left CEO role,Jönköping,High,Low
+ATH_037,EVT_037_15,1983,Education,Promoted to management,Stockholm,Medium,Medium
+ATH_037,EVT_037_16,1971,Education,Started athletic training,Stockholm,High,Low
+ATH_037,EVT_037_17,1964,Injury,Left CEO role,Malmö,Medium,High
+ATH_037,EVT_037_18,1990,Career Transition,Promoted to management,Sweden,High,High
+ATH_037,EVT_037_19,1994,Promotion,Started consulting business,Eringsboda,Low,High
+ATH_037,EVT_037_20,1962,Career Start,Started athletic training,Mora,High,High
+ATH_037,EVT_037_21,2016,Divorce,Got married,Lund,High,Low
+ATH_037,EVT_037_22,2003,Job Loss,Had major injury,Stockholm,High,Exceptional
+ATH_037,EVT_037_23,1976,Injury,Started consulting business,Uppsala,Life-Changing,High
+ATH_037,EVT_037_24,2011,Birth,Father passed away,Mora,Life-Changing,Low
+ATH_037,EVT_037_25,2003,Child Birth,Started new job,Gothenburg,High,Exceptional
+ATH_037,EVT_037_26,2003,Career Transition,Graduated from school,Sweden,Low,Exceptional
+ATH_037,EVT_037_27,1969,Recovery,Career recession impact,Gothenburg,Medium,Low
+ATH_038,EVT_038_01,1994,Marriage,Had major injury,Stockholm,Life-Changing,Medium
+ATH_038,EVT_038_02,2017,Child Birth,Father passed away,Sweden,Low,Low
+ATH_038,EVT_038_03,1981,Marriage,Completed Ironman,Uppsala,Life-Changing,High
+ATH_038,EVT_038_04,2007,Injury,Graduated from school,Gothenburg,High,Low
+ATH_038,EVT_038_05,1992,Career Start,Started athletic training,Uppsala,Life-Changing,High
+ATH_038,EVT_038_06,2007,Moving,Left CEO role,Uppsala,High,Low
+ATH_038,EVT_038_07,1971,Career Start,Started athletic training,Mora,Low,High
+ATH_038,EVT_038_08,1994,Moving,Promoted to management,Mora,Life-Changing,Low
+ATH_038,EVT_038_09,2006,Pandemic Impact,Had major injury,Uppsala,High,Low
+ATH_038,EVT_038_10,1976,Marriage,Had major injury,Uppsala,Low,Medium
+ATH_038,EVT_038_11,1990,Career Start,Completed Ironman,Malmö,High,Exceptional
+ATH_038,EVT_038_12,1986,Divorce,Completed Ironman,Gothenburg,Medium,Low
+ATH_038,EVT_038_13,1984,Family Loss,Moved to new city,Mora,High,Medium
+ATH_038,EVT_038_14,1978,Career Transition,Started athletic training,Lund,High,High
+ATH_038,EVT_038_15,2010,Athletic Achievement,Started new job,Gothenburg,High,High
+ATH_038,EVT_038_16,1972,Job Loss,Father passed away,Jönköping,Life-Changing,Medium
+ATH_038,EVT_038_17,1990,Promotion,Career recession impact,Mora,Low,Low
+ATH_038,EVT_038_18,2015,Family Loss,Started athletic training,Stockholm,Medium,Exceptional
+ATH_038,EVT_038_19,1987,Moving,Career recession impact,Uppsala,Low,Low
+ATH_038,EVT_038_20,1979,Divorce,Career recession impact,Sweden,Medium,Medium
+ATH_038,EVT_038_21,2012,Divorce,Second child born,Mora,Medium,Low
+ATH_038,EVT_038_22,2005,Moving,Left CEO role,Stockholm,Life-Changing,Low
+ATH_038,EVT_038_23,1965,Career Transition,Started consulting business,Gothenburg,High,Exceptional
+ATH_038,EVT_038_24,1977,Marriage,Got married,Gothenburg,Medium,Medium
+ATH_038,EVT_038_25,1965,Promotion,Second child born,Stockholm,Medium,Medium
+ATH_038,EVT_038_26,2013,Career Start,COVID-19 disruption,Mora,Low,Medium
+ATH_038,EVT_038_27,2016,Child Birth,Had major injury,Lund,Medium,High
+ATH_039,EVT_039_01,2021,Moving,Career recession impact,Uppsala,Low,High
+ATH_039,EVT_039_02,1988,Divorce,Graduated from school,Sweden,Medium,Medium
+ATH_039,EVT_039_03,1965,Promotion,Career recession impact,Sweden,High,Medium
+ATH_039,EVT_039_04,2016,Moving,Left CEO role,Stockholm,Medium,Exceptional
+ATH_039,EVT_039_05,2018,Career Transition,Started athletic training,Uppsala,Medium,High
+ATH_039,EVT_039_06,1998,Career Start,Had major injury,Mora,Medium,Exceptional
+ATH_039,EVT_039_07,1979,Family Loss,Started consulting business,Mora,Life-Changing,Exceptional
+ATH_039,EVT_039_08,1988,Job Loss,Father passed away,Stockholm,Low,High
+ATH_039,EVT_039_09,1986,Pandemic Impact,Father passed away,Gothenburg,Low,High
+ATH_039,EVT_039_10,1985,Career Transition,Promoted to management,Uppsala,Low,Exceptional
+ATH_039,EVT_039_11,1969,Family Loss,Had major injury,Eringsboda,Medium,High
+ATH_039,EVT_039_12,1999,Birth,Career recession impact,Eringsboda,Medium,Low
+ATH_039,EVT_039_13,1961,Birth,Second child born,Sweden,High,Exceptional
+ATH_039,EVT_039_14,2015,Family Loss,Started athletic training,Mora,High,Exceptional
+ATH_039,EVT_039_15,1992,Divorce,Graduated from school,Stockholm,Life-Changing,Exceptional
+ATH_039,EVT_039_16,1982,Education,COVID-19 disruption,Lund,Life-Changing,Medium
+ATH_039,EVT_039_17,2016,Birth,Career recession impact,Mora,Medium,Exceptional
+ATH_039,EVT_039_18,1992,Child Birth,Graduated from school,Jönköping,Life-Changing,High
+ATH_039,EVT_039_19,1967,Education,Completed Ironman,Lund,Medium,Medium
+ATH_039,EVT_039_20,1988,Family Loss,Left CEO role,Lund,Low,Exceptional
+ATH_040,EVT_040_01,1990,Career Start,Left CEO role,Lund,High,Low
+ATH_040,EVT_040_02,1963,Injury,Father passed away,Mora,Low,High
+ATH_040,EVT_040_03,1999,Athletic Achievement,Second child born,Lund,High,High
+ATH_040,EVT_040_04,2013,Moving,Had major injury,Sweden,High,High
+ATH_040,EVT_040_05,1989,Athletic Achievement,Started athletic training,Eringsboda,Low,Medium
+ATH_040,EVT_040_06,1996,Recovery,Career recession impact,Stockholm,Low,Exceptional
+ATH_040,EVT_040_07,2007,Career Transition,Started consulting business,Malmö,Medium,Low
+ATH_040,EVT_040_08,2019,Marriage,COVID-19 disruption,Mora,Low,Exceptional
+ATH_040,EVT_040_09,1982,Promotion,Started new job,Sweden,Medium,Exceptional
+ATH_040,EVT_040_10,1985,Recovery,Started new job,Stockholm,Life-Changing,Medium
+ATH_040,EVT_040_11,1961,Job Loss,Second child born,Sweden,Life-Changing,Medium
+ATH_040,EVT_040_12,1989,Divorce,Graduated from school,Eringsboda,High,Low
+ATH_040,EVT_040_13,2005,Family Loss,Got married,Stockholm,High,Low
+ATH_040,EVT_040_14,2017,Job Loss,Started consulting business,Stockholm,Low,Low
+ATH_040,EVT_040_15,1994,Promotion,Father passed away,Mora,Low,Medium
+ATH_040,EVT_040_16,2012,Career Transition,Promoted to management,Gothenburg,High,Exceptional
+ATH_040,EVT_040_17,1996,Family Loss,Moved to new city,Eringsboda,Life-Changing,Low
+ATH_040,EVT_040_18,1987,Injury,Completed Ironman,Uppsala,Low,Low
+ATH_040,EVT_040_19,1963,Career Start,First child born,Lund,Medium,Low
+ATH_040,EVT_040_20,1976,Pandemic Impact,Completed Ironman,Uppsala,High,High
+ATH_040,EVT_040_21,2005,Marriage,COVID-19 disruption,Mora,Medium,High
+ATH_040,EVT_040_22,1986,Job Loss,First child born,Sweden,Medium,High
+ATH_040,EVT_040_23,1989,Education,First child born,Eringsboda,Medium,High
+ATH_040,EVT_040_24,1974,Education,Started consulting business,Uppsala,High,Exceptional
+ATH_041,EVT_041_01,1968,Athletic Achievement,Started consulting business,Mora,High,Exceptional
+ATH_041,EVT_041_02,2020,Education,Had major injury,Gothenburg,Life-Changing,Exceptional
+ATH_041,EVT_041_03,1990,Career Transition,Started new job,Stockholm,High,High
+ATH_041,EVT_041_04,1986,Pandemic Impact,Promoted to management,Gothenburg,Life-Changing,High
+ATH_041,EVT_041_05,1964,Marriage,Promoted to management,Mora,Life-Changing,Exceptional
+ATH_041,EVT_041_06,1981,Education,Second child born,Stockholm,Low,Medium
+ATH_041,EVT_041_07,1960,Divorce,Had major injury,Eringsboda,High,Low
+ATH_041,EVT_041_08,2003,Moving,Left CEO role,Lund,Low,High
+ATH_041,EVT_041_09,1996,Birth,Started athletic training,Eringsboda,Medium,Low
+ATH_041,EVT_041_10,1985,Family Loss,Graduated from school,Mora,High,Low
+ATH_041,EVT_041_11,1975,Athletic Achievement,COVID-19 disruption,Mora,High,Medium
+ATH_041,EVT_041_12,1980,Divorce,Moved to new city,Uppsala,High,Medium
+ATH_041,EVT_041_13,2000,Divorce,Completed Ironman,Uppsala,Low,High
+ATH_041,EVT_041_14,1977,Education,Graduated from school,Lund,Life-Changing,Low
+ATH_041,EVT_041_15,2002,Job Loss,Promoted to management,Mora,Medium,Exceptional
+ATH_041,EVT_041_16,1969,Job Loss,Career recession impact,Jönköping,Life-Changing,Low
+ATH_041,EVT_041_17,1961,Divorce,Father passed away,Uppsala,High,Medium
+ATH_041,EVT_041_18,1974,Divorce,Moved to new city,Jönköping,High,High
+ATH_041,EVT_041_19,1976,Job Loss,First child born,Malmö,High,Exceptional
+ATH_041,EVT_041_20,1967,Athletic Achievement,Father passed away,Malmö,Low,Medium
+ATH_041,EVT_041_21,1967,Career Transition,Started consulting business,Sweden,Low,Low
+ATH_041,EVT_041_22,2023,Birth,Moved to new city,Sweden,Medium,Low
+ATH_041,EVT_041_23,2018,Education,Promoted to management,Uppsala,High,Low
+ATH_042,EVT_042_01,2011,Family Loss,Moved to new city,Malmö,Life-Changing,Medium
+ATH_042,EVT_042_02,2003,Family Loss,Second child born,Uppsala,Low,Low
+ATH_042,EVT_042_03,1971,Child Birth,Father passed away,Sweden,Low,Low
+ATH_042,EVT_042_04,1972,Athletic Achievement,First child born,Sweden,High,High
+ATH_042,EVT_042_05,1990,Divorce,Graduated from school,Uppsala,Life-Changing,Exceptional
+ATH_042,EVT_042_06,2022,Injury,Promoted to management,Eringsboda,Medium,High
+ATH_042,EVT_042_07,2021,Marriage,First child born,Malmö,Low,Medium
+ATH_042,EVT_042_08,1972,Education,Moved to new city,Lund,Medium,Exceptional
+ATH_042,EVT_042_09,2023,Career Start,Graduated from school,Sweden,Low,Medium
+ATH_042,EVT_042_10,2014,Pandemic Impact,Career recession impact,Sweden,High,Exceptional
+ATH_042,EVT_042_11,1971,Education,Got married,Eringsboda,Medium,Medium
+ATH_042,EVT_042_12,1995,Athletic Achievement,Had major injury,Eringsboda,Medium,Medium
+ATH_042,EVT_042_13,1993,Injury,Graduated from school,Jönköping,Low,Exceptional
+ATH_042,EVT_042_14,1985,Job Loss,Career recession impact,Malmö,Low,Exceptional
+ATH_042,EVT_042_15,2024,Promotion,Completed Ironman,Jönköping,High,Low
+ATH_042,EVT_042_16,1988,Education,COVID-19 disruption,Stockholm,Life-Changing,Low
+ATH_042,EVT_042_17,1983,Recovery,Promoted to management,Mora,Medium,Medium
+ATH_042,EVT_042_18,1986,Family Loss,Got married,Jönköping,Medium,Low
+ATH_042,EVT_042_19,1992,Marriage,Got married,Lund,High,Low
+ATH_042,EVT_042_20,1994,Family Loss,First child born,Jönköping,Medium,Medium
+ATH_042,EVT_042_21,2010,Career Start,Graduated from school,Mora,Low,High
+ATH_042,EVT_042_22,2007,Birth,Left CEO role,Malmö,Low,Exceptional
+ATH_042,EVT_042_23,2013,Recovery,Left CEO role,Eringsboda,Life-Changing,Medium
+ATH_042,EVT_042_24,1964,Job Loss,Started new job,Uppsala,High,Medium
+ATH_042,EVT_042_25,1990,Family Loss,Graduated from school,Eringsboda,Medium,Low
+ATH_042,EVT_042_26,1988,Family Loss,Promoted to management,Jönköping,Low,Exceptional
+ATH_042,EVT_042_27,2012,Child Birth,Promoted to management,Sweden,Medium,Low
+ATH_043,EVT_043_01,2006,Recovery,Career recession impact,Jönköping,Medium,High
+ATH_043,EVT_043_02,1977,Divorce,Started consulting business,Jönköping,Low,Exceptional
+ATH_043,EVT_043_03,2016,Marriage,Started new job,Malmö,Life-Changing,Exceptional
+ATH_043,EVT_043_04,2016,Career Transition,Started consulting business,Stockholm,High,Low
+ATH_043,EVT_043_05,1975,Divorce,COVID-19 disruption,Eringsboda,Life-Changing,High
+ATH_043,EVT_043_06,2023,Recovery,Started athletic training,Mora,High,Medium
+ATH_043,EVT_043_07,1974,Moving,First child born,Eringsboda,Medium,Low
+ATH_043,EVT_043_08,2012,Job Loss,First child born,Lund,Low,Medium
+ATH_043,EVT_043_09,1974,Family Loss,Second child born,Uppsala,Life-Changing,High
+ATH_043,EVT_043_10,1977,Child Birth,Started consulting business,Jönköping,Low,Exceptional
+ATH_043,EVT_043_11,1980,Pandemic Impact,Started athletic training,Uppsala,Medium,Low
+ATH_043,EVT_043_12,1968,Pandemic Impact,Career recession impact,Uppsala,Life-Changing,High
+ATH_043,EVT_043_13,1971,Family Loss,Started athletic training,Uppsala,Life-Changing,Exceptional
+ATH_043,EVT_043_14,1979,Job Loss,Career recession impact,Lund,High,Medium
+ATH_043,EVT_043_15,1984,Injury,Got married,Sweden,Life-Changing,Exceptional
+ATH_043,EVT_043_16,1995,Education,Promoted to management,Lund,Low,High
+ATH_043,EVT_043_17,1979,Birth,Second child born,Uppsala,Life-Changing,Exceptional
+ATH_044,EVT_044_01,1965,Family Loss,Graduated from school,Uppsala,Life-Changing,Medium
+ATH_044,EVT_044_02,1975,Recovery,Promoted to management,Jönköping,Low,High
+ATH_044,EVT_044_03,2000,Family Loss,Started new job,Uppsala,Life-Changing,Medium
+ATH_044,EVT_044_04,2007,Divorce,Career recession impact,Uppsala,High,Medium
+ATH_044,EVT_044_05,1991,Moving,Career recession impact,Uppsala,High,Medium
+ATH_044,EVT_044_06,1984,Injury,Promoted to management,Lund,High,Exceptional
+ATH_044,EVT_044_07,2003,Child Birth,Had major injury,Sweden,High,Exceptional
+ATH_044,EVT_044_08,2014,Child Birth,Left CEO role,Malmö,High,High
+ATH_044,EVT_044_09,2002,Moving,Father passed away,Sweden,Medium,Exceptional
+ATH_044,EVT_044_10,2019,Marriage,COVID-19 disruption,Mora,High,Low
+ATH_044,EVT_044_11,2022,Promotion,Career recession impact,Mora,Low,Low
+ATH_044,EVT_044_12,2017,Education,Started new job,Uppsala,High,High
+ATH_044,EVT_044_13,1992,Pandemic Impact,Career recession impact,Lund,Life-Changing,High
+ATH_044,EVT_044_14,2023,Pandemic Impact,Second child born,Sweden,Low,Exceptional
+ATH_044,EVT_044_15,1980,Marriage,Career recession impact,Mora,Low,Exceptional
+ATH_044,EVT_044_16,1990,Recovery,Career recession impact,Mora,High,Low
+ATH_044,EVT_044_17,1987,Education,Started new job,Mora,Low,Exceptional
+ATH_044,EVT_044_18,1989,Divorce,Father passed away,Uppsala,High,Exceptional
+ATH_044,EVT_044_19,1963,Moving,Promoted to management,Stockholm,Low,Exceptional
+ATH_044,EVT_044_20,2002,Family Loss,Started athletic training,Lund,Life-Changing,High
+ATH_044,EVT_044_21,2018,Job Loss,Got married,Lund,High,Exceptional
+ATH_045,EVT_045_01,1969,Injury,Promoted to management,Mora,Low,Low
+ATH_045,EVT_045_02,2007,Promotion,Started consulting business,Eringsboda,High,Medium
+ATH_045,EVT_045_03,1969,Birth,Second child born,Sweden,Medium,High
+ATH_045,EVT_045_04,2009,Recovery,Started consulting business,Uppsala,High,High
+ATH_045,EVT_045_05,2015,Promotion,Got married,Uppsala,High,Low
+ATH_045,EVT_045_06,1963,Pandemic Impact,Got married,Jönköping,Low,Low
+ATH_045,EVT_045_07,2018,Education,Moved to new city,Malmö,Low,Medium
+ATH_045,EVT_045_08,1980,Injury,Started new job,Eringsboda,Medium,Exceptional
+ATH_045,EVT_045_09,2024,Career Start,Got married,Jönköping,Medium,Medium
+ATH_045,EVT_045_10,1990,Divorce,Promoted to management,Lund,Low,Exceptional
+ATH_045,EVT_045_11,1960,Athletic Achievement,Moved to new city,Gothenburg,High,Exceptional
+ATH_045,EVT_045_12,1973,Family Loss,Moved to new city,Malmö,High,Low
+ATH_045,EVT_045_13,1999,Pandemic Impact,First child born,Stockholm,Life-Changing,Low
+ATH_045,EVT_045_14,2002,Pandemic Impact,First child born,Jönköping,Medium,High
+ATH_045,EVT_045_15,1976,Marriage,Father passed away,Mora,High,Medium
+ATH_045,EVT_045_16,2019,Family Loss,Career recession impact,Eringsboda,High,Medium
+ATH_045,EVT_045_17,1960,Career Start,Started consulting business,Jönköping,High,High
+ATH_045,EVT_045_18,1972,Family Loss,Moved to new city,Jönköping,Low,Low
+ATH_045,EVT_045_19,2022,Education,Graduated from school,Eringsboda,Life-Changing,Exceptional
+ATH_045,EVT_045_20,2008,Job Loss,Father passed away,Jönköping,High,Low
+ATH_045,EVT_045_21,1979,Injury,Started new job,Eringsboda,Life-Changing,Exceptional
+ATH_045,EVT_045_22,1968,Career Transition,Had major injury,Sweden,Low,Medium
+ATH_046,EVT_046_01,2018,Job Loss,Had major injury,Sweden,Medium,Exceptional
+ATH_046,EVT_046_02,1986,Education,Started new job,Sweden,Life-Changing,Medium
+ATH_046,EVT_046_03,1980,Recovery,First child born,Sweden,Low,Low
+ATH_046,EVT_046_04,2003,Birth,Father passed away,Stockholm,High,Medium
+ATH_046,EVT_046_05,2022,Pandemic Impact,Left CEO role,Gothenburg,Medium,Low
+ATH_046,EVT_046_06,1977,Family Loss,Graduated from school,Mora,Medium,Medium
+ATH_046,EVT_046_07,1983,Family Loss,Second child born,Malmö,Medium,Low
+ATH_046,EVT_046_08,1974,Child Birth,Second child born,Sweden,High,Medium
+ATH_046,EVT_046_09,1960,Injury,Second child born,Mora,Life-Changing,High
+ATH_046,EVT_046_10,2024,Child Birth,First child born,Jönköping,High,Medium
+ATH_046,EVT_046_11,1970,Career Transition,Graduated from school,Malmö,High,Low
+ATH_046,EVT_046_12,2013,Divorce,First child born,Sweden,Low,Exceptional
+ATH_046,EVT_046_13,1968,Athletic Achievement,Started athletic training,Stockholm,Life-Changing,High
+ATH_046,EVT_046_14,1981,Career Transition,Left CEO role,Malmö,Medium,High
+ATH_046,EVT_046_15,1966,Family Loss,Started new job,Mora,Low,Exceptional
+ATH_046,EVT_046_16,2012,Divorce,Started consulting business,Uppsala,Low,Medium
+ATH_046,EVT_046_17,2009,Athletic Achievement,Started new job,Uppsala,Life-Changing,Medium
+ATH_046,EVT_046_18,2017,Moving,Moved to new city,Stockholm,Medium,High
+ATH_046,EVT_046_19,2022,Recovery,Second child born,Malmö,High,Medium
+ATH_046,EVT_046_20,2005,Promotion,First child born,Jönköping,High,Exceptional
+ATH_046,EVT_046_21,1988,Education,Second child born,Malmö,Life-Changing,Exceptional
+ATH_046,EVT_046_22,2008,Divorce,Got married,Stockholm,Life-Changing,High
+ATH_046,EVT_046_23,2005,Birth,Moved to new city,Eringsboda,Low,Medium
+ATH_046,EVT_046_24,2011,Child Birth,First child born,Stockholm,Life-Changing,Exceptional
+ATH_046,EVT_046_25,1991,Family Loss,Left CEO role,Eringsboda,Medium,Medium
+ATH_046,EVT_046_26,1970,Injury,Moved to new city,Stockholm,High,Medium
+ATH_046,EVT_046_27,1973,Child Birth,First child born,Eringsboda,Low,High
+ATH_046,EVT_046_28,2024,Career Transition,Father passed away,Jönköping,Medium,Exceptional
+ATH_046,EVT_046_29,1997,Pandemic Impact,Left CEO role,Mora,High,High
+ATH_047,EVT_047_01,2004,Education,Completed Ironman,Eringsboda,Low,Low
+ATH_047,EVT_047_02,2003,Child Birth,Started athletic training,Stockholm,Life-Changing,Exceptional
+ATH_047,EVT_047_03,2012,Promotion,Started new job,Mora,Medium,High
+ATH_047,EVT_047_04,1967,Career Start,Started athletic training,Eringsboda,Medium,High
+ATH_047,EVT_047_05,1961,Career Start,Completed Ironman,Jönköping,Life-Changing,Exceptional
+ATH_047,EVT_047_06,2015,Education,Got married,Malmö,Low,High
+ATH_047,EVT_047_07,1999,Marriage,Left CEO role,Uppsala,Low,Exceptional
+ATH_047,EVT_047_08,1980,Recovery,Started athletic training,Eringsboda,High,Medium
+ATH_047,EVT_047_09,2020,Child Birth,Started consulting business,Gothenburg,Low,Exceptional
+ATH_047,EVT_047_10,2005,Birth,Graduated from school,Uppsala,Low,Medium
+ATH_047,EVT_047_11,1994,Moving,Promoted to management,Sweden,High,Low
+ATH_047,EVT_047_12,1988,Career Start,Started new job,Lund,High,Low
+ATH_047,EVT_047_13,2016,Moving,Completed Ironman,Uppsala,High,Low
+ATH_047,EVT_047_14,2021,Marriage,Graduated from school,Lund,High,Low
+ATH_047,EVT_047_15,2015,Child Birth,Got married,Uppsala,Life-Changing,Low
+ATH_047,EVT_047_16,1995,Career Transition,Graduated from school,Malmö,Medium,Medium
+ATH_047,EVT_047_17,1972,Job Loss,Started athletic training,Uppsala,Life-Changing,Exceptional
+ATH_047,EVT_047_18,1975,Career Start,COVID-19 disruption,Gothenburg,Low,High
+ATH_047,EVT_047_19,2006,Career Start,Started consulting business,Uppsala,Low,Medium
+ATH_048,EVT_048_01,1991,Career Start,Left CEO role,Lund,Life-Changing,Medium
+ATH_048,EVT_048_02,2006,Marriage,First child born,Lund,High,High
+ATH_048,EVT_048_03,1963,Birth,Got married,Sweden,Low,Medium
+ATH_048,EVT_048_04,1973,Career Transition,Started new job,Malmö,Low,Exceptional
+ATH_048,EVT_048_05,1999,Birth,Started consulting business,Jönköping,High,High
+ATH_048,EVT_048_06,2012,Child Birth,Started new job,Eringsboda,Medium,Low
+ATH_048,EVT_048_07,1965,Family Loss,Graduated from school,Sweden,Life-Changing,Exceptional
+ATH_048,EVT_048_08,1968,Career Start,Had major injury,Gothenburg,Medium,High
+ATH_048,EVT_048_09,2012,Divorce,Father passed away,Uppsala,Low,Medium
+ATH_048,EVT_048_10,1967,Family Loss,Moved to new city,Lund,Low,Low
+ATH_048,EVT_048_11,1962,Divorce,Started athletic training,Lund,Medium,Exceptional
+ATH_048,EVT_048_12,1970,Athletic Achievement,Moved to new city,Malmö,Low,Medium
+ATH_048,EVT_048_13,1980,Career Start,Graduated from school,Gothenburg,Low,Medium
+ATH_048,EVT_048_14,1966,Injury,Started athletic training,Eringsboda,Life-Changing,Medium
+ATH_048,EVT_048_15,1979,Moving,First child born,Mora,Low,Medium
+ATH_048,EVT_048_16,1981,Marriage,Second child born,Eringsboda,Low,Low
+ATH_048,EVT_048_17,1966,Athletic Achievement,Career recession impact,Sweden,Life-Changing,Medium
+ATH_048,EVT_048_18,1965,Birth,Career recession impact,Gothenburg,Life-Changing,Low
+ATH_048,EVT_048_19,2016,Birth,Graduated from school,Gothenburg,Low,High
+ATH_049,EVT_049_01,1995,Job Loss,First child born,Eringsboda,Medium,High
+ATH_049,EVT_049_02,1976,Athletic Achievement,Started new job,Jönköping,Life-Changing,High
+ATH_049,EVT_049_03,2002,Moving,Had major injury,Uppsala,Low,Exceptional
+ATH_049,EVT_049_04,2010,Career Start,Second child born,Stockholm,Medium,Low
+ATH_049,EVT_049_05,1997,Promotion,Completed Ironman,Malmö,Low,Exceptional
+ATH_049,EVT_049_06,1984,Injury,Career recession impact,Stockholm,High,High
+ATH_049,EVT_049_07,2013,Career Start,Completed Ironman,Jönköping,High,High
+ATH_049,EVT_049_08,2020,Recovery,Got married,Malmö,Low,Low
+ATH_049,EVT_049_09,1983,Athletic Achievement,Started new job,Malmö,Life-Changing,Low
+ATH_049,EVT_049_10,1976,Child Birth,Started athletic training,Stockholm,Medium,High
+ATH_049,EVT_049_11,1989,Education,COVID-19 disruption,Lund,Low,High
+ATH_049,EVT_049_12,2018,Athletic Achievement,Father passed away,Uppsala,Medium,Exceptional
+ATH_049,EVT_049_13,2002,Job Loss,Promoted to management,Uppsala,Low,Low
+ATH_049,EVT_049_14,2014,Career Start,Father passed away,Eringsboda,High,Medium
+ATH_049,EVT_049_15,2022,Pandemic Impact,Started new job,Malmö,High,Exceptional
+ATH_049,EVT_049_16,2003,Marriage,Had major injury,Mora,Life-Changing,Exceptional
+ATH_049,EVT_049_17,2010,Career Start,Graduated from school,Malmö,High,Exceptional
+ATH_049,EVT_049_18,1983,Athletic Achievement,Got married,Lund,Low,Exceptional
+ATH_049,EVT_049_19,1999,Pandemic Impact,Second child born,Jönköping,Medium,Low
+ATH_049,EVT_049_20,1993,Education,Second child born,Mora,Life-Changing,Low
+ATH_049,EVT_049_21,2004,Child Birth,Moved to new city,Uppsala,Low,High
+ATH_049,EVT_049_22,2010,Athletic Achievement,Moved to new city,Gothenburg,Life-Changing,Medium
+ATH_049,EVT_049_23,1999,Birth,First child born,Stockholm,High,Medium
+ATH_049,EVT_049_24,1974,Child Birth,First child born,Sweden,Low,Low
+ATH_049,EVT_049_25,1981,Athletic Achievement,Got married,Gothenburg,High,Exceptional
+ATH_049,EVT_049_26,2008,Career Transition,Promoted to management,Eringsboda,Medium,Medium
+ATH_050,EVT_050_01,1990,Child Birth,Career recession impact,Gothenburg,Medium,Low
+ATH_050,EVT_050_02,2001,Career Start,Father passed away,Gothenburg,Low,High
+ATH_050,EVT_050_03,2010,Family Loss,Started consulting business,Mora,High,Low
+ATH_050,EVT_050_04,1963,Moving,Second child born,Jönköping,Life-Changing,High
+ATH_050,EVT_050_05,1992,Moving,Completed Ironman,Mora,Medium,High
+ATH_050,EVT_050_06,1966,Career Start,Started consulting business,Jönköping,Life-Changing,High
+ATH_050,EVT_050_07,1981,Injury,First child born,Eringsboda,Medium,High
+ATH_050,EVT_050_08,2006,Injury,Had major injury,Gothenburg,High,Low
+ATH_050,EVT_050_09,2019,Job Loss,COVID-19 disruption,Lund,Low,Low
+ATH_050,EVT_050_10,2014,Child Birth,Father passed away,Malmö,Low,Exceptional
+ATH_050,EVT_050_11,1982,Promotion,Graduated from school,Uppsala,Medium,High
+ATH_050,EVT_050_12,2017,Career Start,Had major injury,Lund,Life-Changing,Exceptional
+ATH_050,EVT_050_13,1993,Pandemic Impact,COVID-19 disruption,Stockholm,Low,Low
+ATH_050,EVT_050_14,1964,Recovery,Graduated from school,Stockholm,High,Low
+ATH_050,EVT_050_15,1981,Family Loss,Started new job,Gothenburg,Low,Exceptional
+ATH_050,EVT_050_16,1992,Birth,Graduated from school,Sweden,High,Exceptional
+ATH_050,EVT_050_17,2007,Athletic Achievement,Moved to new city,Gothenburg,High,High
+ATH_050,EVT_050_18,2023,Child Birth,Had major injury,Stockholm,High,Exceptional
+ATH_050,EVT_050_19,2002,Child Birth,Career recession impact,Eringsboda,Life-Changing,Low
+ATH_050,EVT_050_20,2003,Education,Career recession impact,Mora,Life-Changing,High
+ATH_050,EVT_050_21,1982,Marriage,Second child born,Mora,Life-Changing,Medium
+ATH_050,EVT_050_22,1986,Family Loss,Had major injury,Sweden,Medium,Low
+ATH_050,EVT_050_23,1998,Career Transition,Started athletic training,Uppsala,Low,Low
+ATH_050,EVT_050_24,1974,Marriage,Graduated from school,Gothenburg,Life-Changing,High
+ATH_050,EVT_050_25,2001,Athletic Achievement,Completed Ironman,Sweden,Life-Changing,Exceptional
+ATH_050,EVT_050_26,2007,Athletic Achievement,Graduated from school,Sweden,High,Exceptional

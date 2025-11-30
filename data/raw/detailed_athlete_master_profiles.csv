@@ -1,0 +1,151 @@
+athlete_id,name,age,gender,location,nationality,primary_sport,competition_level,years_training,height_cm,weight_kg,social_network_size,coaching_support,training_partners,career_status,communication_preference
+ATH_001,Matthew Rodriguez,36,Male,"Munich, Germany",Germany,Cycling,Elite Amateur,10,178,65,5,1,3,Active,Voice-focused
+ATH_002,Hassan Müller,18,Male,"Toronto, Canada",Canada,Running,Intermediate,3,173,77,82,1,2,Retired,Voice-focused
+ATH_003,Isabella Petrov,36,Female,"Mumbai, India",India,Rowing,Beginner,2,168,50,22,1,4,Active,Mixed
+ATH_004,Thomas Garcia,35,Male,"Stockholm, Sweden",Sweden,Rowing,Advanced,8,179,81,31,1,3,Active,Mixed
+ATH_005,Mohammed Taylor,26,Male,"Barcelona, Spain",Spain,CrossFit,Intermediate,8,175,67,54,1,0,Active,Voice-focused
+ATH_006,Sakura Silva,27,Female,"Beijing, China",China,Rowing,Intermediate,5,166,64,78,1,4,Active,App-based
+ATH_007,Sophie Schmidt,18,Female,"Buenos Aires, Argentina",Argentina,Cycling,Intermediate,3,180,64,54,0,6,Active,Text-focused
+ATH_008,Freya Smith,18,Female,"Paris, France",France,Football,Advanced,6,162,57,21,1,2,Active,App-based
+ATH_009,Clara Costa,43,Female,"Munich, Germany",Germany,CrossFit,Intermediate,4,163,66,34,1,2,Active,Text-focused
+ATH_010,Priya Novak,48,Female,"Seoul, South Korea",South Korea,Cycling,Beginner,3,166,62,68,1,1,Active,Voice-focused
+ATH_011,Clara Petrov,34,Female,"Vancouver, Canada",Canada,Triathlon,Advanced,12,163,79,37,0,5,Active,App-based
+ATH_012,Sofia Smith,34,Female,"Bangkok, Thailand",Thailand,Cycling,Beginner,1,167,62,67,1,0,Active,Mixed
+ATH_013,Hans Rodriguez,28,Male,"Mexico City, Mexico",Mexico,Tennis,Intermediate,3,185,75,78,1,6,Active,Mixed
+ATH_014,Aria Dubois,31,Female,"Munich, Germany",Germany,Cycling,Intermediate,4,163,73,64,1,7,Active,Voice-focused
+ATH_015,Maria Lee,18,Female,"Bangkok, Thailand",Thailand,CrossFit,Beginner,1,167,71,70,0,3,Active,Voice-focused
+ATH_016,Emma Wilson,31,Female,"Sydney, Australia",Australia,Rowing,Advanced,12,170,69,50,0,7,Active,Voice-focused
+ATH_017,Hans Johnson,40,Male,"Beijing, China",China,CrossFit,Intermediate,3,176,87,61,0,1,Active,Voice-focused
+ATH_018,David Ivanov,27,Male,"Copenhagen, Denmark",Denmark,Cycling,Elite Amateur,10,173,72,46,0,3,Active,Mixed
+ATH_019,Maya Chen,37,Female,"Manchester, UK",UK,Cycling,Beginner,3,171,73,52,1,4,Active,Voice-focused
+ATH_020,Ryan Lee,35,Male,"Singapore, Singapore",Singapore,CrossFit,Beginner,3,173,71,17,0,4,Active,Text-focused
+ATH_021,Mohammed Müller,28,Male,"Madrid, Spain",Spain,Basketball,Intermediate,8,192,73,83,0,4,Active,App-based
+ATH_022,Kevin Johnson,37,Male,"New York, USA",USA,Football,Intermediate,8,182,72,61,1,6,Active,Text-focused
+ATH_023,Erik Müller,18,Male,"Madrid, Spain",Spain,Basketball,Beginner,1,174,72,53,1,3,Active,Text-focused
+ATH_024,Sakura Costa,43,Female,"Copenhagen, Denmark",Denmark,Swimming,Elite Amateur,10,163,76,5,1,5,Active,App-based
+ATH_025,David Kumar,28,Male,"Chicago, USA",USA,Rowing,Advanced,8,190,79,36,0,3,Active,Voice-focused
+ATH_026,Michael Andersen,24,Male,"Helsinki, Finland",Finland,CrossFit,Advanced,6,181,67,74,1,4,Active,Voice-focused
+ATH_027,Isabella Larsson,40,Female,"Beijing, China",China,Cycling,Elite Amateur,19,166,45,78,1,0,Active,App-based
+ATH_028,Rafael Costa,27,Male,"Shanghai, China",China,Cycling,Advanced,8,180,64,24,0,5,Active,App-based
+ATH_029,Lucas Martin,34,Male,"Rome, Italy",Italy,CrossFit,Beginner,2,187,68,35,1,6,Active,Mixed
+ATH_030,Amelia Ivanov,25,Female,"Barcelona, Spain",Spain,Basketball,Beginner,1,158,58,32,0,3,Active,Voice-focused
+ATH_031,Sebastian Andersen,30,Male,"Manchester, UK",UK,Triathlon,Elite Amateur,11,185,54,64,1,2,Active,Text-focused
+ATH_032,Kai Bernard,30,Male,"Dubai, UAE",UAE,Cycling,Elite Amateur,10,173,62,57,0,5,Active,App-based
+ATH_033,Priya Wilson,34,Female,"Mexico City, Mexico",Mexico,Football,Elite Amateur,15,158,49,62,1,7,Active,Text-focused
+ATH_034,Hans Garcia,29,Male,"Lyon, France",France,Swimming,Intermediate,3,184,80,69,1,5,Active,App-based
+ATH_035,Yuki Silva,33,Male,"Los Angeles, USA",USA,Tennis,Elite Amateur,10,171,85,16,0,4,Active,App-based
+ATH_036,Amelia Santos,18,Female,"Stockholm, Sweden",Sweden,Rowing,Beginner,1,162,55,51,1,6,Active,Voice-focused
+ATH_037,Lucas Silva,39,Male,"Los Angeles, USA",USA,Rowing,Intermediate,3,176,84,63,1,5,Active,Voice-focused
+ATH_038,Nora Novak,30,Female,"Toronto, Canada",Canada,Running,Beginner,2,159,61,60,1,1,Active,Text-focused
+ATH_039,Chris Taylor,30,Male,"Lyon, France",France,Triathlon,Elite Amateur,12,179,70,52,1,5,Active,Voice-focused
+ATH_040,Thomas Martinez,30,Male,"Los Angeles, USA",USA,Tennis,Elite Amateur,12,173,86,35,1,3,Active,Text-focused
+ATH_041,Anna Kowalski,36,Female,"Chicago, USA",USA,Basketball,Beginner,3,158,57,71,0,0,Active,App-based
+ATH_042,Viktor Novak,23,Male,"Rio de Janeiro, Brazil",Brazil,CrossFit,Advanced,6,180,72,24,1,4,Active,Mixed
+ATH_043,Yuki Lee,28,Male,"Sydney, Australia",Australia,Basketball,Intermediate,6,185,68,74,1,4,Active,Mixed
+ATH_044,Emily Garcia,20,Female,"Copenhagen, Denmark",Denmark,Triathlon,Elite Amateur,10,162,60,21,1,0,Active,Text-focused
+ATH_045,Eva Patel,27,Female,"Mexico City, Mexico",Mexico,CrossFit,Advanced,8,160,55,42,0,4,Active,Mixed
+ATH_046,Mohammed Müller,28,Male,"Rome, Italy",Italy,Football,Advanced,6,172,80,88,0,4,Active,Voice-focused
+ATH_047,Grace Johnson,39,Female,"London, UK",UK,Swimming,Elite Amateur,11,165,50,37,0,4,Active,App-based
+ATH_048,Freya Wang,31,Female,"Paris, France",France,Cycling,Beginner,1,166,65,27,1,4,Retired,Text-focused
+ATH_049,Luca Kowalski,22,Male,"Stockholm, Sweden",Sweden,Rowing,Advanced,6,175,76,25,1,0,Active,Text-focused
+ATH_050,Michael Wilson,25,Male,"Copenhagen, Denmark",Denmark,Running,Elite Amateur,10,174,76,58,0,7,Active,Mixed
+ATH_051,Maya Garcia,26,Female,"Stockholm, Sweden",Sweden,Triathlon,Elite Amateur,10,155,74,29,1,2,Active,Mixed
+ATH_052,Luca Larsson,43,Male,"Tokyo, Japan",Japan,Football,Elite Amateur,14,182,64,60,1,7,Active,App-based
+ATH_053,Luca Moore,40,Male,"Los Angeles, USA",USA,Running,Advanced,15,170,96,84,1,2,Active,App-based
+ATH_054,Eva Kim,34,Female,"Buenos Aires, Argentina",Argentina,Tennis,Advanced,11,163,70,44,0,2,Active,Mixed
+ATH_055,Hannah Andersen,25,Female,"Bangkok, Thailand",Thailand,Football,Advanced,6,179,65,52,0,6,Active,Text-focused
+ATH_056,Isabella Santos,25,Female,"Buenos Aires, Argentina",Argentina,Triathlon,Advanced,6,167,52,20,0,7,Active,App-based
+ATH_057,Alex Müller,28,Male,"Toronto, Canada",Canada,Cycling,Elite Amateur,10,172,100,93,0,2,Active,App-based
+ATH_058,Hannah Wang,23,Female,"Mexico City, Mexico",Mexico,Tennis,Intermediate,5,164,62,81,1,2,Active,Text-focused
+ATH_059,Grace Novak,22,Female,"New York, USA",USA,Rowing,Intermediate,4,173,60,70,1,5,Active,Mixed
+ATH_060,Emily Bernard,23,Female,"Copenhagen, Denmark",Denmark,Tennis,Beginner,2,166,56,42,0,6,Retired,App-based
+ATH_061,Omar Silva,27,Male,"Shanghai, China",China,Rowing,Beginner,3,178,88,12,0,0,Active,Voice-focused
+ATH_062,Kevin Chen,42,Male,"Melbourne, Australia",Australia,CrossFit,Elite Amateur,15,183,63,10,0,7,Active,Text-focused
+ATH_063,Matthew Larsson,18,Male,"Berlin, Germany",Germany,Cycling,Elite Amateur,10,166,70,54,0,0,Active,Text-focused
+ATH_064,Chris Taylor,27,Male,"Dubai, UAE",UAE,Swimming,Intermediate,4,184,62,69,1,6,Active,Voice-focused
+ATH_065,Chen Moore,31,Male,"New York, USA",USA,Football,Intermediate,3,187,84,33,1,5,Active,Mixed
+ATH_066,Lily Anderson,26,Female,"Sydney, Australia",Australia,Tennis,Advanced,8,158,64,40,1,4,Retired,Text-focused
+ATH_067,Stella Andersen,28,Female,"London, UK",UK,Football,Intermediate,7,172,73,27,0,3,Active,Voice-focused
+ATH_068,Antonio Johnson,18,Male,"Seoul, South Korea",South Korea,Basketball,Intermediate,3,167,75,43,0,5,Active,App-based
+ATH_069,Marco Schmidt,33,Male,"Moscow, Russia",Russia,Football,Elite Amateur,12,164,91,25,0,5,Active,Text-focused
+ATH_070,Sebastian Martin,43,Male,"Melbourne, Australia",Australia,Basketball,Beginner,2,192,92,40,1,1,Active,App-based
+ATH_071,Isabella Martinez,18,Female,"Stockholm, Sweden",Sweden,CrossFit,Advanced,6,159,51,56,0,7,Active,Mixed
+ATH_072,Thomas Wang,42,Male,"Paris, France",France,Swimming,Elite Amateur,17,191,92,79,1,6,Active,Voice-focused
+ATH_073,Kevin Johnson,35,Male,"Delhi, India",India,Triathlon,Advanced,7,169,77,76,0,5,Active,Mixed
+ATH_074,Freya Novak,31,Female,"Rio de Janeiro, Brazil",Brazil,Running,Beginner,2,167,66,59,1,2,Active,Voice-focused
+ATH_075,Matthew Chen,18,Male,"Madrid, Spain",Spain,Football,Intermediate,3,171,78,17,1,2,Active,Text-focused
+ATH_076,Kai Taylor,35,Male,"Beijing, China",China,Swimming,Elite Amateur,11,182,82,51,0,7,Active,App-based
+ATH_077,Luca Johnson,24,Male,"Dubai, UAE",UAE,Running,Beginner,2,179,70,84,0,6,Active,Text-focused
+ATH_078,Luna Rodriguez,32,Female,"Manchester, UK",UK,CrossFit,Advanced,12,166,69,74,0,4,Active,App-based
+ATH_079,Freya Dubois,40,Female,"Bangkok, Thailand",Thailand,Rowing,Intermediate,6,170,60,32,1,7,Active,App-based
+ATH_080,Kevin Patel,27,Male,"Madrid, Spain",Spain,Cycling,Beginner,1,183,70,23,1,5,Active,Voice-focused
+ATH_081,Freya Martin,26,Female,"Vancouver, Canada",Canada,Football,Advanced,7,159,70,20,1,3,Active,Voice-focused
+ATH_082,Hans Patel,34,Male,"Paris, France",France,Tennis,Beginner,3,172,76,17,0,4,Active,Text-focused
+ATH_083,Olivia Petrov,36,Female,"Madrid, Spain",Spain,Swimming,Beginner,1,162,54,39,0,3,Active,App-based
+ATH_084,Sofia Andersen,33,Female,"Berlin, Germany",Germany,Running,Beginner,2,169,65,40,1,6,Active,App-based
+ATH_085,Anna Patel,28,Female,"Vancouver, Canada",Canada,Rowing,Advanced,6,174,71,74,1,0,Active,Text-focused
+ATH_086,Thomas Chen,31,Male,"Paris, France",France,Swimming,Intermediate,6,166,91,52,1,3,Active,Mixed
+ATH_087,Michael Petrov,21,Male,"Beijing, China",China,Tennis,Advanced,6,181,63,35,1,5,Active,Voice-focused
+ATH_088,Maria Kim,38,Female,"Munich, Germany",Germany,CrossFit,Beginner,2,153,62,83,0,5,Active,Voice-focused
+ATH_089,Omar Schmidt,40,Male,"Milan, Italy",Italy,Swimming,Intermediate,3,182,82,37,1,3,Active,Voice-focused
+ATH_090,Raj Lee,36,Male,"São Paulo, Brazil",Brazil,Basketball,Advanced,8,188,66,5,1,7,Active,App-based
+ATH_091,Maria Brown,23,Female,"Rio de Janeiro, Brazil",Brazil,Football,Beginner,3,161,59,52,0,1,Active,App-based
+ATH_092,Antonio Anderson,18,Male,"Beijing, China",China,Running,Elite Amateur,10,181,65,31,0,5,Active,Text-focused
+ATH_093,Chen Schmidt,42,Male,"Dubai, UAE",UAE,Football,Elite Amateur,16,180,67,34,0,0,Active,Mixed
+ATH_094,Kevin Larsson,22,Male,"Madrid, Spain",Spain,Swimming,Advanced,6,175,68,78,0,6,Active,Voice-focused
+ATH_095,Kai Chen,27,Male,"Lyon, France",France,CrossFit,Beginner,3,184,65,8,0,5,Active,Text-focused
+ATH_096,Yuki Wang,36,Male,"Milan, Italy",Italy,Cycling,Advanced,7,176,75,63,1,0,Active,Mixed
+ATH_097,Ryan Novak,26,Male,"Barcelona, Spain",Spain,Basketball,Intermediate,6,175,74,42,0,7,Active,Voice-focused
+ATH_098,Priya Novak,43,Female,"Milan, Italy",Italy,Rowing,Elite Amateur,14,162,48,94,0,6,Active,Voice-focused
+ATH_099,Raj Petrov,31,Male,"Delhi, India",India,CrossFit,Beginner,2,176,70,46,1,2,Active,Mixed
+ATH_100,Matthew Novak,31,Male,"São Paulo, Brazil",Brazil,Tennis,Beginner,2,175,92,11,1,3,Retired,App-based
+ATH_101,Anna Novak,31,Female,"Shanghai, China",China,Football,Elite Amateur,11,170,63,36,0,7,Active,App-based
+ATH_102,Chris Müller,35,Male,"Dubai, UAE",UAE,Triathlon,Advanced,7,178,59,70,1,6,Active,App-based
+ATH_103,Clara Silva,28,Female,"Copenhagen, Denmark",Denmark,Running,Advanced,7,164,60,29,1,2,Active,Text-focused
+ATH_104,Clara Kowalski,38,Female,"Moscow, Russia",Russia,Rowing,Beginner,3,168,54,41,1,5,Active,Mixed
+ATH_105,Chloe Martin,31,Female,"Munich, Germany",Germany,Basketball,Intermediate,3,159,63,9,1,5,Active,Voice-focused
+ATH_106,Olivia Kowalski,39,Female,"Lyon, France",France,Rowing,Beginner,2,164,74,66,1,3,Active,Text-focused
+ATH_107,Rosa Wang,18,Female,"Oslo, Norway",Norway,Football,Advanced,6,163,73,58,0,5,Active,Mixed
+ATH_108,Maya Ivanov,22,Female,"Sydney, Australia",Australia,Rowing,Advanced,6,167,59,63,0,6,Active,Text-focused
+ATH_109,Michael Chen,23,Male,"Tokyo, Japan",Japan,Tennis,Intermediate,5,176,70,81,1,7,Active,Text-focused
+ATH_110,Aria Kowalski,23,Female,"London, UK",UK,Basketball,Intermediate,3,160,72,66,1,7,Active,Text-focused
+ATH_111,Lucas Silva,31,Male,"Chicago, USA",USA,Basketball,Advanced,13,171,63,26,0,2,Active,Mixed
+ATH_112,Chloe Wilson,30,Female,"Buenos Aires, Argentina",Argentina,Cycling,Advanced,12,167,45,43,1,7,Retired,Voice-focused
+ATH_113,Emily Martinez,19,Female,"Lyon, France",France,Rowing,Beginner,1,150,67,28,0,1,Active,Mixed
+ATH_114,Antonio Wilson,25,Male,"Delhi, India",India,Triathlon,Intermediate,4,162,69,49,0,0,Active,Mixed
+ATH_115,Sophie Santos,18,Female,"Berlin, Germany",Germany,Rowing,Elite Amateur,10,168,69,60,0,1,Retired,Voice-focused
+ATH_116,Marco Rodriguez,18,Male,"Bangkok, Thailand",Thailand,Swimming,Elite Amateur,10,181,70,37,0,2,Active,Mixed
+ATH_117,Clara Ivanov,35,Female,"Tokyo, Japan",Japan,CrossFit,Advanced,8,163,65,34,0,1,Active,Voice-focused
+ATH_118,Viktor Santos,35,Male,"Shanghai, China",China,Running,Beginner,1,186,82,23,0,4,Active,Voice-focused
+ATH_119,Priya Dubois,28,Female,"Singapore, Singapore",Singapore,Rowing,Intermediate,8,163,57,110,1,7,Active,Text-focused
+ATH_120,Daniel Chen,21,Male,"Madrid, Spain",Spain,Basketball,Elite Amateur,10,180,68,86,0,1,Active,Mixed
+ATH_121,David Johnson,29,Male,"Tokyo, Japan",Japan,Tennis,Intermediate,4,183,93,33,0,5,Active,Voice-focused
+ATH_122,Priya Brown,38,Female,"Buenos Aires, Argentina",Argentina,CrossFit,Elite Amateur,13,164,81,58,1,5,Active,Text-focused
+ATH_123,Stella Wang,18,Female,"Tokyo, Japan",Japan,Tennis,Intermediate,3,158,46,38,0,6,Active,Mixed
+ATH_124,Hans Brown,25,Male,"Manchester, UK",UK,CrossFit,Advanced,6,176,66,67,1,1,Active,App-based
+ATH_125,Sophie Anderson,22,Female,"Moscow, Russia",Russia,Running,Intermediate,4,162,60,54,0,7,Active,Voice-focused
+ATH_126,Ryan Kumar,24,Male,"Seoul, South Korea",South Korea,CrossFit,Elite Amateur,10,186,65,33,1,0,Active,Mixed
+ATH_127,Kai Ivanov,40,Male,"Los Angeles, USA",USA,Triathlon,Beginner,3,176,68,38,1,6,Active,Voice-focused
+ATH_128,David Anderson,49,Male,"Los Angeles, USA",USA,Tennis,Intermediate,6,181,65,59,1,7,Active,Text-focused
+ATH_129,Raj Schmidt,18,Male,"Sydney, Australia",Australia,CrossFit,Advanced,6,168,72,64,0,4,Active,App-based
+ATH_130,Thomas Andersen,28,Male,"Tokyo, Japan",Japan,Rowing,Advanced,9,183,70,13,1,4,Active,Mixed
+ATH_131,Isabella Andersen,36,Female,"Madrid, Spain",Spain,Cycling,Advanced,13,161,60,69,0,7,Active,Voice-focused
+ATH_132,Sophie Martinez,41,Female,"Copenhagen, Denmark",Denmark,CrossFit,Intermediate,8,161,62,87,1,1,Active,App-based
+ATH_133,Sarah Müller,41,Female,"Barcelona, Spain",Spain,Rowing,Elite Amateur,20,171,46,82,1,4,Active,Mixed
+ATH_134,Erik Taylor,32,Male,"Singapore, Singapore",Singapore,Running,Intermediate,6,176,73,5,0,2,Retired,Text-focused
+ATH_135,Chloe Petrov,31,Female,"Tokyo, Japan",Japan,Cycling,Advanced,10,161,62,47,1,7,Active,Voice-focused
+ATH_136,Sofia Wilson,27,Female,"Rio de Janeiro, Brazil",Brazil,Running,Advanced,8,175,54,18,1,3,Active,Voice-focused
+ATH_137,Maria Kumar,34,Female,"Munich, Germany",Germany,Basketball,Intermediate,3,158,63,62,1,3,Active,App-based
+ATH_138,Sarah Moore,25,Female,"Delhi, India",India,Cycling,Elite Amateur,10,174,60,41,1,4,Active,Text-focused
+ATH_139,Sophie Wang,26,Female,"Madrid, Spain",Spain,Basketball,Elite Amateur,10,168,45,70,0,3,Active,Voice-focused
+ATH_140,Marco Garcia,20,Male,"Paris, France",France,CrossFit,Intermediate,3,176,86,61,1,7,Active,Text-focused
+ATH_141,Amelia Johnson,38,Female,"Rio de Janeiro, Brazil",Brazil,Running,Elite Amateur,20,168,67,69,0,0,Active,App-based
+ATH_142,James Kim,29,Male,"Mumbai, India",India,Running,Beginner,2,168,71,20,1,6,Active,Voice-focused
+ATH_143,Maya Petrov,18,Female,"Sydney, Australia",Australia,CrossFit,Intermediate,3,173,53,76,1,6,Active,Voice-focused
+ATH_144,Thomas Lee,36,Male,"Singapore, Singapore",Singapore,Triathlon,Intermediate,6,167,66,61,1,4,Active,Voice-focused
+ATH_145,Luca Andersen,41,Male,"Los Angeles, USA",USA,Running,Elite Amateur,19,180,75,59,0,0,Active,Voice-focused
+ATH_146,Nora Petrov,20,Female,"London, UK",UK,Triathlon,Advanced,6,167,78,111,1,2,Active,Voice-focused
+ATH_147,Priya Larsson,48,Female,"Rome, Italy",Italy,Rowing,Beginner,2,170,56,31,0,6,Active,Mixed
+ATH_148,Nora Müller,34,Female,"Mexico City, Mexico",Mexico,Swimming,Elite Amateur,10,169,62,67,1,6,Active,Voice-focused
+ATH_149,Sakura Lee,33,Female,"Delhi, India",India,Triathlon,Beginner,2,173,72,72,1,0,Active,Text-focused
+ATH_150,Carlos Brown,18,Male,"New York, USA",USA,Cycling,Elite Amateur,10,179,76,65,0,3,Active,App-based

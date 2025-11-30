@@ -1,0 +1,1136 @@
+athlete_id,event_date,event_type,description,impact_rating
+ATH_001,2008-04-30,Family event,Family event event,1
+ATH_001,2006-12-12,Location change,Moved to new city,1
+ATH_001,2018-08-11,Injury recovery,Injury recovery event,3
+ATH_001,2013-07-06,Career change,Started new job,7
+ATH_001,2016-11-03,Training milestone,Reached 1000km,3
+ATH_001,2011-12-11,Personal achievement,Personal achievement event,8
+ATH_001,2023-11-07,Education,Education event,8
+ATH_001,2016-10-15,Career change,Started new job,5
+ATH_001,2023-09-05,Training milestone,Reached 500km,7
+ATH_001,2011-04-21,Family event,Family event event,1
+ATH_002,2025-03-23,Location change,Moved to new city,1
+ATH_002,2025-09-13,Education,Education event,1
+ATH_002,2025-07-11,Location change,Moved to new city,4
+ATH_002,2024-12-23,Personal achievement,Personal achievement event,8
+ATH_002,2025-02-24,Location change,Moved to new city,5
+ATH_002,2025-01-09,Training milestone,Reached 100km,5
+ATH_002,2025-02-27,Location change,Moved to new city,9
+ATH_002,2025-04-02,Injury recovery,Injury recovery event,4
+ATH_002,2025-05-23,Competition,Participated in triathlon,4
+ATH_003,2010-09-16,Injury recovery,Injury recovery event,9
+ATH_003,2020-08-07,Family event,Family event event,5
+ATH_003,2007-12-27,Competition,Participated in championship,1
+ATH_003,2021-03-17,Competition,Participated in triathlon,9
+ATH_003,2009-12-31,Location change,Moved to new city,9
+ATH_003,2019-09-06,Injury recovery,Injury recovery event,9
+ATH_003,2009-07-13,Location change,Moved to new city,1
+ATH_003,2011-08-06,Location change,Moved to new city,5
+ATH_003,2025-04-15,Injury recovery,Injury recovery event,8
+ATH_003,2013-07-19,Location change,Moved to new city,2
+ATH_004,2019-10-27,Injury recovery,Injury recovery event,8
+ATH_004,2018-05-18,Personal achievement,Personal achievement event,9
+ATH_004,2018-06-11,Injury recovery,Injury recovery event,9
+ATH_004,2024-09-22,Career change,Started new job,9
+ATH_004,2022-10-28,Career change,Started new job,6
+ATH_004,2013-08-22,Family event,Family event event,3
+ATH_005,2019-07-15,Education,Education event,2
+ATH_005,2024-05-10,Location change,Moved to new city,3
+ATH_005,2021-10-28,Personal achievement,Personal achievement event,8
+ATH_005,2018-12-30,Injury recovery,Injury recovery event,6
+ATH_005,2025-07-15,Personal achievement,Personal achievement event,5
+ATH_005,2022-10-26,Personal achievement,Personal achievement event,7
+ATH_005,2018-11-30,Career change,Started new job,7
+ATH_005,2019-08-26,Training milestone,Reached 500km,4
+ATH_006,2016-08-05,Education,Education event,1
+ATH_006,2022-04-03,Location change,Moved to new city,2
+ATH_006,2023-02-11,Family event,Family event event,5
+ATH_006,2019-05-28,Family event,Family event event,10
+ATH_007,2024-12-13,Education,Education event,4
+ATH_007,2025-11-19,Competition,Participated in championship,7
+ATH_007,2025-08-02,Location change,Moved to new city,10
+ATH_007,2025-01-06,Competition,Participated in triathlon,6
+ATH_007,2025-08-18,Personal achievement,Personal achievement event,4
+ATH_007,2025-09-25,Education,Education event,4
+ATH_007,2025-07-30,Family event,Family event event,7
+ATH_007,2025-06-16,Career change,Started new job,3
+ATH_007,2025-10-09,Career change,Started new job,4
+ATH_008,2025-10-11,Competition,Participated in championship,9
+ATH_008,2025-11-21,Family event,Family event event,8
+ATH_008,2025-08-01,Competition,Participated in local race,1
+ATH_008,2025-09-01,Personal achievement,Personal achievement event,7
+ATH_008,2025-10-11,Education,Education event,1
+ATH_008,2024-12-22,Competition,Participated in championship,7
+ATH_008,2025-08-27,Injury recovery,Injury recovery event,10
+ATH_009,2024-06-06,Competition,Participated in championship,10
+ATH_009,2023-01-28,Family event,Family event event,6
+ATH_009,2017-02-25,Education,Education event,1
+ATH_009,2008-01-19,Training milestone,Reached 1000km,8
+ATH_009,2019-10-16,Injury recovery,Injury recovery event,5
+ATH_009,2011-10-25,Education,Education event,9
+ATH_009,2014-11-16,Competition,Participated in local race,8
+ATH_009,2022-02-27,Location change,Moved to new city,7
+ATH_009,2007-08-26,Injury recovery,Injury recovery event,3
+ATH_009,2025-01-29,Personal achievement,Personal achievement event,5
+ATH_009,2020-12-21,Family event,Family event event,4
+ATH_010,2018-01-20,Competition,Participated in triathlon,10
+ATH_010,2015-09-07,Training milestone,Reached personal best,10
+ATH_010,2016-03-13,Training milestone,Reached personal best,7
+ATH_010,2025-08-15,Education,Education event,9
+ATH_010,2014-06-03,Training milestone,Reached 500km,5
+ATH_010,2023-01-23,Career change,Started new job,6
+ATH_010,2005-01-27,Injury recovery,Injury recovery event,1
+ATH_010,2022-05-10,Injury recovery,Injury recovery event,8
+ATH_010,2014-06-12,Family event,Family event event,9
+ATH_010,2021-08-28,Career change,Started new job,3
+ATH_011,2024-04-20,Location change,Moved to new city,10
+ATH_011,2017-11-02,Family event,Family event event,1
+ATH_011,2015-07-06,Personal achievement,Personal achievement event,3
+ATH_011,2020-02-26,Education,Education event,2
+ATH_011,2010-06-09,Training milestone,Reached personal best,6
+ATH_011,2023-02-11,Location change,Moved to new city,3
+ATH_011,2014-12-28,Education,Education event,5
+ATH_011,2019-06-11,Personal achievement,Personal achievement event,1
+ATH_011,2015-02-05,Career change,Started new job,6
+ATH_011,2018-07-14,Career change,Started new job,2
+ATH_012,2018-08-20,Personal achievement,Personal achievement event,3
+ATH_012,2014-05-21,Injury recovery,Injury recovery event,2
+ATH_012,2016-10-31,Training milestone,Reached personal best,7
+ATH_012,2023-10-05,Education,Education event,9
+ATH_012,2018-06-04,Personal achievement,Personal achievement event,9
+ATH_012,2015-09-21,Location change,Moved to new city,2
+ATH_012,2015-04-18,Personal achievement,Personal achievement event,7
+ATH_012,2017-09-09,Location change,Moved to new city,2
+ATH_012,2024-05-26,Education,Education event,8
+ATH_012,2009-08-07,Competition,Participated in local race,3
+ATH_012,2009-05-20,Education,Education event,8
+ATH_012,2011-03-11,Location change,Moved to new city,7
+ATH_013,2017-02-17,Injury recovery,Injury recovery event,5
+ATH_013,2024-12-08,Injury recovery,Injury recovery event,7
+ATH_013,2024-12-15,Location change,Moved to new city,4
+ATH_013,2019-07-23,Training milestone,Reached 1000km,7
+ATH_013,2017-10-11,Location change,Moved to new city,10
+ATH_013,2021-12-29,Location change,Moved to new city,8
+ATH_014,2019-09-12,Location change,Moved to new city,2
+ATH_014,2022-01-21,Education,Education event,7
+ATH_014,2024-11-13,Education,Education event,9
+ATH_014,2014-06-18,Education,Education event,6
+ATH_014,2023-08-14,Personal achievement,Personal achievement event,3
+ATH_015,2025-10-27,Location change,Moved to new city,4
+ATH_015,2025-04-28,Family event,Family event event,5
+ATH_015,2025-05-14,Education,Education event,5
+ATH_015,2025-02-23,Personal achievement,Personal achievement event,5
+ATH_015,2025-02-27,Career change,Started new job,6
+ATH_015,2025-02-14,Location change,Moved to new city,10
+ATH_015,2024-12-24,Location change,Moved to new city,3
+ATH_015,2025-09-23,Education,Education event,1
+ATH_015,2025-11-09,Training milestone,Reached 500km,6
+ATH_016,2017-01-17,Family event,Family event event,4
+ATH_016,2023-05-26,Location change,Moved to new city,10
+ATH_016,2014-09-14,Education,Education event,9
+ATH_016,2022-08-29,Location change,Moved to new city,2
+ATH_016,2019-12-04,Family event,Family event event,9
+ATH_016,2022-08-02,Personal achievement,Personal achievement event,3
+ATH_016,2022-12-29,Family event,Family event event,4
+ATH_016,2021-09-15,Family event,Family event event,10
+ATH_017,2008-12-26,Location change,Moved to new city,8
+ATH_017,2022-06-30,Training milestone,Reached 500km,8
+ATH_017,2008-04-01,Competition,Participated in local race,1
+ATH_017,2006-10-16,Location change,Moved to new city,3
+ATH_017,2007-05-19,Location change,Moved to new city,2
+ATH_017,2012-04-01,Education,Education event,1
+ATH_017,2015-06-15,Training milestone,Reached personal best,5
+ATH_017,2013-07-29,Family event,Family event event,3
+ATH_017,2024-06-02,Education,Education event,1
+ATH_017,2022-12-19,Location change,Moved to new city,7
+ATH_017,2004-12-01,Personal achievement,Personal achievement event,7
+ATH_018,2020-12-30,Career change,Started new job,5
+ATH_018,2020-07-28,Career change,Started new job,9
+ATH_018,2024-04-06,Injury recovery,Injury recovery event,7
+ATH_018,2023-01-28,Family event,Family event event,7
+ATH_018,2021-03-31,Competition,Participated in marathon,1
+ATH_019,2022-03-17,Education,Education event,9
+ATH_019,2016-09-24,Training milestone,Reached 100km,10
+ATH_019,2025-05-20,Injury recovery,Injury recovery event,6
+ATH_019,2014-03-10,Location change,Moved to new city,3
+ATH_020,2009-03-24,Competition,Participated in marathon,8
+ATH_020,2013-02-17,Injury recovery,Injury recovery event,5
+ATH_020,2011-09-23,Education,Education event,5
+ATH_020,2012-09-17,Personal achievement,Personal achievement event,5
+ATH_020,2011-03-28,Competition,Participated in marathon,6
+ATH_020,2019-04-25,Family event,Family event event,8
+ATH_020,2012-09-03,Personal achievement,Personal achievement event,4
+ATH_020,2014-03-24,Personal achievement,Personal achievement event,7
+ATH_020,2018-01-24,Competition,Participated in marathon,8
+ATH_020,2024-08-31,Location change,Moved to new city,7
+ATH_021,2020-11-11,Location change,Moved to new city,3
+ATH_021,2023-11-25,Injury recovery,Injury recovery event,3
+ATH_021,2016-10-15,Family event,Family event event,9
+ATH_021,2024-11-25,Education,Education event,6
+ATH_021,2015-06-29,Competition,Participated in championship,5
+ATH_021,2019-02-03,Competition,Participated in local race,4
+ATH_021,2022-03-12,Career change,Started new job,10
+ATH_021,2023-08-17,Personal achievement,Personal achievement event,1
+ATH_021,2018-02-02,Injury recovery,Injury recovery event,10
+ATH_022,2016-12-12,Personal achievement,Personal achievement event,2
+ATH_022,2014-01-15,Location change,Moved to new city,7
+ATH_022,2016-10-03,Career change,Started new job,6
+ATH_022,2008-08-21,Injury recovery,Injury recovery event,7
+ATH_022,2012-12-16,Location change,Moved to new city,9
+ATH_022,2019-02-18,Location change,Moved to new city,10
+ATH_022,2010-03-01,Competition,Participated in marathon,3
+ATH_022,2021-04-25,Career change,Started new job,9
+ATH_023,2025-03-11,Personal achievement,Personal achievement event,5
+ATH_023,2025-08-31,Family event,Family event event,7
+ATH_023,2025-01-01,Family event,Family event event,1
+ATH_023,2025-07-14,Injury recovery,Injury recovery event,9
+ATH_023,2025-11-03,Personal achievement,Personal achievement event,10
+ATH_023,2025-04-30,Personal achievement,Personal achievement event,3
+ATH_023,2025-11-06,Education,Education event,6
+ATH_023,2025-10-15,Competition,Participated in local race,6
+ATH_023,2025-09-05,Injury recovery,Injury recovery event,2
+ATH_023,2025-01-04,Education,Education event,8
+ATH_024,2020-04-04,Competition,Participated in marathon,3
+ATH_024,2023-06-27,Education,Education event,2
+ATH_024,2025-07-25,Family event,Family event event,2
+ATH_024,2022-07-07,Injury recovery,Injury recovery event,9
+ATH_024,2008-10-03,Training milestone,Reached 100km,9
+ATH_025,2022-07-24,Location change,Moved to new city,9
+ATH_025,2019-09-23,Career change,Started new job,9
+ATH_025,2015-09-27,Personal achievement,Personal achievement event,10
+ATH_025,2017-05-31,Career change,Started new job,7
+ATH_025,2019-06-04,Competition,Participated in marathon,10
+ATH_025,2019-02-27,Education,Education event,8
+ATH_025,2022-02-02,Personal achievement,Personal achievement event,9
+ATH_025,2015-07-14,Location change,Moved to new city,9
+ATH_025,2018-08-13,Competition,Participated in local race,3
+ATH_026,2019-07-26,Career change,Started new job,5
+ATH_026,2021-04-01,Career change,Started new job,7
+ATH_026,2022-04-27,Family event,Family event event,9
+ATH_026,2021-01-13,Personal achievement,Personal achievement event,7
+ATH_026,2020-03-10,Career change,Started new job,4
+ATH_026,2021-08-28,Training milestone,Reached personal best,5
+ATH_026,2021-02-08,Family event,Family event event,5
+ATH_026,2021-06-28,Competition,Participated in marathon,3
+ATH_026,2025-06-03,Education,Education event,10
+ATH_026,2021-02-09,Family event,Family event event,1
+ATH_026,2019-10-09,Training milestone,Reached 100km,8
+ATH_026,2021-01-06,Training milestone,Reached 500km,7
+ATH_027,2007-07-17,Personal achievement,Personal achievement event,2
+ATH_027,2008-10-25,Injury recovery,Injury recovery event,7
+ATH_027,2012-09-21,Personal achievement,Personal achievement event,1
+ATH_027,2017-05-12,Personal achievement,Personal achievement event,6
+ATH_027,2013-10-15,Career change,Started new job,3
+ATH_027,2021-05-24,Training milestone,Reached 1000km,10
+ATH_027,2011-12-22,Education,Education event,1
+ATH_027,2023-07-30,Training milestone,Reached 1000km,3
+ATH_027,2014-09-07,Competition,Participated in championship,8
+ATH_027,2011-11-07,Location change,Moved to new city,3
+ATH_027,2010-10-13,Education,Education event,9
+ATH_028,2018-04-02,Injury recovery,Injury recovery event,4
+ATH_028,2016-08-05,Competition,Participated in triathlon,8
+ATH_028,2017-02-27,Career change,Started new job,7
+ATH_028,2023-07-30,Education,Education event,8
+ATH_028,2025-09-26,Injury recovery,Injury recovery event,4
+ATH_028,2019-03-12,Injury recovery,Injury recovery event,9
+ATH_028,2023-08-02,Injury recovery,Injury recovery event,2
+ATH_028,2016-07-12,Education,Education event,6
+ATH_028,2025-10-14,Competition,Participated in local race,1
+ATH_028,2025-02-04,Personal achievement,Personal achievement event,3
+ATH_029,2013-12-03,Competition,Participated in triathlon,4
+ATH_029,2023-11-08,Personal achievement,Personal achievement event,5
+ATH_029,2016-06-15,Education,Education event,5
+ATH_029,2016-11-24,Competition,Participated in triathlon,6
+ATH_030,2022-11-02,Personal achievement,Personal achievement event,2
+ATH_030,2020-08-13,Competition,Participated in championship,4
+ATH_030,2018-09-17,Career change,Started new job,7
+ATH_030,2019-04-06,Career change,Started new job,2
+ATH_030,2021-07-24,Injury recovery,Injury recovery event,4
+ATH_030,2023-10-11,Personal achievement,Personal achievement event,6
+ATH_030,2019-12-01,Family event,Family event event,8
+ATH_030,2023-09-15,Training milestone,Reached personal best,1
+ATH_030,2022-01-02,Education,Education event,9
+ATH_031,2012-11-30,Competition,Participated in marathon,1
+ATH_031,2025-01-21,Personal achievement,Personal achievement event,2
+ATH_031,2018-01-21,Career change,Started new job,5
+ATH_031,2016-04-18,Education,Education event,8
+ATH_031,2023-04-04,Location change,Moved to new city,2
+ATH_031,2023-01-17,Location change,Moved to new city,5
+ATH_032,2024-12-08,Personal achievement,Personal achievement event,9
+ATH_032,2023-04-20,Education,Education event,7
+ATH_032,2013-10-19,Career change,Started new job,7
+ATH_032,2014-09-07,Education,Education event,4
+ATH_032,2023-07-24,Career change,Started new job,10
+ATH_032,2024-12-24,Education,Education event,1
+ATH_032,2019-11-06,Injury recovery,Injury recovery event,7
+ATH_032,2013-06-22,Career change,Started new job,5
+ATH_032,2024-02-12,Competition,Participated in triathlon,5
+ATH_032,2016-09-28,Education,Education event,9
+ATH_032,2020-01-18,Family event,Family event event,3
+ATH_032,2024-01-11,Injury recovery,Injury recovery event,2
+ATH_033,2009-03-20,Family event,Family event event,8
+ATH_033,2017-10-25,Location change,Moved to new city,5
+ATH_033,2023-11-21,Training milestone,Reached personal best,9
+ATH_033,2012-08-18,Career change,Started new job,2
+ATH_033,2016-05-17,Injury recovery,Injury recovery event,5
+ATH_033,2017-10-15,Education,Education event,1
+ATH_033,2024-09-21,Education,Education event,4
+ATH_034,2020-03-30,Personal achievement,Personal achievement event,2
+ATH_034,2023-08-02,Family event,Family event event,6
+ATH_034,2025-11-14,Personal achievement,Personal achievement event,3
+ATH_034,2021-10-20,Injury recovery,Injury recovery event,10
+ATH_034,2023-12-24,Education,Education event,1
+ATH_034,2020-08-17,Education,Education event,4
+ATH_034,2019-04-30,Location change,Moved to new city,8
+ATH_034,2017-09-07,Personal achievement,Personal achievement event,2
+ATH_035,2011-08-05,Career change,Started new job,4
+ATH_035,2012-06-01,Family event,Family event event,10
+ATH_035,2025-03-04,Training milestone,Reached 1000km,8
+ATH_035,2012-12-14,Injury recovery,Injury recovery event,6
+ATH_035,2017-07-21,Family event,Family event event,3
+ATH_035,2022-05-25,Personal achievement,Personal achievement event,9
+ATH_035,2016-09-23,Location change,Moved to new city,8
+ATH_036,2025-10-20,Career change,Started new job,4
+ATH_036,2025-09-13,Education,Education event,2
+ATH_036,2025-08-15,Location change,Moved to new city,2
+ATH_036,2025-03-27,Career change,Started new job,1
+ATH_037,2010-06-11,Competition,Participated in championship,1
+ATH_037,2022-11-23,Career change,Started new job,10
+ATH_037,2016-12-05,Personal achievement,Personal achievement event,9
+ATH_037,2017-11-05,Training milestone,Reached 1000km,7
+ATH_037,2019-11-09,Career change,Started new job,7
+ATH_037,2007-10-25,Personal achievement,Personal achievement event,5
+ATH_038,2019-03-15,Career change,Started new job,7
+ATH_038,2024-12-04,Personal achievement,Personal achievement event,1
+ATH_038,2016-07-25,Training milestone,Reached 500km,1
+ATH_038,2017-10-27,Competition,Participated in championship,10
+ATH_038,2015-06-08,Injury recovery,Injury recovery event,4
+ATH_038,2013-12-18,Family event,Family event event,6
+ATH_038,2017-02-28,Competition,Participated in championship,4
+ATH_038,2023-07-28,Injury recovery,Injury recovery event,7
+ATH_038,2025-05-28,Training milestone,Reached 100km,4
+ATH_038,2013-11-03,Education,Education event,9
+ATH_038,2018-06-25,Injury recovery,Injury recovery event,6
+ATH_038,2022-09-14,Education,Education event,9
+ATH_039,2018-07-08,Career change,Started new job,4
+ATH_039,2016-11-18,Competition,Participated in triathlon,8
+ATH_039,2012-12-19,Training milestone,Reached personal best,10
+ATH_039,2013-06-27,Personal achievement,Personal achievement event,4
+ATH_039,2020-08-04,Competition,Participated in marathon,8
+ATH_039,2019-11-24,Education,Education event,1
+ATH_039,2014-07-19,Training milestone,Reached 1000km,5
+ATH_039,2022-12-06,Injury recovery,Injury recovery event,7
+ATH_039,2014-08-20,Education,Education event,9
+ATH_040,2018-08-26,Training milestone,Reached personal best,1
+ATH_040,2025-04-28,Family event,Family event event,2
+ATH_040,2024-12-09,Career change,Started new job,6
+ATH_040,2016-05-10,Education,Education event,1
+ATH_040,2018-07-30,Personal achievement,Personal achievement event,6
+ATH_040,2016-11-26,Career change,Started new job,5
+ATH_040,2020-08-30,Injury recovery,Injury recovery event,4
+ATH_040,2015-05-17,Training milestone,Reached 500km,1
+ATH_040,2018-02-02,Personal achievement,Personal achievement event,2
+ATH_040,2023-12-06,Personal achievement,Personal achievement event,8
+ATH_040,2014-09-13,Family event,Family event event,7
+ATH_041,2018-04-20,Education,Education event,7
+ATH_041,2009-12-07,Competition,Participated in triathlon,8
+ATH_041,2007-01-24,Career change,Started new job,6
+ATH_041,2024-07-05,Competition,Participated in marathon,8
+ATH_041,2018-03-09,Competition,Participated in triathlon,6
+ATH_041,2021-10-17,Injury recovery,Injury recovery event,9
+ATH_041,2016-04-09,Training milestone,Reached personal best,5
+ATH_042,2024-01-24,Injury recovery,Injury recovery event,3
+ATH_042,2020-06-03,Competition,Participated in triathlon,7
+ATH_042,2022-02-13,Personal achievement,Personal achievement event,3
+ATH_042,2023-10-29,Career change,Started new job,8
+ATH_042,2025-11-03,Personal achievement,Personal achievement event,1
+ATH_043,2017-08-15,Personal achievement,Personal achievement event,2
+ATH_043,2016-10-06,Career change,Started new job,4
+ATH_043,2020-05-27,Competition,Participated in local race,1
+ATH_044,2025-10-18,Training milestone,Reached personal best,3
+ATH_044,2025-10-26,Injury recovery,Injury recovery event,5
+ATH_044,2024-03-04,Education,Education event,8
+ATH_044,2023-06-17,Education,Education event,5
+ATH_044,2023-10-19,Location change,Moved to new city,3
+ATH_044,2023-08-21,Competition,Participated in marathon,2
+ATH_045,2023-06-03,Career change,Started new job,2
+ATH_045,2024-12-05,Location change,Moved to new city,3
+ATH_045,2021-06-14,Injury recovery,Injury recovery event,3
+ATH_045,2024-03-21,Training milestone,Reached 500km,6
+ATH_045,2020-01-04,Education,Education event,1
+ATH_045,2021-03-17,Location change,Moved to new city,10
+ATH_045,2018-11-18,Training milestone,Reached 1000km,4
+ATH_045,2022-05-04,Education,Education event,10
+ATH_045,2024-02-05,Injury recovery,Injury recovery event,4
+ATH_045,2022-01-07,Competition,Participated in championship,8
+ATH_046,2016-08-24,Personal achievement,Personal achievement event,10
+ATH_046,2017-08-09,Location change,Moved to new city,3
+ATH_046,2022-11-02,Career change,Started new job,6
+ATH_047,2009-09-02,Personal achievement,Personal achievement event,7
+ATH_047,2016-06-07,Family event,Family event event,8
+ATH_047,2012-09-28,Family event,Family event event,2
+ATH_047,2009-11-03,Career change,Started new job,2
+ATH_047,2005-01-31,Competition,Participated in triathlon,4
+ATH_047,2012-09-15,Training milestone,Reached 100km,6
+ATH_047,2011-02-22,Family event,Family event event,7
+ATH_047,2009-05-30,Career change,Started new job,7
+ATH_048,2014-09-22,Injury recovery,Injury recovery event,7
+ATH_048,2021-06-28,Location change,Moved to new city,8
+ATH_048,2016-01-05,Injury recovery,Injury recovery event,4
+ATH_048,2012-09-06,Injury recovery,Injury recovery event,9
+ATH_048,2023-01-31,Training milestone,Reached 500km,9
+ATH_048,2019-08-17,Location change,Moved to new city,4
+ATH_048,2018-11-30,Education,Education event,10
+ATH_048,2023-12-14,Location change,Moved to new city,5
+ATH_048,2021-08-17,Education,Education event,10
+ATH_049,2021-03-16,Personal achievement,Personal achievement event,8
+ATH_049,2025-02-21,Injury recovery,Injury recovery event,2
+ATH_049,2023-02-07,Career change,Started new job,7
+ATH_049,2023-06-07,Career change,Started new job,2
+ATH_049,2024-02-15,Injury recovery,Injury recovery event,10
+ATH_049,2024-12-29,Career change,Started new job,1
+ATH_050,2024-10-30,Education,Education event,9
+ATH_050,2021-03-05,Location change,Moved to new city,9
+ATH_050,2024-05-21,Education,Education event,5
+ATH_050,2024-03-20,Education,Education event,4
+ATH_051,2022-11-25,Location change,Moved to new city,10
+ATH_051,2020-04-09,Injury recovery,Injury recovery event,5
+ATH_051,2018-07-01,Location change,Moved to new city,10
+ATH_051,2018-08-07,Competition,Participated in local race,2
+ATH_052,2020-02-11,Education,Education event,7
+ATH_052,2023-11-11,Competition,Participated in triathlon,10
+ATH_052,2008-10-05,Career change,Started new job,8
+ATH_053,2006-09-15,Family event,Family event event,5
+ATH_053,2013-01-02,Injury recovery,Injury recovery event,5
+ATH_053,2016-11-05,Competition,Participated in marathon,9
+ATH_053,2015-07-05,Injury recovery,Injury recovery event,3
+ATH_053,2005-08-02,Personal achievement,Personal achievement event,9
+ATH_053,2019-03-27,Injury recovery,Injury recovery event,4
+ATH_053,2007-03-17,Education,Education event,5
+ATH_053,2023-06-02,Career change,Started new job,6
+ATH_053,2025-01-31,Family event,Family event event,1
+ATH_053,2020-01-30,Competition,Participated in triathlon,7
+ATH_053,2008-09-26,Family event,Family event event,1
+ATH_053,2022-05-25,Personal achievement,Personal achievement event,3
+ATH_054,2009-01-05,Career change,Started new job,5
+ATH_054,2010-02-26,Education,Education event,9
+ATH_054,2013-03-17,Injury recovery,Injury recovery event,6
+ATH_054,2014-02-01,Competition,Participated in local race,4
+ATH_054,2016-09-05,Location change,Moved to new city,7
+ATH_054,2021-02-06,Family event,Family event event,3
+ATH_054,2024-06-11,Career change,Started new job,1
+ATH_054,2012-05-02,Family event,Family event event,4
+ATH_054,2017-04-27,Injury recovery,Injury recovery event,8
+ATH_054,2024-05-16,Competition,Participated in triathlon,5
+ATH_054,2015-03-03,Personal achievement,Personal achievement event,5
+ATH_055,2018-09-26,Training milestone,Reached 500km,2
+ATH_055,2022-07-17,Family event,Family event event,5
+ATH_055,2020-12-19,Injury recovery,Injury recovery event,2
+ATH_056,2022-02-18,Location change,Moved to new city,4
+ATH_056,2018-12-02,Location change,Moved to new city,6
+ATH_056,2024-08-02,Personal achievement,Personal achievement event,1
+ATH_056,2019-06-19,Training milestone,Reached 100km,8
+ATH_056,2022-03-13,Education,Education event,1
+ATH_056,2020-06-13,Training milestone,Reached personal best,9
+ATH_056,2018-06-06,Location change,Moved to new city,3
+ATH_056,2019-09-30,Location change,Moved to new city,3
+ATH_056,2019-09-19,Family event,Family event event,4
+ATH_056,2020-07-03,Education,Education event,8
+ATH_056,2021-11-15,Training milestone,Reached 500km,6
+ATH_056,2023-05-20,Career change,Started new job,1
+ATH_057,2024-04-03,Education,Education event,8
+ATH_057,2024-06-15,Training milestone,Reached 1000km,10
+ATH_057,2019-08-14,Injury recovery,Injury recovery event,10
+ATH_057,2022-06-24,Training milestone,Reached 100km,2
+ATH_057,2022-01-02,Family event,Family event event,9
+ATH_058,2022-06-26,Education,Education event,8
+ATH_058,2021-08-10,Competition,Participated in championship,10
+ATH_058,2024-03-04,Family event,Family event event,2
+ATH_058,2019-12-14,Injury recovery,Injury recovery event,1
+ATH_059,2023-10-20,Education,Education event,3
+ATH_059,2023-08-27,Injury recovery,Injury recovery event,5
+ATH_059,2022-05-01,Family event,Family event event,4
+ATH_059,2021-11-28,Competition,Participated in marathon,5
+ATH_059,2024-03-11,Injury recovery,Injury recovery event,9
+ATH_059,2022-09-11,Location change,Moved to new city,5
+ATH_060,2021-06-06,Career change,Started new job,2
+ATH_060,2022-07-15,Family event,Family event event,2
+ATH_060,2022-11-22,Career change,Started new job,10
+ATH_060,2021-03-14,Family event,Family event event,2
+ATH_060,2020-09-03,Personal achievement,Personal achievement event,3
+ATH_060,2023-06-03,Career change,Started new job,2
+ATH_060,2022-01-21,Education,Education event,8
+ATH_060,2022-08-14,Location change,Moved to new city,9
+ATH_060,2020-04-26,Location change,Moved to new city,5
+ATH_060,2022-12-26,Location change,Moved to new city,6
+ATH_060,2025-08-10,Education,Education event,2
+ATH_061,2017-11-26,Location change,Moved to new city,8
+ATH_061,2024-10-30,Training milestone,Reached 500km,10
+ATH_061,2017-02-09,Family event,Family event event,3
+ATH_061,2025-08-23,Location change,Moved to new city,5
+ATH_061,2018-09-19,Training milestone,Reached personal best,5
+ATH_061,2020-03-10,Competition,Participated in local race,6
+ATH_061,2025-06-01,Location change,Moved to new city,8
+ATH_061,2020-08-18,Competition,Participated in triathlon,9
+ATH_061,2024-04-23,Training milestone,Reached 100km,1
+ATH_062,2007-10-03,Location change,Moved to new city,3
+ATH_062,2018-05-24,Injury recovery,Injury recovery event,10
+ATH_062,2010-06-05,Training milestone,Reached 500km,10
+ATH_062,2025-01-30,Location change,Moved to new city,10
+ATH_062,2011-07-31,Competition,Participated in local race,1
+ATH_062,2015-04-08,Education,Education event,8
+ATH_062,2009-01-12,Education,Education event,6
+ATH_062,2020-02-03,Competition,Participated in marathon,5
+ATH_062,2014-11-28,Personal achievement,Personal achievement event,1
+ATH_062,2011-11-01,Training milestone,Reached personal best,7
+ATH_062,2008-04-30,Location change,Moved to new city,4
+ATH_062,2021-05-21,Education,Education event,9
+ATH_063,2025-08-22,Injury recovery,Injury recovery event,6
+ATH_063,2024-12-31,Family event,Family event event,9
+ATH_063,2025-02-27,Education,Education event,9
+ATH_063,2025-07-17,Family event,Family event event,5
+ATH_063,2025-10-20,Family event,Family event event,7
+ATH_063,2025-09-02,Injury recovery,Injury recovery event,6
+ATH_063,2025-10-07,Location change,Moved to new city,10
+ATH_063,2025-06-22,Career change,Started new job,8
+ATH_063,2025-03-03,Injury recovery,Injury recovery event,1
+ATH_063,2025-03-10,Training milestone,Reached 100km,5
+ATH_063,2025-07-19,Training milestone,Reached personal best,5
+ATH_064,2016-02-12,Location change,Moved to new city,5
+ATH_064,2017-02-09,Education,Education event,1
+ATH_064,2023-02-16,Family event,Family event event,5
+ATH_064,2021-08-10,Family event,Family event event,10
+ATH_064,2018-06-12,Training milestone,Reached 100km,2
+ATH_064,2020-10-23,Location change,Moved to new city,5
+ATH_064,2021-07-02,Career change,Started new job,2
+ATH_064,2020-09-15,Education,Education event,7
+ATH_065,2022-02-10,Career change,Started new job,4
+ATH_065,2014-10-26,Training milestone,Reached 500km,9
+ATH_065,2013-07-05,Career change,Started new job,2
+ATH_065,2016-10-25,Injury recovery,Injury recovery event,4
+ATH_065,2024-08-28,Career change,Started new job,6
+ATH_065,2020-03-27,Family event,Family event event,9
+ATH_065,2025-04-07,Personal achievement,Personal achievement event,4
+ATH_065,2018-07-06,Injury recovery,Injury recovery event,4
+ATH_065,2025-01-03,Personal achievement,Personal achievement event,8
+ATH_065,2014-04-09,Location change,Moved to new city,3
+ATH_066,2018-05-22,Family event,Family event event,3
+ATH_066,2018-02-16,Personal achievement,Personal achievement event,6
+ATH_066,2017-09-28,Injury recovery,Injury recovery event,1
+ATH_066,2020-10-25,Training milestone,Reached personal best,3
+ATH_066,2022-03-21,Training milestone,Reached 1000km,9
+ATH_066,2025-10-12,Family event,Family event event,8
+ATH_066,2018-04-15,Personal achievement,Personal achievement event,8
+ATH_066,2023-01-25,Personal achievement,Personal achievement event,8
+ATH_066,2024-11-23,Career change,Started new job,10
+ATH_066,2022-09-16,Location change,Moved to new city,7
+ATH_067,2021-06-19,Injury recovery,Injury recovery event,2
+ATH_067,2024-04-13,Family event,Family event event,6
+ATH_067,2025-02-15,Competition,Participated in triathlon,3
+ATH_067,2018-04-18,Family event,Family event event,7
+ATH_067,2025-06-23,Career change,Started new job,4
+ATH_067,2024-09-25,Personal achievement,Personal achievement event,9
+ATH_067,2015-01-10,Competition,Participated in marathon,4
+ATH_067,2023-08-01,Location change,Moved to new city,2
+ATH_067,2015-04-11,Education,Education event,8
+ATH_068,2025-06-05,Family event,Family event event,8
+ATH_068,2025-07-20,Training milestone,Reached personal best,4
+ATH_068,2025-05-26,Education,Education event,8
+ATH_068,2025-03-02,Training milestone,Reached 100km,6
+ATH_068,2025-11-09,Training milestone,Reached 100km,8
+ATH_068,2025-09-10,Training milestone,Reached 1000km,6
+ATH_068,2025-07-25,Family event,Family event event,7
+ATH_068,2025-05-28,Competition,Participated in championship,9
+ATH_068,2025-03-20,Personal achievement,Personal achievement event,1
+ATH_068,2025-06-22,Competition,Participated in championship,4
+ATH_069,2020-06-29,Education,Education event,6
+ATH_069,2025-10-17,Competition,Participated in local race,10
+ATH_069,2018-02-09,Location change,Moved to new city,10
+ATH_069,2021-02-20,Training milestone,Reached 100km,5
+ATH_069,2022-03-21,Competition,Participated in championship,1
+ATH_069,2016-06-17,Injury recovery,Injury recovery event,2
+ATH_069,2023-07-02,Location change,Moved to new city,6
+ATH_070,2017-10-02,Training milestone,Reached 100km,10
+ATH_070,2021-07-10,Personal achievement,Personal achievement event,6
+ATH_070,2010-06-07,Location change,Moved to new city,5
+ATH_070,2008-04-05,Training milestone,Reached 100km,4
+ATH_070,2015-04-02,Injury recovery,Injury recovery event,5
+ATH_070,2019-02-26,Education,Education event,6
+ATH_071,2025-03-01,Family event,Family event event,5
+ATH_071,2025-02-08,Education,Education event,4
+ATH_071,2025-10-29,Personal achievement,Personal achievement event,7
+ATH_072,2005-06-11,Family event,Family event event,6
+ATH_072,2015-03-17,Career change,Started new job,6
+ATH_072,2015-10-14,Education,Education event,5
+ATH_073,2008-01-04,Education,Education event,7
+ATH_073,2019-05-09,Personal achievement,Personal achievement event,2
+ATH_073,2020-10-30,Family event,Family event event,4
+ATH_073,2022-10-31,Education,Education event,10
+ATH_073,2011-03-31,Personal achievement,Personal achievement event,9
+ATH_073,2019-02-25,Education,Education event,9
+ATH_073,2008-10-16,Personal achievement,Personal achievement event,9
+ATH_073,2014-11-22,Family event,Family event event,7
+ATH_074,2014-02-25,Injury recovery,Injury recovery event,6
+ATH_074,2020-11-14,Injury recovery,Injury recovery event,6
+ATH_074,2019-02-14,Education,Education event,4
+ATH_074,2018-12-26,Training milestone,Reached personal best,10
+ATH_074,2021-07-29,Competition,Participated in triathlon,8
+ATH_074,2012-10-18,Injury recovery,Injury recovery event,10
+ATH_074,2014-04-20,Family event,Family event event,10
+ATH_074,2016-08-28,Family event,Family event event,10
+ATH_074,2016-10-16,Injury recovery,Injury recovery event,6
+ATH_074,2017-01-10,Injury recovery,Injury recovery event,8
+ATH_074,2016-09-13,Family event,Family event event,3
+ATH_074,2019-05-11,Education,Education event,7
+ATH_075,2024-12-10,Location change,Moved to new city,3
+ATH_075,2025-03-08,Location change,Moved to new city,5
+ATH_075,2025-04-29,Injury recovery,Injury recovery event,5
+ATH_075,2025-05-21,Competition,Participated in local race,7
+ATH_075,2025-09-29,Training milestone,Reached 1000km,2
+ATH_075,2025-07-04,Injury recovery,Injury recovery event,3
+ATH_075,2025-04-05,Training milestone,Reached 1000km,1
+ATH_075,2024-12-22,Training milestone,Reached 100km,2
+ATH_075,2025-08-06,Competition,Participated in local race,8
+ATH_075,2025-02-08,Education,Education event,9
+ATH_076,2015-05-08,Personal achievement,Personal achievement event,5
+ATH_076,2022-06-12,Education,Education event,9
+ATH_076,2012-01-05,Injury recovery,Injury recovery event,3
+ATH_076,2010-09-02,Competition,Participated in championship,4
+ATH_077,2022-03-09,Location change,Moved to new city,8
+ATH_077,2023-08-25,Education,Education event,7
+ATH_077,2025-10-17,Career change,Started new job,7
+ATH_077,2022-02-05,Training milestone,Reached 1000km,5
+ATH_077,2020-08-26,Family event,Family event event,3
+ATH_077,2019-09-28,Competition,Participated in local race,2
+ATH_077,2019-05-06,Career change,Started new job,7
+ATH_077,2023-01-03,Personal achievement,Personal achievement event,10
+ATH_077,2024-09-07,Location change,Moved to new city,5
+ATH_077,2023-03-23,Competition,Participated in championship,10
+ATH_078,2019-11-10,Injury recovery,Injury recovery event,10
+ATH_078,2023-05-13,Training milestone,Reached 1000km,10
+ATH_078,2018-07-28,Education,Education event,4
+ATH_078,2016-06-10,Competition,Participated in triathlon,2
+ATH_078,2019-04-04,Family event,Family event event,10
+ATH_078,2022-03-18,Training milestone,Reached personal best,4
+ATH_078,2016-06-19,Career change,Started new job,1
+ATH_078,2012-11-27,Personal achievement,Personal achievement event,9
+ATH_078,2016-12-10,Competition,Participated in championship,5
+ATH_078,2014-03-07,Training milestone,Reached 500km,4
+ATH_079,2023-06-27,Career change,Started new job,2
+ATH_079,2007-09-01,Family event,Family event event,6
+ATH_079,2021-02-01,Training milestone,Reached 500km,8
+ATH_079,2015-04-08,Family event,Family event event,3
+ATH_079,2024-05-11,Education,Education event,1
+ATH_079,2020-01-18,Family event,Family event event,9
+ATH_079,2013-03-10,Career change,Started new job,5
+ATH_079,2013-12-30,Personal achievement,Personal achievement event,10
+ATH_079,2024-09-20,Personal achievement,Personal achievement event,2
+ATH_080,2019-12-20,Personal achievement,Personal achievement event,9
+ATH_080,2016-07-22,Education,Education event,2
+ATH_080,2017-01-19,Location change,Moved to new city,2
+ATH_080,2017-01-02,Personal achievement,Personal achievement event,3
+ATH_080,2016-01-29,Family event,Family event event,10
+ATH_080,2024-05-25,Location change,Moved to new city,6
+ATH_080,2024-07-06,Family event,Family event event,7
+ATH_080,2017-05-27,Injury recovery,Injury recovery event,4
+ATH_080,2017-10-11,Competition,Participated in local race,9
+ATH_080,2023-08-18,Personal achievement,Personal achievement event,10
+ATH_080,2022-11-04,Family event,Family event event,2
+ATH_081,2022-04-23,Family event,Family event event,7
+ATH_081,2022-04-02,Education,Education event,8
+ATH_081,2023-07-20,Personal achievement,Personal achievement event,5
+ATH_081,2021-07-02,Competition,Participated in championship,5
+ATH_081,2019-12-26,Family event,Family event event,1
+ATH_081,2022-03-04,Injury recovery,Injury recovery event,8
+ATH_081,2024-04-14,Family event,Family event event,4
+ATH_081,2024-09-12,Family event,Family event event,9
+ATH_081,2020-03-29,Family event,Family event event,1
+ATH_081,2018-08-28,Competition,Participated in championship,8
+ATH_081,2025-11-20,Location change,Moved to new city,10
+ATH_082,2011-09-22,Career change,Started new job,5
+ATH_082,2016-11-13,Family event,Family event event,6
+ATH_082,2014-11-15,Competition,Participated in local race,7
+ATH_082,2014-12-29,Personal achievement,Personal achievement event,5
+ATH_082,2014-12-09,Family event,Family event event,10
+ATH_082,2017-06-19,Injury recovery,Injury recovery event,3
+ATH_083,2008-01-02,Competition,Participated in championship,1
+ATH_083,2017-09-22,Personal achievement,Personal achievement event,1
+ATH_083,2022-09-06,Personal achievement,Personal achievement event,10
+ATH_084,2021-07-18,Training milestone,Reached 500km,10
+ATH_084,2011-01-16,Career change,Started new job,3
+ATH_084,2022-06-20,Injury recovery,Injury recovery event,10
+ATH_084,2011-04-13,Location change,Moved to new city,8
+ATH_084,2014-03-24,Location change,Moved to new city,6
+ATH_084,2018-06-10,Career change,Started new job,3
+ATH_084,2016-01-29,Family event,Family event event,6
+ATH_084,2012-12-28,Family event,Family event event,6
+ATH_085,2020-03-23,Injury recovery,Injury recovery event,4
+ATH_085,2022-09-29,Training milestone,Reached 500km,10
+ATH_085,2021-05-14,Education,Education event,3
+ATH_085,2024-10-08,Location change,Moved to new city,2
+ATH_085,2020-11-09,Education,Education event,8
+ATH_085,2024-06-07,Personal achievement,Personal achievement event,8
+ATH_085,2024-08-22,Education,Education event,3
+ATH_085,2016-06-01,Career change,Started new job,8
+ATH_085,2018-12-29,Injury recovery,Injury recovery event,10
+ATH_086,2016-07-19,Training milestone,Reached 500km,5
+ATH_086,2018-06-21,Location change,Moved to new city,4
+ATH_086,2022-05-05,Training milestone,Reached 500km,3
+ATH_086,2025-06-23,Injury recovery,Injury recovery event,3
+ATH_086,2019-05-11,Competition,Participated in triathlon,9
+ATH_086,2019-05-08,Education,Education event,10
+ATH_086,2024-12-14,Location change,Moved to new city,10
+ATH_087,2021-12-17,Personal achievement,Personal achievement event,6
+ATH_087,2025-11-15,Competition,Participated in championship,4
+ATH_087,2025-09-12,Career change,Started new job,6
+ATH_087,2022-06-23,Location change,Moved to new city,5
+ATH_088,2016-09-21,Family event,Family event event,5
+ATH_088,2012-08-23,Personal achievement,Personal achievement event,5
+ATH_088,2008-08-07,Training milestone,Reached personal best,9
+ATH_088,2006-08-10,Career change,Started new job,7
+ATH_088,2021-05-04,Education,Education event,5
+ATH_088,2017-07-23,Injury recovery,Injury recovery event,4
+ATH_088,2005-11-23,Competition,Participated in championship,9
+ATH_088,2007-02-11,Training milestone,Reached personal best,4
+ATH_089,2018-01-06,Family event,Family event event,2
+ATH_089,2013-11-03,Personal achievement,Personal achievement event,1
+ATH_089,2022-08-02,Family event,Family event event,10
+ATH_089,2019-11-30,Family event,Family event event,9
+ATH_089,2014-09-21,Personal achievement,Personal achievement event,4
+ATH_089,2013-01-17,Injury recovery,Injury recovery event,2
+ATH_089,2016-11-04,Personal achievement,Personal achievement event,6
+ATH_089,2022-05-15,Personal achievement,Personal achievement event,4
+ATH_090,2011-08-18,Family event,Family event event,8
+ATH_090,2009-03-19,Career change,Started new job,9
+ATH_090,2025-02-01,Education,Education event,7
+ATH_090,2016-12-31,Personal achievement,Personal achievement event,10
+ATH_090,2013-08-23,Family event,Family event event,10
+ATH_090,2015-08-27,Competition,Participated in local race,3
+ATH_090,2008-07-30,Family event,Family event event,6
+ATH_090,2024-06-25,Personal achievement,Personal achievement event,2
+ATH_091,2022-09-16,Competition,Participated in marathon,8
+ATH_091,2020-10-31,Education,Education event,2
+ATH_091,2022-08-24,Injury recovery,Injury recovery event,8
+ATH_091,2024-11-13,Training milestone,Reached 500km,9
+ATH_091,2025-06-22,Education,Education event,2
+ATH_091,2022-11-14,Training milestone,Reached personal best,2
+ATH_091,2021-11-01,Career change,Started new job,8
+ATH_091,2023-09-19,Injury recovery,Injury recovery event,7
+ATH_091,2023-11-12,Training milestone,Reached 500km,4
+ATH_091,2025-07-11,Competition,Participated in championship,8
+ATH_091,2022-11-26,Training milestone,Reached 1000km,2
+ATH_091,2025-07-04,Personal achievement,Personal achievement event,4
+ATH_092,2025-04-01,Training milestone,Reached 1000km,5
+ATH_092,2025-02-22,Training milestone,Reached personal best,5
+ATH_092,2025-08-23,Education,Education event,2
+ATH_092,2025-01-12,Family event,Family event event,10
+ATH_092,2024-12-13,Personal achievement,Personal achievement event,7
+ATH_092,2025-10-15,Personal achievement,Personal achievement event,5
+ATH_092,2025-03-12,Education,Education event,6
+ATH_092,2025-11-03,Family event,Family event event,2
+ATH_092,2025-09-28,Personal achievement,Personal achievement event,7
+ATH_092,2024-12-07,Education,Education event,10
+ATH_092,2025-05-25,Training milestone,Reached personal best,10
+ATH_093,2017-04-09,Location change,Moved to new city,8
+ATH_093,2006-06-04,Injury recovery,Injury recovery event,6
+ATH_093,2006-07-16,Location change,Moved to new city,9
+ATH_093,2012-04-03,Education,Education event,2
+ATH_093,2011-02-24,Injury recovery,Injury recovery event,10
+ATH_093,2023-08-29,Family event,Family event event,7
+ATH_093,2019-10-26,Personal achievement,Personal achievement event,10
+ATH_093,2008-07-28,Education,Education event,6
+ATH_093,2008-03-19,Injury recovery,Injury recovery event,3
+ATH_093,2022-06-22,Family event,Family event event,9
+ATH_094,2023-09-22,Training milestone,Reached personal best,2
+ATH_094,2021-06-24,Family event,Family event event,5
+ATH_094,2024-12-12,Injury recovery,Injury recovery event,10
+ATH_095,2024-06-29,Location change,Moved to new city,8
+ATH_095,2019-08-15,Career change,Started new job,9
+ATH_095,2025-10-29,Competition,Participated in local race,3
+ATH_095,2023-11-30,Injury recovery,Injury recovery event,9
+ATH_095,2016-12-01,Location change,Moved to new city,7
+ATH_096,2014-10-19,Location change,Moved to new city,5
+ATH_096,2020-04-04,Personal achievement,Personal achievement event,6
+ATH_096,2018-08-31,Education,Education event,3
+ATH_096,2012-01-12,Training milestone,Reached 1000km,9
+ATH_096,2008-06-20,Education,Education event,7
+ATH_096,2021-10-07,Career change,Started new job,4
+ATH_096,2020-04-20,Training milestone,Reached 100km,5
+ATH_096,2019-09-23,Training milestone,Reached 100km,1
+ATH_096,2016-03-17,Training milestone,Reached 500km,3
+ATH_096,2020-07-02,Career change,Started new job,10
+ATH_097,2025-06-25,Education,Education event,3
+ATH_097,2023-06-01,Injury recovery,Injury recovery event,5
+ATH_097,2021-02-07,Family event,Family event event,2
+ATH_097,2019-12-02,Training milestone,Reached 500km,7
+ATH_097,2016-12-31,Education,Education event,10
+ATH_097,2024-10-25,Location change,Moved to new city,1
+ATH_098,2021-07-19,Injury recovery,Injury recovery event,4
+ATH_098,2017-06-01,Personal achievement,Personal achievement event,7
+ATH_098,2020-07-12,Training milestone,Reached 1000km,7
+ATH_099,2019-01-14,Injury recovery,Injury recovery event,3
+ATH_099,2017-09-16,Education,Education event,8
+ATH_099,2018-04-06,Location change,Moved to new city,10
+ATH_099,2018-09-18,Injury recovery,Injury recovery event,9
+ATH_099,2025-10-07,Career change,Started new job,7
+ATH_100,2012-01-07,Career change,Started new job,2
+ATH_100,2014-11-16,Personal achievement,Personal achievement event,10
+ATH_100,2017-09-04,Family event,Family event event,7
+ATH_100,2025-07-29,Family event,Family event event,8
+ATH_100,2021-07-04,Career change,Started new job,3
+ATH_100,2012-09-07,Career change,Started new job,5
+ATH_100,2016-01-04,Personal achievement,Personal achievement event,7
+ATH_100,2015-07-23,Education,Education event,1
+ATH_100,2015-08-02,Career change,Started new job,7
+ATH_100,2025-06-14,Family event,Family event event,5
+ATH_100,2020-05-13,Family event,Family event event,5
+ATH_100,2020-07-04,Family event,Family event event,6
+ATH_101,2018-07-17,Competition,Participated in triathlon,5
+ATH_101,2022-06-15,Competition,Participated in triathlon,3
+ATH_101,2015-04-15,Education,Education event,6
+ATH_101,2012-10-19,Competition,Participated in local race,3
+ATH_101,2012-07-11,Injury recovery,Injury recovery event,1
+ATH_101,2021-01-17,Location change,Moved to new city,1
+ATH_101,2016-01-02,Location change,Moved to new city,3
+ATH_101,2012-09-27,Training milestone,Reached 1000km,5
+ATH_101,2014-11-22,Training milestone,Reached 1000km,5
+ATH_102,2018-08-11,Personal achievement,Personal achievement event,6
+ATH_102,2008-10-13,Location change,Moved to new city,7
+ATH_102,2011-11-18,Competition,Participated in marathon,8
+ATH_103,2019-09-28,Personal achievement,Personal achievement event,5
+ATH_103,2023-08-14,Competition,Participated in triathlon,6
+ATH_103,2022-10-21,Competition,Participated in local race,6
+ATH_103,2018-09-18,Competition,Participated in marathon,10
+ATH_103,2018-03-15,Education,Education event,3
+ATH_103,2018-08-08,Competition,Participated in marathon,2
+ATH_103,2023-04-16,Competition,Participated in marathon,6
+ATH_103,2017-05-11,Family event,Family event event,5
+ATH_103,2020-06-04,Location change,Moved to new city,6
+ATH_103,2019-12-12,Career change,Started new job,4
+ATH_104,2023-10-15,Career change,Started new job,8
+ATH_104,2008-11-11,Competition,Participated in championship,10
+ATH_104,2010-06-25,Competition,Participated in triathlon,2
+ATH_104,2014-08-29,Training milestone,Reached 100km,4
+ATH_104,2007-03-12,Family event,Family event event,10
+ATH_105,2017-09-04,Training milestone,Reached 500km,6
+ATH_105,2016-09-08,Training milestone,Reached 1000km,3
+ATH_105,2019-02-15,Training milestone,Reached personal best,6
+ATH_106,2021-07-11,Personal achievement,Personal achievement event,5
+ATH_106,2014-05-22,Family event,Family event event,6
+ATH_106,2023-04-13,Education,Education event,8
+ATH_106,2008-02-20,Personal achievement,Personal achievement event,9
+ATH_106,2021-02-12,Training milestone,Reached 1000km,7
+ATH_106,2014-06-14,Location change,Moved to new city,9
+ATH_107,2025-01-09,Competition,Participated in triathlon,5
+ATH_107,2025-07-30,Personal achievement,Personal achievement event,4
+ATH_107,2024-11-25,Family event,Family event event,7
+ATH_107,2024-12-10,Injury recovery,Injury recovery event,9
+ATH_107,2025-10-13,Family event,Family event event,5
+ATH_107,2025-05-27,Location change,Moved to new city,2
+ATH_107,2024-12-04,Location change,Moved to new city,2
+ATH_107,2025-02-25,Career change,Started new job,10
+ATH_107,2025-10-02,Competition,Participated in triathlon,7
+ATH_108,2021-10-20,Education,Education event,4
+ATH_108,2025-07-22,Training milestone,Reached personal best,1
+ATH_108,2022-01-10,Personal achievement,Personal achievement event,3
+ATH_108,2022-06-27,Family event,Family event event,7
+ATH_108,2024-04-04,Education,Education event,4
+ATH_108,2025-06-25,Personal achievement,Personal achievement event,6
+ATH_108,2023-12-03,Location change,Moved to new city,4
+ATH_108,2025-07-30,Injury recovery,Injury recovery event,1
+ATH_108,2023-10-05,Training milestone,Reached 1000km,9
+ATH_109,2022-02-08,Competition,Participated in championship,7
+ATH_109,2020-07-16,Family event,Family event event,8
+ATH_109,2021-05-04,Career change,Started new job,8
+ATH_109,2023-03-21,Training milestone,Reached 500km,4
+ATH_109,2025-08-16,Competition,Participated in marathon,4
+ATH_109,2021-12-15,Competition,Participated in marathon,7
+ATH_109,2025-03-30,Career change,Started new job,8
+ATH_109,2020-06-10,Family event,Family event event,3
+ATH_109,2025-10-01,Training milestone,Reached 100km,8
+ATH_109,2022-12-31,Family event,Family event event,4
+ATH_109,2024-03-19,Competition,Participated in triathlon,3
+ATH_109,2022-08-03,Location change,Moved to new city,3
+ATH_110,2020-02-14,Training milestone,Reached 1000km,9
+ATH_110,2022-07-09,Competition,Participated in local race,10
+ATH_110,2022-12-23,Career change,Started new job,4
+ATH_110,2024-04-15,Personal achievement,Personal achievement event,2
+ATH_110,2025-09-08,Personal achievement,Personal achievement event,2
+ATH_110,2020-06-04,Location change,Moved to new city,1
+ATH_110,2021-04-14,Training milestone,Reached 1000km,9
+ATH_110,2025-11-23,Personal achievement,Personal achievement event,7
+ATH_110,2020-04-26,Personal achievement,Personal achievement event,4
+ATH_110,2025-07-25,Competition,Participated in local race,5
+ATH_111,2019-03-18,Family event,Family event event,6
+ATH_111,2015-03-08,Training milestone,Reached 500km,5
+ATH_111,2016-10-16,Training milestone,Reached 500km,8
+ATH_111,2019-08-02,Injury recovery,Injury recovery event,4
+ATH_111,2022-12-06,Injury recovery,Injury recovery event,7
+ATH_111,2021-10-27,Training milestone,Reached personal best,6
+ATH_111,2016-11-28,Education,Education event,4
+ATH_111,2015-08-02,Education,Education event,9
+ATH_111,2021-07-08,Injury recovery,Injury recovery event,10
+ATH_111,2024-05-29,Training milestone,Reached 1000km,5
+ATH_111,2015-06-13,Education,Education event,10
+ATH_112,2014-07-31,Family event,Family event event,6
+ATH_112,2023-04-29,Education,Education event,4
+ATH_112,2024-09-22,Education,Education event,9
+ATH_113,2024-08-16,Training milestone,Reached 1000km,3
+ATH_113,2025-04-18,Training milestone,Reached 100km,1
+ATH_113,2025-10-31,Family event,Family event event,5
+ATH_114,2022-03-18,Training milestone,Reached 100km,9
+ATH_114,2018-10-21,Injury recovery,Injury recovery event,1
+ATH_114,2023-07-12,Career change,Started new job,2
+ATH_114,2025-08-26,Education,Education event,4
+ATH_114,2019-05-10,Education,Education event,8
+ATH_114,2022-07-12,Education,Education event,5
+ATH_114,2022-04-06,Personal achievement,Personal achievement event,2
+ATH_114,2019-09-25,Career change,Started new job,3
+ATH_114,2018-01-13,Training milestone,Reached personal best,9
+ATH_114,2025-02-08,Personal achievement,Personal achievement event,8
+ATH_114,2021-11-20,Personal achievement,Personal achievement event,1
+ATH_115,2025-09-21,Family event,Family event event,9
+ATH_115,2025-02-25,Family event,Family event event,10
+ATH_115,2025-04-30,Training milestone,Reached 500km,9
+ATH_115,2025-04-18,Injury recovery,Injury recovery event,2
+ATH_116,2025-01-02,Location change,Moved to new city,4
+ATH_116,2025-08-10,Injury recovery,Injury recovery event,3
+ATH_116,2025-09-09,Competition,Participated in championship,4
+ATH_117,2008-04-06,Competition,Participated in triathlon,8
+ATH_117,2024-11-28,Competition,Participated in marathon,2
+ATH_117,2019-09-04,Location change,Moved to new city,2
+ATH_117,2020-09-19,Competition,Participated in local race,10
+ATH_117,2022-02-14,Location change,Moved to new city,6
+ATH_118,2020-02-05,Career change,Started new job,2
+ATH_118,2021-04-24,Personal achievement,Personal achievement event,9
+ATH_118,2021-03-23,Injury recovery,Injury recovery event,2
+ATH_118,2011-11-02,Competition,Participated in championship,5
+ATH_118,2012-03-22,Injury recovery,Injury recovery event,6
+ATH_118,2013-08-29,Personal achievement,Personal achievement event,5
+ATH_118,2010-09-29,Injury recovery,Injury recovery event,10
+ATH_118,2016-03-22,Training milestone,Reached 500km,10
+ATH_119,2019-09-22,Personal achievement,Personal achievement event,5
+ATH_119,2022-02-06,Competition,Participated in championship,4
+ATH_119,2022-11-30,Education,Education event,9
+ATH_119,2025-11-02,Family event,Family event event,2
+ATH_119,2023-01-06,Location change,Moved to new city,4
+ATH_120,2025-01-04,Injury recovery,Injury recovery event,4
+ATH_120,2024-10-08,Career change,Started new job,1
+ATH_120,2022-11-26,Career change,Started new job,6
+ATH_120,2023-07-31,Career change,Started new job,4
+ATH_120,2025-02-13,Personal achievement,Personal achievement event,2
+ATH_120,2022-06-23,Family event,Family event event,5
+ATH_120,2025-07-10,Career change,Started new job,10
+ATH_120,2025-10-10,Family event,Family event event,5
+ATH_120,2023-12-09,Injury recovery,Injury recovery event,7
+ATH_120,2024-12-16,Location change,Moved to new city,3
+ATH_121,2020-02-22,Injury recovery,Injury recovery event,1
+ATH_121,2022-12-19,Career change,Started new job,8
+ATH_121,2023-08-31,Training milestone,Reached 500km,10
+ATH_121,2022-01-12,Training milestone,Reached 1000km,1
+ATH_121,2019-08-26,Location change,Moved to new city,1
+ATH_121,2019-08-19,Personal achievement,Personal achievement event,6
+ATH_121,2021-10-24,Career change,Started new job,8
+ATH_121,2015-08-06,Competition,Participated in championship,8
+ATH_121,2015-10-12,Personal achievement,Personal achievement event,8
+ATH_122,2024-07-10,Personal achievement,Personal achievement event,4
+ATH_122,2018-06-09,Personal achievement,Personal achievement event,2
+ATH_122,2023-09-02,Injury recovery,Injury recovery event,7
+ATH_122,2025-11-10,Family event,Family event event,1
+ATH_122,2008-08-03,Training milestone,Reached 100km,5
+ATH_122,2007-03-05,Personal achievement,Personal achievement event,6
+ATH_123,2025-03-17,Personal achievement,Personal achievement event,7
+ATH_123,2025-03-04,Family event,Family event event,1
+ATH_123,2025-11-11,Personal achievement,Personal achievement event,9
+ATH_123,2025-07-16,Competition,Participated in marathon,3
+ATH_123,2025-07-10,Personal achievement,Personal achievement event,2
+ATH_123,2024-12-16,Career change,Started new job,3
+ATH_123,2025-03-02,Location change,Moved to new city,4
+ATH_124,2021-07-12,Competition,Participated in triathlon,6
+ATH_124,2021-07-11,Education,Education event,7
+ATH_124,2018-11-14,Competition,Participated in championship,5
+ATH_124,2024-03-30,Location change,Moved to new city,4
+ATH_124,2024-09-17,Personal achievement,Personal achievement event,8
+ATH_125,2025-01-16,Training milestone,Reached 100km,1
+ATH_125,2024-04-07,Location change,Moved to new city,8
+ATH_125,2021-07-13,Injury recovery,Injury recovery event,8
+ATH_125,2021-01-21,Injury recovery,Injury recovery event,6
+ATH_125,2025-01-05,Training milestone,Reached 100km,3
+ATH_125,2023-10-15,Training milestone,Reached 100km,5
+ATH_125,2025-01-29,Family event,Family event event,7
+ATH_125,2023-09-05,Family event,Family event event,3
+ATH_125,2022-01-30,Career change,Started new job,3
+ATH_125,2022-08-07,Personal achievement,Personal achievement event,10
+ATH_125,2023-07-20,Career change,Started new job,3
+ATH_126,2024-10-26,Family event,Family event event,3
+ATH_126,2021-11-03,Location change,Moved to new city,10
+ATH_126,2019-04-08,Personal achievement,Personal achievement event,1
+ATH_126,2024-03-19,Training milestone,Reached 100km,2
+ATH_127,2023-11-02,Injury recovery,Injury recovery event,8
+ATH_127,2011-02-25,Family event,Family event event,4
+ATH_127,2022-03-02,Injury recovery,Injury recovery event,4
+ATH_127,2018-08-16,Injury recovery,Injury recovery event,9
+ATH_127,2019-04-03,Education,Education event,7
+ATH_127,2013-08-10,Training milestone,Reached 500km,9
+ATH_127,2018-06-05,Location change,Moved to new city,3
+ATH_127,2025-01-24,Family event,Family event event,1
+ATH_127,2015-01-04,Competition,Participated in championship,9
+ATH_127,2014-07-07,Education,Education event,4
+ATH_128,2025-03-21,Training milestone,Reached personal best,5
+ATH_128,2017-08-03,Career change,Started new job,10
+ATH_128,2005-09-17,Training milestone,Reached 1000km,6
+ATH_128,2021-06-20,Location change,Moved to new city,4
+ATH_129,2025-08-29,Personal achievement,Personal achievement event,7
+ATH_129,2025-03-30,Location change,Moved to new city,9
+ATH_129,2025-06-10,Location change,Moved to new city,4
+ATH_129,2025-02-01,Family event,Family event event,8
+ATH_129,2025-05-25,Education,Education event,6
+ATH_130,2018-03-02,Injury recovery,Injury recovery event,9
+ATH_130,2015-01-29,Training milestone,Reached 500km,6
+ATH_130,2017-11-10,Competition,Participated in championship,3
+ATH_130,2015-04-01,Family event,Family event event,4
+ATH_130,2015-06-09,Location change,Moved to new city,3
+ATH_130,2015-01-12,Education,Education event,5
+ATH_130,2016-10-03,Competition,Participated in championship,9
+ATH_131,2014-09-05,Training milestone,Reached 100km,4
+ATH_131,2018-06-22,Injury recovery,Injury recovery event,7
+ATH_131,2009-05-26,Training milestone,Reached personal best,5
+ATH_131,2024-07-04,Education,Education event,4
+ATH_131,2019-10-20,Family event,Family event event,1
+ATH_131,2022-04-25,Career change,Started new job,4
+ATH_131,2024-07-20,Career change,Started new job,8
+ATH_131,2014-12-09,Injury recovery,Injury recovery event,1
+ATH_132,2021-11-19,Competition,Participated in triathlon,10
+ATH_132,2006-01-24,Education,Education event,7
+ATH_132,2009-12-02,Career change,Started new job,10
+ATH_132,2009-10-10,Location change,Moved to new city,2
+ATH_132,2020-03-31,Competition,Participated in local race,7
+ATH_133,2021-04-23,Competition,Participated in triathlon,6
+ATH_133,2024-08-10,Competition,Participated in triathlon,8
+ATH_133,2009-01-17,Training milestone,Reached personal best,3
+ATH_133,2010-02-22,Education,Education event,10
+ATH_134,2019-07-03,Education,Education event,5
+ATH_134,2020-08-07,Training milestone,Reached 1000km,7
+ATH_134,2023-11-21,Competition,Participated in triathlon,10
+ATH_134,2010-12-19,Location change,Moved to new city,8
+ATH_134,2017-04-01,Family event,Family event event,9
+ATH_134,2014-12-01,Family event,Family event event,7
+ATH_134,2018-03-22,Location change,Moved to new city,2
+ATH_134,2022-10-13,Location change,Moved to new city,10
+ATH_134,2017-06-20,Education,Education event,1
+ATH_134,2013-03-04,Education,Education event,2
+ATH_134,2025-10-19,Training milestone,Reached 1000km,5
+ATH_135,2016-06-24,Training milestone,Reached 1000km,10
+ATH_135,2018-02-03,Family event,Family event event,1
+ATH_135,2023-07-09,Family event,Family event event,9
+ATH_135,2018-11-29,Family event,Family event event,10
+ATH_135,2018-01-18,Location change,Moved to new city,5
+ATH_135,2017-01-22,Training milestone,Reached 100km,7
+ATH_135,2020-06-28,Training milestone,Reached 500km,3
+ATH_135,2014-10-31,Personal achievement,Personal achievement event,8
+ATH_135,2020-02-22,Location change,Moved to new city,9
+ATH_136,2019-12-23,Location change,Moved to new city,3
+ATH_136,2017-08-20,Education,Education event,5
+ATH_136,2021-12-13,Education,Education event,5
+ATH_136,2017-12-02,Training milestone,Reached 1000km,2
+ATH_136,2019-07-05,Competition,Participated in marathon,2
+ATH_136,2020-07-30,Education,Education event,6
+ATH_136,2023-01-03,Competition,Participated in triathlon,2
+ATH_136,2022-09-13,Personal achievement,Personal achievement event,8
+ATH_136,2018-07-04,Family event,Family event event,1
+ATH_136,2025-01-13,Competition,Participated in local race,5
+ATH_136,2016-04-15,Competition,Participated in championship,1
+ATH_137,2020-10-21,Location change,Moved to new city,3
+ATH_137,2021-12-15,Training milestone,Reached 1000km,7
+ATH_137,2022-05-27,Education,Education event,4
+ATH_138,2018-11-27,Family event,Family event event,4
+ATH_138,2017-12-05,Location change,Moved to new city,6
+ATH_138,2021-10-25,Training milestone,Reached personal best,1
+ATH_138,2021-08-15,Competition,Participated in marathon,4
+ATH_138,2023-12-28,Family event,Family event event,10
+ATH_138,2023-07-19,Competition,Participated in marathon,9
+ATH_138,2023-01-19,Injury recovery,Injury recovery event,1
+ATH_139,2019-03-29,Location change,Moved to new city,5
+ATH_139,2025-04-02,Competition,Participated in championship,1
+ATH_139,2022-09-23,Location change,Moved to new city,9
+ATH_139,2018-12-12,Education,Education event,1
+ATH_139,2020-10-06,Location change,Moved to new city,8
+ATH_139,2018-05-18,Personal achievement,Personal achievement event,1
+ATH_139,2018-04-06,Family event,Family event event,9
+ATH_139,2020-04-04,Competition,Participated in triathlon,8
+ATH_139,2021-03-11,Injury recovery,Injury recovery event,4
+ATH_139,2017-11-22,Personal achievement,Personal achievement event,2
+ATH_140,2024-10-22,Career change,Started new job,1
+ATH_140,2025-06-21,Education,Education event,3
+ATH_140,2023-09-28,Education,Education event,5
+ATH_141,2007-04-09,Injury recovery,Injury recovery event,3
+ATH_141,2005-05-12,Personal achievement,Personal achievement event,4
+ATH_141,2022-11-09,Career change,Started new job,10
+ATH_141,2013-12-22,Injury recovery,Injury recovery event,2
+ATH_141,2005-03-16,Personal achievement,Personal achievement event,5
+ATH_141,2023-08-04,Injury recovery,Injury recovery event,3
+ATH_141,2013-11-16,Training milestone,Reached 500km,1
+ATH_142,2015-07-22,Location change,Moved to new city,3
+ATH_142,2023-07-13,Competition,Participated in local race,6
+ATH_142,2025-03-09,Injury recovery,Injury recovery event,9
+ATH_142,2024-07-13,Family event,Family event event,4
+ATH_142,2024-03-15,Career change,Started new job,6
+ATH_142,2018-06-04,Family event,Family event event,2
+ATH_142,2022-04-06,Career change,Started new job,6
+ATH_143,2025-04-16,Personal achievement,Personal achievement event,1
+ATH_143,2025-10-27,Personal achievement,Personal achievement event,4
+ATH_143,2025-02-26,Education,Education event,3
+ATH_143,2025-04-04,Injury recovery,Injury recovery event,2
+ATH_143,2025-08-09,Injury recovery,Injury recovery event,6
+ATH_143,2025-10-29,Location change,Moved to new city,5
+ATH_143,2025-01-19,Personal achievement,Personal achievement event,8
+ATH_143,2025-04-11,Family event,Family event event,10
+ATH_143,2025-05-19,Injury recovery,Injury recovery event,7
+ATH_143,2025-11-25,Location change,Moved to new city,3
+ATH_143,2024-11-25,Career change,Started new job,7
+ATH_143,2025-09-22,Education,Education event,1
+ATH_144,2020-06-10,Career change,Started new job,2
+ATH_144,2024-08-08,Personal achievement,Personal achievement event,7
+ATH_144,2016-06-25,Personal achievement,Personal achievement event,9
+ATH_145,2009-04-21,Competition,Participated in championship,7
+ATH_145,2009-04-01,Education,Education event,6
+ATH_145,2023-05-15,Competition,Participated in local race,6
+ATH_145,2018-02-23,Education,Education event,2
+ATH_145,2014-06-23,Injury recovery,Injury recovery event,6
+ATH_145,2017-04-24,Family event,Family event event,2
+ATH_145,2025-10-03,Personal achievement,Personal achievement event,4
+ATH_146,2024-01-25,Location change,Moved to new city,6
+ATH_146,2024-07-01,Training milestone,Reached 100km,10
+ATH_146,2025-11-04,Career change,Started new job,9
+ATH_146,2023-01-20,Career change,Started new job,8
+ATH_146,2024-09-22,Education,Education event,9
+ATH_146,2025-04-12,Education,Education event,7
+ATH_146,2023-04-01,Education,Education event,6
+ATH_146,2024-03-30,Location change,Moved to new city,9
+ATH_147,2011-08-23,Career change,Started new job,7
+ATH_147,2015-02-14,Career change,Started new job,2
+ATH_147,2018-12-07,Family event,Family event event,2
+ATH_147,2023-02-12,Personal achievement,Personal achievement event,2
+ATH_147,2023-03-26,Competition,Participated in triathlon,9
+ATH_147,2008-06-27,Career change,Started new job,8
+ATH_147,2021-09-21,Career change,Started new job,2
+ATH_147,2016-04-20,Personal achievement,Personal achievement event,6
+ATH_148,2020-12-20,Training milestone,Reached 500km,4
+ATH_148,2014-09-29,Education,Education event,4
+ATH_148,2012-10-27,Competition,Participated in triathlon,10
+ATH_148,2012-11-06,Career change,Started new job,1
+ATH_148,2013-08-15,Location change,Moved to new city,9
+ATH_148,2009-07-09,Competition,Participated in championship,9
+ATH_148,2025-10-30,Location change,Moved to new city,2
+ATH_148,2021-08-16,Training milestone,Reached 100km,8
+ATH_148,2018-10-22,Competition,Participated in championship,9
+ATH_148,2010-04-02,Personal achievement,Personal achievement event,8
+ATH_148,2012-04-21,Career change,Started new job,8
+ATH_149,2025-08-20,Personal achievement,Personal achievement event,3
+ATH_149,2012-08-28,Family event,Family event event,7
+ATH_149,2014-02-17,Competition,Participated in championship,2
+ATH_149,2009-12-25,Education,Education event,8
+ATH_150,2025-06-25,Education,Education event,9
+ATH_150,2025-10-16,Family event,Family event event,9
+ATH_150,2025-04-26,Personal achievement,Personal achievement event,1
+ATH_150,2024-12-16,Training milestone,Reached 100km,4

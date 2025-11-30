@@ -1,0 +1,141 @@
+athlete_id,injury_id,injury_type,body_location,injury_year,age_at_injury,trigger_description,severity,severity_numeric,required_hospitalization,hospitalization_days,recovery_method,recovery_time_months,current_status,complications,impact_on_training
+ATH_001,INJ_001_1,Ankle Sprain,Back,1997,29,Ironman training,Mild,6.875058504627043,No,0,Conservative management,7.594626495095554,Recurring issue,None,Temporary stop
+ATH_002,INJ_002_1,Head Injury (Concussion),Back,1992,23,Training fall,Severe,7.6098724773042346,Yes,0,Medication,8.971547081366758,Recurring issue,None,Modified training
+ATH_002,INJ_002_2,Shoulder Strain,Head,2017,48,Sports collision,Mild,4.522581295393733,Yes,0,Conservative management,8.178108070446559,Ongoing management,Osteoarthritis (triggered),None
+ATH_002,INJ_002_3,Calf Muscle Strain,Left Leg,2013,44,Running session overexertion,Moderate,6.7914992201449005,Yes,0,Conservative management,6.993590621253832,Ongoing management,Chronic pain,Permanent limitation
+ATH_003,INJ_003_1,Back Pain,Back,1984,15,Climbing accident,Moderate,7.520506329258754,Yes,0,Medication,10.760002501407522,Recurring issue,Limited mobility,Modified training
+ATH_004,INJ_004_1,Knee Pain,Back,2016,45,Running session overexertion,Severe,1.3097597001086503,No,2,Rest and physical therapy,4.36379259811187,Fully recovered,Chronic pain,Permanent limitation
+ATH_005,INJ_005_1,Hip Injury,Back,2008,36,Sports collision,Moderate,8.287081681524747,No,8,Surgery + rehabilitation,3.8250131869640684,Recurring issue,Frequent reinjury,Modified training
+ATH_005,INJ_005_2,Shoulder Strain,Right Leg,2015,43,Training fall,Mild,8.862319942329977,Yes,0,Rest and physical therapy,1.5739861757028166,Ongoing management,Osteoarthritis (triggered),Temporary stop
+ATH_005,INJ_005_3,Ankle Sprain,Left Arm,2001,29,Ironman training,Mild,5.668041493494308,No,0,Rest and physical therapy,6.473124501642733,Fully recovered,None,Permanent limitation
+ATH_005,INJ_005_4,Back Pain,Left Leg,2017,45,Climbing accident,Moderate,5.18167325630927,Yes,0,Conservative management,8.572368477715138,Ongoing management,Frequent reinjury,Permanent limitation
+ATH_005,INJ_005_5,Ankle Sprain,Right Leg,2000,28,Running session overexertion,Moderate,4.760097748907032,Yes,6,Joint Academy rehab,11.545277553470983,Partially recovered,Osteoarthritis (triggered),Modified training
+ATH_006,INJ_006_1,Ankle Sprain,Left Leg,2015,42,Climbing accident,Mild,9.472869447233133,No,0,Surgery + rehabilitation,11.813363229620343,Fully recovered,Frequent reinjury,Permanent limitation
+ATH_007,INJ_007_1,Knee Pain,Back,2011,37,Fall from height,Moderate,7.11863832855829,No,0,Surgery + rehabilitation,3.018302848149202,Partially recovered,Limited mobility,Permanent limitation
+ATH_007,INJ_007_2,Back Pain,Left Arm,1986,15,Overtraining,Mild,6.99305908405473,No,0,Conservative management,4.480740881114148,Ongoing management,Limited mobility,Temporary stop
+ATH_007,INJ_007_3,Knee Pain,Left Leg,2013,39,Running session overexertion,Moderate,1.1436343814504553,No,0,Surgery + rehabilitation,5.216793297442412,Recurring issue,Frequent reinjury,Modified training
+ATH_008,INJ_008_1,Knee Pain,Right Arm,1984,15,Sports collision,Severe,4.777032481324931,No,7,Medication,11.26863219507172,Ongoing management,Osteoarthritis (triggered),Modified training
+ATH_009,INJ_009_1,Ankle Sprain,Back,1988,15,Ironman training,Moderate,5.2083700639013575,Yes,0,Joint Academy rehab,8.472071970819128,Ongoing management,Osteoarthritis (triggered),Modified training
+ATH_009,INJ_009_2,Ankle Sprain,Left Arm,1982,15,Overtraining,Severe,2.960485400928677,No,0,Conservative management,5.995921020821613,Ongoing management,Frequent reinjury,Modified training
+ATH_009,INJ_009_3,Shoulder Strain,Back,1988,15,Running session overexertion,Severe,4.869645503554612,No,11,Joint Academy rehab,4.816607101144146,Ongoing management,None,Temporary stop
+ATH_009,INJ_009_4,Calf Muscle Strain,Left Arm,2022,46,Ironman training,Severe,1.5861072946475838,No,0,Rest and physical therapy,2.494011218929347,Recurring issue,None,Temporary stop
+ATH_010,INJ_010_1,Knee Pain,Left Arm,2003,26,Ironman training,Mild,2.1171380495867638,No,7,Rest and physical therapy,3.1575536827984108,Recurring issue,None,None
+ATH_011,INJ_011_1,Calf Muscle Strain,Left Arm,2024,46,Climbing accident,Moderate,2.7092232617289294,No,0,Joint Academy rehab,5.671708370741965,Recurring issue,None,Permanent limitation
+ATH_012,INJ_012_1,Calf Muscle Strain,Head,1991,15,Ironman training,Mild,1.6006060662408945,Yes,0,Rest and physical therapy,8.495715803548489,Partially recovered,Chronic pain,Permanent limitation
+ATH_013,INJ_013_1,Calf Muscle Strain,Back,2006,26,Running session overexertion,Moderate,6.920366216929272,Yes,0,Rest and physical therapy,5.796020420888984,Partially recovered,Chronic pain,Temporary stop
+ATH_013,INJ_013_2,Head Injury (Concussion),Head,2022,42,Running session overexertion,Moderate,6.230699069972594,Yes,0,Joint Academy rehab,5.880237999740411,Ongoing management,Chronic pain,Temporary stop
+ATH_014,INJ_014_1,Back Pain,Head,1990,15,Running session overexertion,Mild,9.791521014485511,No,1,Medication,0.8830073916748213,Partially recovered,Frequent reinjury,Temporary stop
+ATH_014,INJ_014_2,Hip Injury,Left Leg,2000,19,Overtraining,Moderate,4.521780137340258,Yes,0,Conservative management,3.7741399297308016,Fully recovered,Frequent reinjury,None
+ATH_014,INJ_014_3,Calf Muscle Strain,Head,1996,15,Overtraining,Severe,3.2635254697054314,No,0,Joint Academy rehab,10.904796832026339,Recurring issue,None,Modified training
+ATH_014,INJ_014_4,Head Injury (Concussion),Right Leg,1984,15,Ironman training,Moderate,3.571427609510539,No,0,Rest and physical therapy,2.55279176025545,Ongoing management,Osteoarthritis (triggered),Temporary stop
+ATH_014,INJ_014_5,Knee Pain,Left Leg,2012,31,Running session overexertion,Severe,1.537058154027822,No,0,Surgery + rehabilitation,5.0662526009544715,Fully recovered,Chronic pain,None
+ATH_015,INJ_015_1,Shoulder Strain,Right Leg,2022,40,Training fall,Mild,7.013930604476178,No,7,Surgery + rehabilitation,6.750019409130143,Partially recovered,Frequent reinjury,None
+ATH_015,INJ_015_2,Knee Pain,Right Leg,1982,15,Fall from height,Mild,9.302008476260951,No,0,Surgery + rehabilitation,11.21295660131618,Partially recovered,Frequent reinjury,None
+ATH_016,INJ_016_1,Tendon Damage,Left Arm,1988,15,Ironman training,Mild,9.6070760429493,No,0,Rest and physical therapy,8.790739937764764,Ongoing management,Chronic pain,Permanent limitation
+ATH_016,INJ_016_2,Ankle Sprain,Left Arm,2009,26,Climbing accident,Moderate,7.361806540947913,No,0,Conservative management,6.5617805334417705,Ongoing management,Limited mobility,None
+ATH_016,INJ_016_3,Calf Muscle Strain,Right Leg,1984,15,Overtraining,Severe,2.145622894896263,No,0,Surgery + rehabilitation,10.884448277548005,Ongoing management,Limited mobility,None
+ATH_017,INJ_017_1,Shoulder Strain,Right Arm,1982,15,Sports collision,Mild,9.25113818954085,Yes,12,Surgery + rehabilitation,6.054508893008968,Recurring issue,Frequent reinjury,Permanent limitation
+ATH_018,INJ_018_1,Shoulder Strain,Right Leg,1991,15,Overtraining,Severe,2.0857853829511046,No,0,Medication,9.741963584840473,Recurring issue,Frequent reinjury,Temporary stop
+ATH_019,INJ_019_1,Head Injury (Concussion),Left Arm,2012,26,Ironman training,Moderate,2.397948226990787,Yes,10,Joint Academy rehab,7.249873895189113,Recurring issue,Frequent reinjury,Temporary stop
+ATH_019,INJ_019_2,Shoulder Strain,Head,1995,15,Sports collision,Mild,3.187643065576105,Yes,0,Joint Academy rehab,3.0286606934706906,Ongoing management,Frequent reinjury,Modified training
+ATH_019,INJ_019_3,Tendon Damage,Head,1985,15,Overtraining,Moderate,6.942360267041939,No,0,Conservative management,11.697792615592983,Recurring issue,Osteoarthritis (triggered),Temporary stop
+ATH_020,INJ_020_1,Ankle Sprain,Right Arm,1995,15,Ironman training,Moderate,6.173309840720682,No,0,Medication,5.3886400114572455,Ongoing management,Chronic pain,None
+ATH_020,INJ_020_2,Knee Pain,Right Leg,2023,36,Sports collision,Mild,5.756096635762685,No,0,Surgery + rehabilitation,10.510525198823293,Partially recovered,Frequent reinjury,Modified training
+ATH_021,INJ_021_1,Shoulder Strain,Head,1997,15,Sports collision,Moderate,3.883937901005902,No,0,Joint Academy rehab,9.243207098919527,Fully recovered,Chronic pain,Permanent limitation
+ATH_021,INJ_021_2,Tendon Damage,Head,1980,15,Overtraining,Mild,5.117254576331932,Yes,0,Medication,4.826554692853759,Partially recovered,None,Permanent limitation
+ATH_022,INJ_022_1,Tendon Damage,Left Leg,2016,27,Sports collision,Severe,8.426111078366398,Yes,0,Conservative management,0.5738040911816382,Ongoing management,Chronic pain,Modified training
+ATH_022,INJ_022_2,Tendon Damage,Left Arm,2021,32,Climbing accident,Moderate,2.541798172952023,No,4,Joint Academy rehab,11.671188023487874,Fully recovered,None,Temporary stop
+ATH_022,INJ_022_3,Ankle Sprain,Back,2015,26,Overtraining,Mild,9.299605241046635,Yes,0,Joint Academy rehab,7.196597772264037,Ongoing management,Limited mobility,Modified training
+ATH_022,INJ_022_4,Ankle Sprain,Back,1989,15,Fall from height,Severe,6.009424456243441,No,0,Rest and physical therapy,9.06087617523089,Ongoing management,Chronic pain,Modified training
+ATH_022,INJ_022_5,Shoulder Strain,Back,1984,15,Training fall,Moderate,5.865028305635768,Yes,0,Conservative management,2.523493899710041,Partially recovered,Osteoarthritis (triggered),None
+ATH_023,INJ_023_1,Hip Injury,Right Arm,1995,15,Overtraining,Severe,2.2927042319359763,No,7,Rest and physical therapy,8.81795884126377,Partially recovered,Frequent reinjury,Permanent limitation
+ATH_023,INJ_023_2,Tendon Damage,Head,1998,15,Training fall,Mild,2.1156309410809286,No,0,Surgery + rehabilitation,11.743340100063586,Ongoing management,None,None
+ATH_024,INJ_024_1,Head Injury (Concussion),Left Arm,1988,15,Training fall,Moderate,1.5859154863318143,No,5,Joint Academy rehab,3.9397125199600507,Ongoing management,Limited mobility,None
+ATH_024,INJ_024_2,Shoulder Strain,Right Arm,2023,32,Running session overexertion,Severe,2.6804187861057382,Yes,0,Surgery + rehabilitation,5.8175481047508875,Ongoing management,Frequent reinjury,Temporary stop
+ATH_024,INJ_024_3,Head Injury (Concussion),Right Arm,2012,21,Overtraining,Moderate,3.1170805984809853,Yes,0,Joint Academy rehab,4.958085415571333,Partially recovered,None,Modified training
+ATH_025,INJ_025_1,Head Injury (Concussion),Head,1997,15,Sports collision,Severe,2.6050363533921406,Yes,0,Surgery + rehabilitation,10.190836478766444,Fully recovered,Osteoarthritis (triggered),Modified training
+ATH_025,INJ_025_2,Ankle Sprain,Right Leg,1999,15,Ironman training,Mild,9.096031153795389,Yes,0,Medication,8.384504816789345,Fully recovered,Frequent reinjury,None
+ATH_026,INJ_026_1,Ankle Sprain,Right Arm,2011,18,Ironman training,Mild,7.824408810992337,No,0,Medication,4.237273666164254,Fully recovered,Osteoarthritis (triggered),None
+ATH_026,INJ_026_2,Hip Injury,Head,2023,30,Sports collision,Severe,8.540899033633849,Yes,0,Medication,9.33188355456172,Recurring issue,Osteoarthritis (triggered),None
+ATH_026,INJ_026_3,Back Pain,Head,2022,29,Running session overexertion,Mild,8.337619803556603,Yes,0,Rest and physical therapy,3.7444132024747807,Recurring issue,Chronic pain,Permanent limitation
+ATH_027,INJ_027_1,Calf Muscle Strain,Right Arm,1986,15,Ironman training,Severe,3.7751663902120844,No,0,Surgery + rehabilitation,6.7013500133869455,Fully recovered,Frequent reinjury,Permanent limitation
+ATH_027,INJ_027_2,Calf Muscle Strain,Left Leg,2000,15,Running session overexertion,Moderate,1.713992805014262,Yes,3,Rest and physical therapy,3.7827554612656353,Partially recovered,Chronic pain,Modified training
+ATH_027,INJ_027_3,Hip Injury,Back,2024,30,Running session overexertion,Moderate,1.3699028113247782,Yes,0,Medication,7.151781401288387,Recurring issue,None,None
+ATH_027,INJ_027_4,Calf Muscle Strain,Left Arm,2019,25,Sports collision,Mild,4.842333427540563,No,0,Medication,11.448173020387477,Recurring issue,Osteoarthritis (triggered),None
+ATH_027,INJ_027_5,Head Injury (Concussion),Left Arm,1995,15,Sports collision,Moderate,6.39055671780746,No,0,Conservative management,8.909080516427997,Ongoing management,Osteoarthritis (triggered),None
+ATH_028,INJ_028_1,Calf Muscle Strain,Left Arm,1997,15,Running session overexertion,Moderate,9.068554873377847,No,0,Surgery + rehabilitation,1.6787869085696845,Fully recovered,Chronic pain,Modified training
+ATH_028,INJ_028_2,Tendon Damage,Back,2000,15,Running session overexertion,Moderate,3.7128862604858055,No,0,Joint Academy rehab,1.5941898184083034,Fully recovered,Osteoarthritis (triggered),Modified training
+ATH_028,INJ_028_3,Tendon Damage,Back,1981,15,Training fall,Moderate,2.0257326654318826,Yes,0,Rest and physical therapy,5.657479732657654,Recurring issue,None,Temporary stop
+ATH_029,INJ_029_1,Ankle Sprain,Left Arm,2005,15,Training fall,Moderate,4.970330535258638,Yes,0,Rest and physical therapy,8.781352312940472,Ongoing management,Chronic pain,Permanent limitation
+ATH_030,INJ_030_1,Head Injury (Concussion),Left Arm,1989,22,Fall from height,Severe,9.343368087932417,Yes,6,Medication,7.910876766302669,Recurring issue,Frequent reinjury,Modified training
+ATH_030,INJ_030_2,Tendon Damage,Back,2012,45,Sports collision,Mild,3.6732831224289435,Yes,7,Rest and physical therapy,2.369422771451403,Fully recovered,None,Permanent limitation
+ATH_030,INJ_030_3,Tendon Damage,Back,2020,53,Training fall,Mild,5.973808678050898,Yes,0,Rest and physical therapy,4.619320922962071,Ongoing management,None,Modified training
+ATH_030,INJ_030_4,Shoulder Strain,Right Arm,1998,31,Running session overexertion,Severe,1.0471333296721421,No,0,Conservative management,6.338935714286015,Recurring issue,Chronic pain,Modified training
+ATH_031,INJ_031_1,Hip Injury,Head,2015,47,Overtraining,Severe,3.1211264772497467,Yes,0,Rest and physical therapy,10.276317348958584,Fully recovered,Osteoarthritis (triggered),Modified training
+ATH_031,INJ_031_2,Back Pain,Head,1995,27,Training fall,Mild,6.668976571131184,Yes,0,Conservative management,1.4802189062673032,Ongoing management,None,Modified training
+ATH_031,INJ_031_3,Back Pain,Left Arm,2017,49,Running session overexertion,Severe,2.4620941399067924,No,0,Joint Academy rehab,8.790131822720978,Ongoing management,Frequent reinjury,Modified training
+ATH_031,INJ_031_4,Hip Injury,Right Leg,1990,22,Training fall,Mild,8.466289692793309,No,0,Conservative management,3.6976201214612527,Ongoing management,Osteoarthritis (triggered),Temporary stop
+ATH_031,INJ_031_5,Ankle Sprain,Right Leg,1993,25,Sports collision,Moderate,5.555027438960399,Yes,0,Joint Academy rehab,5.109533883875,Ongoing management,Osteoarthritis (triggered),None
+ATH_032,INJ_032_1,Head Injury (Concussion),Right Leg,1984,15,Training fall,Severe,8.987958131823763,Yes,11,Medication,1.0569317026030531,Recurring issue,Osteoarthritis (triggered),Permanent limitation
+ATH_032,INJ_032_2,Shoulder Strain,Left Leg,2022,53,Fall from height,Moderate,9.579506840664864,Yes,0,Conservative management,9.882062446037187,Partially recovered,Chronic pain,Temporary stop
+ATH_033,INJ_033_1,Tendon Damage,Head,2015,45,Ironman training,Moderate,6.163037446334569,No,0,Medication,7.090416203182579,Ongoing management,Limited mobility,None
+ATH_033,INJ_033_2,Shoulder Strain,Left Arm,1982,15,Overtraining,Mild,7.202570959584531,No,5,Conservative management,2.773266081044688,Fully recovered,None,Modified training
+ATH_033,INJ_033_3,Hip Injury,Left Leg,2024,54,Ironman training,Moderate,7.1913371117060905,Yes,0,Conservative management,1.318150280553485,Partially recovered,None,None
+ATH_033,INJ_033_4,Calf Muscle Strain,Right Arm,1992,22,Ironman training,Moderate,5.73925937095563,Yes,10,Conservative management,3.3580805642841516,Fully recovered,None,Temporary stop
+ATH_033,INJ_033_5,Head Injury (Concussion),Left Leg,2008,38,Overtraining,Severe,4.427394187887896,Yes,3,Medication,11.195058382300596,Partially recovered,Frequent reinjury,Temporary stop
+ATH_034,INJ_034_1,Shoulder Strain,Right Leg,2009,38,Ironman training,Severe,8.810065583831118,Yes,0,Conservative management,5.241861289167982,Recurring issue,Frequent reinjury,Modified training
+ATH_034,INJ_034_2,Tendon Damage,Head,2015,44,Climbing accident,Mild,7.897687034395879,Yes,0,Surgery + rehabilitation,5.4676000797138755,Partially recovered,Limited mobility,Modified training
+ATH_035,INJ_035_1,Tendon Damage,Right Leg,1981,15,Running session overexertion,Moderate,1.4283489280118742,No,1,Surgery + rehabilitation,5.474370672428752,Ongoing management,Osteoarthritis (triggered),None
+ATH_035,INJ_035_2,Calf Muscle Strain,Left Leg,1986,15,Climbing accident,Mild,3.2655951857351795,No,8,Surgery + rehabilitation,2.316930762929897,Fully recovered,Limited mobility,Modified training
+ATH_035,INJ_035_3,Shoulder Strain,Back,2013,41,Running session overexertion,Severe,9.307951406998958,Yes,13,Medication,8.616990154038414,Fully recovered,Chronic pain,Temporary stop
+ATH_035,INJ_035_4,Back Pain,Head,2013,41,Sports collision,Mild,1.9711155605711936,No,0,Joint Academy rehab,6.084520097251133,Partially recovered,Chronic pain,None
+ATH_035,INJ_035_5,Tendon Damage,Right Leg,2001,29,Running session overexertion,Moderate,9.551233672122564,Yes,12,Surgery + rehabilitation,7.221458141389683,Recurring issue,Osteoarthritis (triggered),Modified training
+ATH_036,INJ_036_1,Tendon Damage,Left Arm,2011,38,Overtraining,Moderate,5.102005987255623,No,0,Surgery + rehabilitation,9.737314958054831,Ongoing management,Osteoarthritis (triggered),Permanent limitation
+ATH_036,INJ_036_2,Knee Pain,Right Arm,2003,30,Fall from height,Moderate,7.726491910118763,No,0,Surgery + rehabilitation,11.415175639133567,Partially recovered,Limited mobility,Modified training
+ATH_036,INJ_036_3,Head Injury (Concussion),Left Leg,1992,19,Sports collision,Moderate,4.662755672966856,Yes,6,Medication,11.093099175024015,Fully recovered,Chronic pain,Temporary stop
+ATH_036,INJ_036_4,Shoulder Strain,Left Leg,2014,41,Running session overexertion,Severe,2.976166307807268,Yes,6,Conservative management,2.2948929089472228,Fully recovered,Osteoarthritis (triggered),Modified training
+ATH_036,INJ_036_5,Head Injury (Concussion),Left Arm,1990,17,Sports collision,Severe,8.552696363450325,Yes,0,Rest and physical therapy,7.6542492712642485,Ongoing management,Limited mobility,Temporary stop
+ATH_037,INJ_037_1,Ankle Sprain,Back,2010,36,Fall from height,Severe,4.8183136505309605,Yes,0,Medication,10.22622242952127,Ongoing management,Limited mobility,Modified training
+ATH_037,INJ_037_2,Back Pain,Right Leg,2020,46,Running session overexertion,Mild,1.4988041478770282,No,0,Surgery + rehabilitation,9.21065215173948,Fully recovered,Chronic pain,Permanent limitation
+ATH_037,INJ_037_3,Back Pain,Left Arm,1993,19,Fall from height,Mild,8.049499939584464,No,0,Rest and physical therapy,9.09672853501627,Partially recovered,Limited mobility,None
+ATH_037,INJ_037_4,Tendon Damage,Left Leg,2000,26,Running session overexertion,Mild,3.84350138466604,No,1,Medication,8.384689838693957,Fully recovered,Limited mobility,Permanent limitation
+ATH_037,INJ_037_5,Calf Muscle Strain,Left Leg,2020,46,Fall from height,Mild,9.81357365266924,Yes,0,Medication,8.581443217805607,Recurring issue,Chronic pain,Temporary stop
+ATH_038,INJ_038_1,Tendon Damage,Back,1991,16,Running session overexertion,Mild,2.8899219227807977,No,0,Medication,5.284313404937662,Fully recovered,None,None
+ATH_039,INJ_039_1,Shoulder Strain,Back,1992,16,Fall from height,Moderate,5.981119613214317,Yes,5,Conservative management,4.636370310348824,Fully recovered,Limited mobility,None
+ATH_039,INJ_039_2,Calf Muscle Strain,Left Arm,1987,15,Climbing accident,Moderate,9.434891236078535,No,13,Joint Academy rehab,0.5688505343127738,Recurring issue,None,Permanent limitation
+ATH_039,INJ_039_3,Calf Muscle Strain,Right Arm,2005,29,Climbing accident,Severe,8.040449338033355,No,12,Conservative management,2.5526300631914,Ongoing management,None,None
+ATH_039,INJ_039_4,Knee Pain,Right Arm,1985,15,Ironman training,Moderate,4.793173064739392,No,9,Medication,6.373648355138664,Fully recovered,Chronic pain,Permanent limitation
+ATH_039,INJ_039_5,Knee Pain,Back,2024,48,Running session overexertion,Mild,9.924544648174765,No,2,Surgery + rehabilitation,4.07212335259932,Ongoing management,Osteoarthritis (triggered),Temporary stop
+ATH_040,INJ_040_1,Shoulder Strain,Left Leg,2004,27,Sports collision,Mild,8.34376821791432,No,0,Conservative management,2.608539600214033,Recurring issue,Chronic pain,None
+ATH_040,INJ_040_2,Ankle Sprain,Left Arm,1983,15,Training fall,Severe,9.61607251262223,No,6,Conservative management,9.863494171172638,Recurring issue,Chronic pain,Temporary stop
+ATH_041,INJ_041_1,Tendon Damage,Head,2009,31,Training fall,Severe,9.645813107986623,No,0,Conservative management,6.72372920009144,Ongoing management,Limited mobility,Temporary stop
+ATH_041,INJ_041_2,Head Injury (Concussion),Right Arm,2001,23,Fall from height,Severe,4.940007387110412,Yes,12,Rest and physical therapy,5.130799023277449,Recurring issue,Osteoarthritis (triggered),None
+ATH_042,INJ_042_1,Calf Muscle Strain,Left Arm,2013,34,Sports collision,Moderate,2.384452983374105,Yes,3,Joint Academy rehab,10.278642208298624,Ongoing management,Chronic pain,None
+ATH_042,INJ_042_2,Calf Muscle Strain,Head,1985,15,Training fall,Severe,7.22747392496196,Yes,4,Rest and physical therapy,1.6642561450661821,Partially recovered,Osteoarthritis (triggered),None
+ATH_043,INJ_043_1,Ankle Sprain,Head,2007,27,Ironman training,Mild,7.6890195050957715,No,0,Rest and physical therapy,5.327492949345828,Ongoing management,None,Modified training
+ATH_043,INJ_043_2,Shoulder Strain,Left Arm,1981,15,Sports collision,Moderate,5.296303821434542,No,0,Surgery + rehabilitation,1.117372142561516,Partially recovered,None,None
+ATH_043,INJ_043_3,Knee Pain,Left Arm,2018,38,Training fall,Moderate,7.023802035569408,Yes,0,Surgery + rehabilitation,8.62188247648375,Fully recovered,Chronic pain,Permanent limitation
+ATH_044,INJ_044_1,Hip Injury,Left Arm,2000,19,Climbing accident,Mild,7.9120667969983645,No,0,Rest and physical therapy,9.35908538452582,Fully recovered,Osteoarthritis (triggered),Modified training
+ATH_044,INJ_044_2,Calf Muscle Strain,Head,2001,20,Running session overexertion,Mild,3.3477680695449203,Yes,0,Medication,9.215345255809906,Ongoing management,Limited mobility,Modified training
+ATH_044,INJ_044_3,Shoulder Strain,Right Leg,1985,15,Training fall,Severe,6.895099658491879,No,12,Rest and physical therapy,6.292220247762322,Partially recovered,Chronic pain,Modified training
+ATH_044,INJ_044_4,Hip Injury,Head,2020,39,Ironman training,Mild,6.849376727400589,Yes,7,Joint Academy rehab,3.6516734206569614,Fully recovered,Chronic pain,Modified training
+ATH_045,INJ_045_1,Head Injury (Concussion),Left Leg,2001,19,Fall from height,Severe,6.048917896953669,Yes,0,Surgery + rehabilitation,4.346950947755079,Recurring issue,None,Modified training
+ATH_045,INJ_045_2,Head Injury (Concussion),Right Arm,1990,15,Running session overexertion,Severe,6.562825510682082,Yes,5,Surgery + rehabilitation,3.091827931022234,Ongoing management,None,Permanent limitation
+ATH_045,INJ_045_3,Knee Pain,Back,1994,15,Running session overexertion,Moderate,8.256058882008588,No,6,Conservative management,10.503904328436269,Recurring issue,None,Temporary stop
+ATH_045,INJ_045_4,Calf Muscle Strain,Left Arm,2001,19,Ironman training,Mild,7.336917160081548,Yes,0,Surgery + rehabilitation,0.8130766680657744,Partially recovered,Osteoarthritis (triggered),Modified training
+ATH_046,INJ_046_1,Shoulder Strain,Left Arm,1984,15,Climbing accident,Mild,6.572984874760133,No,0,Surgery + rehabilitation,2.062083895286678,Partially recovered,Limited mobility,Temporary stop
+ATH_046,INJ_046_2,Back Pain,Back,2024,41,Ironman training,Moderate,3.7573993213102685,Yes,0,Surgery + rehabilitation,5.931063498290016,Ongoing management,Limited mobility,Temporary stop
+ATH_046,INJ_046_3,Head Injury (Concussion),Right Leg,2014,31,Overtraining,Mild,7.672686419687123,No,0,Rest and physical therapy,6.829648735992818,Partially recovered,Chronic pain,Temporary stop
+ATH_047,INJ_047_1,Head Injury (Concussion),Head,2008,24,Ironman training,Severe,4.142545540870751,No,0,Medication,9.079326098132208,Recurring issue,Chronic pain,Modified training
+ATH_048,INJ_048_1,Calf Muscle Strain,Right Arm,2016,31,Sports collision,Severe,2.2176635665704105,Yes,0,Joint Academy rehab,4.973545304127052,Partially recovered,None,None
+ATH_048,INJ_048_2,Back Pain,Head,1988,15,Overtraining,Severe,9.216575494030616,No,0,Medication,7.9750158184503945,Recurring issue,Osteoarthritis (triggered),Temporary stop
+ATH_048,INJ_048_3,Head Injury (Concussion),Head,1990,15,Fall from height,Moderate,9.621061562544345,Yes,0,Conservative management,4.949774362098201,Recurring issue,Frequent reinjury,Temporary stop
+ATH_048,INJ_048_4,Head Injury (Concussion),Right Arm,2020,35,Climbing accident,Mild,1.0152974980549911,Yes,5,Conservative management,1.598819859931051,Partially recovered,Frequent reinjury,None
+ATH_049,INJ_049_1,Hip Injury,Back,2014,28,Fall from height,Mild,1.609617373465609,No,0,Rest and physical therapy,2.546793944707148,Ongoing management,Chronic pain,Temporary stop
+ATH_049,INJ_049_2,Back Pain,Back,2014,28,Climbing accident,Mild,6.846893155126097,Yes,9,Conservative management,1.3139780840600086,Partially recovered,Frequent reinjury,None
+ATH_049,INJ_049_3,Hip Injury,Back,2012,26,Ironman training,Severe,6.930778046775682,No,8,Medication,7.53732895883132,Fully recovered,Chronic pain,Temporary stop
+ATH_049,INJ_049_4,Shoulder Strain,Head,1983,15,Ironman training,Mild,5.986211653526546,Yes,0,Surgery + rehabilitation,11.747078238009458,Recurring issue,Frequent reinjury,Permanent limitation
+ATH_049,INJ_049_5,Ankle Sprain,Head,1993,15,Climbing accident,Moderate,4.28148869382637,No,7,Conservative management,1.6326508709362546,Ongoing management,None,Modified training
+ATH_050,INJ_050_1,Back Pain,Head,2016,29,Ironman training,Severe,3.6995625165902246,No,2,Rest and physical therapy,9.385517441859756,Ongoing management,Osteoarthritis (triggered),Modified training
+ATH_050,INJ_050_2,Head Injury (Concussion),Right Arm,2011,24,Running session overexertion,Severe,7.572275878123901,Yes,1,Surgery + rehabilitation,8.478288486377892,Recurring issue,Frequent reinjury,Permanent limitation
+ATH_050,INJ_050_3,Hip Injury,Back,2012,25,Climbing accident,Moderate,8.734229698013072,No,0,Rest and physical therapy,6.57032219245357,Ongoing management,None,None

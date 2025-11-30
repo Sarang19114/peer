@@ -1,0 +1,51 @@
+athlete_id,name,strava_id,age,gender,height_cm,weight_kg,nationality,location,total_activities,total_distance_km,total_elevation_m,avg_activity_heart_rate,max_recorded_heart_rate,avg_daily_recovery_score,avg_daily_steps,avg_sleep_hours,avg_resting_hr,injury_count,current_chronic_condition,has_ongoing_issues,total_life_events,career_transitions,residences_count,family_size,social_engagement_score,communication_preference,social_network_size,coaching_support,training_partners
+ATH_001,Athlete_1,95687665500,60,Male,193,84,Swedish,Malmö,16,884.451958407648,7845.161259295987,140.17508553120035,196.7750003901811,76.7975447224952,9249.244444444445,7.217003056599117,67.45555555555555,1,None,No,29,2,4,0,9.287334301689974,One-on-One,26,1,1
+ATH_002,Athlete_2,27971576281,71,Female,166,79,American,Austin,8,352.95,2419.30,116.18,196.84,68.98,6269.72,8.89,76.83,6,Chronic pain,Yes,42,7,8,3,4.43,Text,12,0,1
+ATH_003,Athlete_3,69054152042,19,Male,180,97,Japanese,Tokyo,68,3839.65,28354.89,142.17,195.68,85.57,15046.72,5.09,52.88,0,None,No,3,0,1,0,7.04,App-based,143,3,5
+ATH_004,Athlete_4,58131212886,38,Female,161,75,British,Manchester,25,1282.41,10348.34,144.59,198.14,76.90,10865.27,7.89,64.03,2,None,No,18,2,3,2,8.19,One-on-One,43,2,2
+ATH_005,Athlete_5,48380739333,56,Male,161,68,Australian,Melbourne,11,479.50,4994.07,121.38,190.49,71.01,7891.10,7.00,69.83,7,Osteoarthritis (triggered),Yes,31,5,4,2,7.96,Group Forums,18,1,0
+ATH_006,Athlete_6,84750979906,29,Male,189,65,German,Berlin,35,2351.33,19531.60,138.41,198.85,79.13,11213.40,6.56,59.48,1,None,No,12,1,2,0,1.31,App-based,67,3,4
+ATH_007,Athlete_7,14860738076,81,Female,189,70,Canadian,Vancouver,5,195.49,1906.02,103.42,198.69,62.50,4333.45,9.91,82.67,8,Frequent reinjury,Yes,56,9,7,4,5.03,Group Forums,8,0,0
+ATH_008,Athlete_8,71009500535,44,Male,160,90,Spanish,Barcelona,18,963.21,8864.89,131.76,198.14,73.38,9679.17,6.97,67.27,3,None,No,19,2,2,1,5.92,One-on-One,28,1,2
+ATH_009,Athlete_9,20883307407,76,Female,178,87,French,Lyon,9,353.51,3643.29,115.50,198.66,69.47,6162.92,8.06,73.64,5,Chronic pain,Yes,38,6,5,3,5.93,Group Forums,15,0,1
+ATH_010,Athlete_10,20178270443,33,Female,177,65,Italian,Rome,28,1874.29,16724.87,137.58,193.15,80.61,11266.01,6.20,60.10,0,None,No,14,1,3,1,5.20,Video,72,2,3
+ATH_011,Athlete_11,10752571792,21,Male,169,85,Dutch,Amsterdam,55,4044.82,35008.62,148.67,191.79,84.44,13000.51,5.58,55.51,0,None,No,5,0,1,0,1.31,Group Forums,98,3,4
+ATH_012,Athlete_12,88751119477,62,Female,165,99,Brazilian,São Paulo,13,611.62,6107.97,116.19,194.97,72.12,7512.06,8.01,75.08,4,Chronic pain,Yes,28,4,3,2,9.68,Video,22,1,1
+ATH_013,Athlete_13,27910509337,85,Male,170,58,South Korean,Seoul,4,111.43,1234.26,100.75,196.49,58.90,3682.16,10.15,79.88,9,Chronic pain,Yes,67,8,12,5,6.80,Video,6,0,0
+ATH_014,Athlete_14,13005210983,27,Male,179,82,New Zealander,Auckland,31,1876.79,14978.98,137.84,197.88,78.65,12214.26,6.49,60.56,1,None,No,9,1,1,0,5.84,Text,58,2,4
+ATH_015,Athlete_15,63996311145,49,Male,179,90,Mexican,Mexico City,15,832.38,7685.93,128.47,184.62,73.98,9786.04,7.13,67.04,3,Frequent reinjury,No,22,3,2,1,6.76,Group Forums,31,1,2
+ATH_016,Athlete_16,34279233904,73,Female,175,65,South African,Cape Town,7,250.99,2902.01,114.09,199.62,67.05,5329.32,9.97,78.22,6,Limited mobility,Yes,41,6,5,2,1.70,App-based,9,0,1
+ATH_017,Athlete_17,60380711350,25,Male,174,87,Irish,Dublin,38,2766.00,27319.45,141.31,191.33,81.42,12618.26,6.18,58.93,0,None,No,7,0,2,1,1.06,Video,92,3,5
+ATH_018,Athlete_18,88710782520,58,Female,160,92,Portuguese,Lisbon,14,672.40,5574.62,125.82,199.00,71.95,8463.38,7.91,69.10,2,Frequent reinjury,No,24,4,3,1,7.72,Text,28,1,2
+ATH_019,Athlete_19,86934893624,31,Male,175,59,Singaporean,Singapore,29,1874.58,18757.02,139.16,195.05,78.59,11150.55,6.43,60.81,1,None,No,11,1,2,0,5.33,App-based,63,2,4
+ATH_020,Athlete_20,23281969553,68,Male,192,69,Norwegian,Oslo,10,481.72,4202.60,116.08,190.35,71.73,6844.63,8.12,72.76,5,Frequent reinjury,Yes,35,5,6,2,2.76,One-on-One,11,0,1
+ATH_021,Athlete_21,36853521722,41,Male,186,73,Swiss,Zurich,22,1504.75,17719.33,132.54,196.20,75.56,10544.01,6.89,63.24,1,None,No,16,2,2,1,8.98,Text,54,2,3
+ATH_022,Athlete_22,20816297291,18,Male,170,65,Indian,Mumbai,71,5044.55,39637.02,145.61,199.55,86.06,14690.62,4.80,50.28,0,None,No,2,0,1,0,7.91,Group Forums,156,3,5
+ATH_023,Athlete_23,55946977719,79,Female,163,55,Chilean,Santiago,6,182.01,1330.66,112.60,194.07,64.33,4313.78,10.18,81.93,7,Chronic pain,Yes,48,7,6,3,1.63,One-on-One,7,0,0
+ATH_024,Athlete_24,36620220302,36,Male,166,93,Belgian,Brussels,24,1478.37,12483.62,136.50,199.24,77.29,10293.01,6.72,62.37,2,None,No,13,2,2,1,1.42,One-on-One,47,2,3
+ATH_025,Athlete_25,50941175464,52,Male,177,61,Austrian,Vienna,16,899.75,8094.38,135.83,198.13,74.40,9688.08,7.01,67.25,3,Frequent reinjury,No,25,3,4,1,7.47,One-on-One,29,2,1
+ATH_026,Athlete_26,25330784880,66,Male,182,87,Danish,Copenhagen,11,575.12,4364.14,110.08,199.74,70.29,7526.95,8.85,74.26,4,Chronic pain,No,33,5,4,2,2.93,Group Forums,18,0,2
+ATH_027,Athlete_27,47390522138,22,Male,191,66,Finnish,Helsinki,47,3500.25,32385.15,142.55,191.35,83.23,12453.91,5.69,54.78,0,None,No,6,0,1,0,4.36,Text,89,3,4
+ATH_028,Athlete_28,88658502736,45,Female,192,82,Polish,Warsaw,19,1044.56,9789.03,129.14,189.52,75.78,9133.74,6.94,67.60,2,None,No,17,2,2,1,6.29,Text,38,2,2
+ATH_029,Athlete_29,71632331712,88,Female,174,76,Czech,Prague,3,68.81,711.47,96.90,190.40,52.56,2556.65,11.08,86.75,11,Chronic pain,Yes,71,9,9,4,5.40,Text,4,0,0
+ATH_030,Athlete_30,10875211407,35,Male,175,67,Thai,Bangkok,26,1819.95,17728.06,137.87,197.77,78.81,11489.15,6.35,61.73,1,None,No,13,1,3,1,1.92,Group Forums,68,2,4
+ATH_031,Athlete_31,51799643554,60,Female,162,99,Turkish,Istanbul,12,578.50,4728.58,120.45,199.61,71.97,6921.37,8.05,74.38,6,Osteoarthritis (triggered),Yes,29,5,6,2,8.85,Video,16,0,1
+ATH_032,Athlete_32,64628453642,47,Male,164,90,Greek,Athens,17,1034.49,10105.82,131.22,191.92,74.44,9531.33,6.85,65.60,3,Chronic pain,No,20,3,3,2,3.98,Video,42,2,2
+ATH_033,Athlete_33,23738863924,75,Female,162,61,Argentine,Buenos Aires,8,263.39,2447.14,105.93,196.70,66.54,5854.16,9.19,77.93,8,Frequent reinjury,Yes,44,7,6,3,7.83,App-based,10,0,0
+ATH_034,Athlete_34,84413346398,28,Male,166,76,Malaysian,Kuala Lumpur,32,2270.11,20002.32,138.65,197.95,79.59,11435.16,6.41,62.86,1,None,No,10,1,2,1,5.63,Group Forums,71,2,4
+ATH_035,Athlete_35,73079695360,82,Female,163,60,Vietnamese,Ho Chi Minh City,4,93.82,420.45,113.23,192.65,59.73,3086.44,10.88,84.48,10,Osteoarthritis (triggered),Yes,61,8,8,4,6.90,One-on-One,5,0,0
+ATH_036,Athlete_36,24974174187,20,Female,186,57,Kenyan,Nairobi,58,3887.93,36611.64,147.28,199.79,85.15,13538.47,5.14,53.97,0,None,No,4,0,1,0,9.98,Text,124,3,5
+ATH_037,Athlete_37,53303329860,54,Female,185,74,Egyptian,Cairo,15,736.51,6201.59,128.45,199.77,72.64,8663.40,7.13,70.55,4,Chronic pain,Yes,26,4,3,2,5.25,App-based,27,1,2
+ATH_038,Athlete_38,66832148552,39,Female,170,67,Israeli,Tel Aviv,23,1907.42,18449.29,135.88,197.31,77.53,10602.92,6.90,62.70,1,None,No,15,2,3,1,2.40,Video,51,2,3
+ATH_039,Athlete_39,65921408420,70,Male,193,73,Colombian,Bogotá,9,391.40,3791.88,111.64,197.18,69.92,6407.88,8.93,76.68,6,Osteoarthritis (triggered),Yes,36,6,5,2,8.51,Group Forums,12,0,1
+ATH_040,Athlete_40,38013422984,43,Female,186,68,Filipino,Manila,20,1712.25,15649.38,135.17,199.77,78.84,11213.28,6.69,63.98,2,None,No,17,2,2,1,7.47,App-based,46,2,3
+ATH_041,Athlete_41,95757403205,61,Female,185,77,Indonesian,Jakarta,10,412.43,3293.15,119.77,199.84,70.38,6985.05,8.98,75.31,5,Osteoarthritis (triggered),Yes,31,5,4,2,3.86,App-based,14,0,1
+ATH_042,Athlete_42,66244899743,24,Male,170,97,Moroccan,Casablanca,40,3458.11,28233.96,142.28,199.31,82.95,12766.51,5.70,56.76,0,None,No,7,0,2,0,7.68,Text,95,3,4
+ATH_043,Athlete_43,72752232769,77,Female,191,91,Peruvian,Lima,6,237.54,1820.71,122.92,196.17,63.41,4773.70,10.20,81.94,7,Chronic pain,Yes,46,7,5,3,1.60,One-on-One,8,0,0
+ATH_044,Athlete_44,83958264399,55,Female,169,73,Romanian,Bucharest,14,700.65,6565.76,126.98,194.62,72.42,8831.67,7.10,70.84,5,Chronic pain,Yes,27,4,4,2,1.02,App-based,19,1,1
+ATH_045,Athlete_45,11328403590,32,Female,194,58,Nigerian,Lagos,27,2190.59,19903.53,142.69,188.26,79.63,11643.80,6.30,60.85,1,None,No,11,1,2,0,3.35,One-on-One,64,2,4
+ATH_046,Athlete_46,51861009041,26,Female,184,94,Emirati,Dubai,36,2745.87,26204.68,139.42,196.11,81.15,12674.65,6.41,61.08,0,None,No,8,1,2,1,3.61,Text,78,3,4
+ATH_047,Athlete_47,68858407875,67,Male,182,98,Qatari,Doha,10,483.09,4346.68,115.62,196.09,69.34,7562.02,8.89,75.53,4,Chronic pain,No,34,6,4,3,1.48,App-based,16,0,1
+ATH_048,Athlete_48,11962347176,50,Female,172,58,Costa Rican,San José,17,965.89,8324.40,128.70,199.68,74.81,9122.26,6.94,66.62,3,Frequent reinjury,No,21,3,3,1,2.87,Video,33,2,2
+ATH_049,Athlete_49,15286322130,37,Male,167,60,Icelandic,Reykjavik,24,1940.63,21290.02,140.40,198.36,78.40,11466.64,6.33,62.55,2,None,No,14,2,2,1,8.78,Text,52,2,3
+ATH_050,Athlete_50,36667054339,64,Male,169,74,Hong Konger,Hong Kong,12,681.11,5141.05,123.47,199.08,71.77,7975.07,8.69,73.11,4,Chronic pain,Yes,32,5,4,2,2.01,Group Forums,21,0,1

@@ -1,0 +1,6 @@
+Model,Train Time (s),Predict Time per 1000 (s),Interpretability
+Logistic Regression,0.05242209997959435,1.7229000804945827,★★★★★ Excellent
+Cosine Similarity,0.0010686999885365367,1.2181000784039497,★★★★★ Excellent
+Weighted KNN,6.8112374999327585,4.773700027726591,★★★★☆ Very Good
+Random Forest,0.24391540000215173,64.06030000653118,★★★★☆ Very Good
+Neural Network,3.7354422999778762,242.52080009318888,★★☆☆☆ Limited
